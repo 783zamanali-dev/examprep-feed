@@ -1,0 +1,887 @@
+{
+ "date": "2026-11-10",
+ "time": "23:24",
+ "summary": {
+  "national": [
+   {
+    "headline": "Petrol and diesel prices cut again",
+    "line": "Petrol was cut by Rs8 to Rs338 a litre and diesel by Rs7 to Rs371, easing costs for consumers and transport.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043557/govt-slashes-petrol-price-by-rs8-per-litre-high-speed-diesel-by-rs7-in-another-reduction"
+   },
+   {
+    "headline": "PM Shehbaz in Antalya for COP31",
+    "line": "The prime minister reached Turkiye for the COP31 Leaders' Summit, where he will press for climate finance and highlight Pakistan's solar push.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043486/pm-shehbaz-arrives-in-turkiye-to-address-cop31-tomorrow"
+   },
+   {
+    "headline": "Senate panel says Centre broke devolution rules",
+    "line": "A Senate panel head says the Centre spent over Rs5 trillion on devolved subjects, breaching the 18th Amendment and adding to borrowing.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043521/centre-spent-rs5tr-on-devolved-subjects-in-violation-of-constitution-senate-panel-head-says"
+   },
+   {
+    "headline": "Natalie Baker named US envoy to Pakistan",
+    "line": "Trump nominated Natalie Baker, the current charge d'affaires in Islamabad, as US ambassador; the Senate must now confirm her.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043495/trump-nominates-natalie-baker-for-us-ambassador-to-pakistan"
+   },
+   {
+    "headline": "Dome placed at Chashma-5 nuclear plant",
+    "line": "PM Shehbaz led the dome placement ceremony at Chashma-5, saying it will provide clean, reliable power and boost energy security.",
+    "source": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2639621/pm-shehbaz-performs-dome-placement-ceremony-at-chashma-nuclear-plant"
+   },
+   {
+    "headline": "Wapda says Tarbela Dam is safe",
+    "line": "Wapda said a rock collapse at the Tarbela fifth extension site poses no threat to the dam or its key structures.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043528/wapda-says-no-threat-to-tarbela-dams-integrity-critical-structures-after-rock-collapse-at-project-site"
+   },
+   {
+    "headline": "Dar says Makkah pact targets no one",
+    "line": "Ishaq Dar called the defence pact with Saudi Arabia and Turkiye defensive and vowed to protect Pakistan's rights under the Indus Waters Treaty.",
+    "source": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2639562/dar-vows-to-safeguard-pakistans-water-rights-under-iwt-oppose-attempts-to-weaponise-water"
+   },
+   {
+    "headline": "KP lawyers to boycott courts",
+    "line": "Lawyers in KP will boycott courts to protest an FCC verdict suspending the Peshawar High Court's powers.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043478/lawyers-to-boycott-courts-in-kp-today-against-fcc-verdict-suspending-phcs-powers"
+   }
+  ],
+  "international": [
+   {
+    "headline": "Republicans suffer big midterm loss",
+    "line": "Trump's Republican Party suffered a landslide defeat in the US midterm elections, with possible effects on US policy abroad.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043489/trumps-republican-party-has-suffered-a-landslide-defeat-in-the-us-midterms-what-does-this-mean-for-the-world"
+   },
+   {
+    "headline": "Israel's new parliament sworn in without government",
+    "line": "Israel's lawmakers took oath after a deadlocked October 27 vote, as Gadi Eisenkot tries to form a government without Netanyahu.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043517/israels-parliament-sworn-in-as-eisenkot-tries-to-forge-a-government"
+   },
+   {
+    "headline": "Hegseth faces impeachment vote",
+    "line": "A Republican lawmaker filed impeachment articles against Defence Secretary Hegseth, including waging war on Iran without congressional approval.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043446/hegseth-likely-to-face-impeachment-vote-this-week"
+   },
+   {
+    "headline": "Trump sees progress on ending Iran war",
+    "line": "After meeting Qatar's prime minister, Trump said there was momentum toward ending the Iran war but did not rule out new strikes.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043491/trump-sees-positive-momentum-on-iran-after-qatar-pm-talks"
+   },
+   {
+    "headline": "G7 ministers meet in Paris",
+    "line": "G7 foreign ministers met in Paris, where Europeans pressed the US on a fair Ukraine settlement and avoiding escalation with Iran.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043423/g7-presses-rubio-on-iran-ukraine-at-paris-talks"
+   },
+   {
+    "headline": "Russia-Ukraine talks resume in Abu Dhabi",
+    "line": "A new US-brokered round of Russia-Ukraine peace talks began in Abu Dhabi, with Washington saying it has ideas to close gaps.",
+    "source": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2639589/new-round-of-us-brokered-russia-ukraine-peace-talks-starts-in-abu-dhabi"
+   },
+   {
+    "headline": "Bangladesh prosecutor warns Hasina",
+    "line": "The prosecutor who won Sheikh Hasina's death sentence said she will be executed if she returns to Bangladesh as she plans.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043510/bangladesh-prosecutor-says-ex-pm-sheikh-hasina-will-be-executed-if-she-returns"
+   },
+   {
+    "headline": "Germany may get first woman president",
+    "line": "Chancellor Merz nominated Ilse Aigner to succeed President Steinmeier, putting Germany on course for its first female head of state.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043450/germany-set-to-get-its-first-woman-president"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043439/missing-discussion",
+   "title": "Missing discussion",
+   "author": "Naseer Memon",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Economy",
+    "Governance"
+   ],
+   "score": 9,
+   "priority": "must_read",
+   "why": "It gives fresh poverty, hunger and human development figures that are useful for essays on the economy and governance.",
+   "summary": "The writer argues that official claims of economic stability hide a deep crisis of poverty and human development. He cites World Bank, UNDP, Global Hunger Index and mental health data, which all show Pakistan falling behind its neighbours. He blames decades of poor policy and bad governance, a weakened farm sector and high energy costs. He says the media ignores these issues and focuses on topics like new provinces.",
+   "key_facts": [
+    "The World Bank says Pakistan's national poverty rate rose from 22pc in 2018-19 to 29pc in 2024-25, about 70 million people.",
+    "Pakistan's Gini index rose from 28.4 to 32.7, the highest level in 25 years.",
+    "The UNDP's 2025 Global Multidimensional Poverty Index found 38.3pc of Pakistanis (95 million people) multidimensionally poor, against 16.4pc in India and 14.9pc in Bangladesh.",
+    "The 2026 Global Hunger Index ranked Pakistan 106th out of 122 countries, with the highest hunger score in South Asia.",
+    "The UNDP Human Development Report 2025 ranked Pakistan 168th out of 193 countries, in the 'low' human development category.",
+    "A national mental health survey (2018-22) published in the British Medical Journal found that one in three Pakistanis has a diagnosable mental or behavioural disorder."
+   ],
+   "vocab": [
+    {
+     "word": "multidimensional",
+     "meaning": "having many sides or aspects, not only one"
+    },
+    {
+     "word": "exorbitant",
+     "meaning": "far too high in price"
+    },
+    {
+     "word": "discourse",
+     "meaning": "public talk and debate on a subject"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043438/restructuring-plans",
+   "title": "Restructuring plans",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Pakistan Affairs",
+    "Governance"
+   ],
+   "score": 9,
+   "priority": "must_read",
+   "why": "The debate on new provinces, constitutional amendments and local government is a core Pakistan Affairs and governance topic.",
+   "summary": "The editorial notes that talk of new provinces is growing again, even though the PPP opposes it. Defence Minister Khawaja Asif said Pakistan could have up to 12 new provinces if the matter were decided on administrative grounds. There is talk of a 28th constitutional amendment for this. The paper says such a big change needs consensus and should wait until after the next election, and that empowered local governments are a better answer for now.",
+   "key_facts": [
+    "Defence Minister Khawaja Asif said Pakistan could have as many as 12 new provinces if the exercise were driven by administrative needs.",
+    "There is speculation that administrative restructuring may be done through a 28th amendment to the Constitution.",
+    "The PPP, a key coalition partner, opposes the push for new provinces.",
+    "The editorial argues that empowered local governments can reduce pressure on administrative centres without redrawing provincial boundaries."
+   ],
+   "vocab": [
+    {
+     "word": "consensus",
+     "meaning": "general agreement among all or most groups"
+    },
+    {
+     "word": "efficacy",
+     "meaning": "the ability to produce the desired result"
+    },
+    {
+     "word": "interim",
+     "meaning": "the period in between; temporary"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043440/economic-ills",
+   "title": "Economic ills",
+   "author": "Dr Niaz Murtaza",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Economy",
+    "Governance"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "It offers comparative economic indicators useful for essays on Pakistan's economy and structural problems.",
+   "summary": "The writer says Pakistan's economic stabilisation is oversold and key indicators remain weak. Per capita growth has been near zero since 2024, investment is low, exports are a small share of GDP and tax revenue is among South Asia's lowest. High debt servicing leaves little for development, creating a vicious circle. He blames self-serving rulers and argues that only democracy and civilian control can bring better policies.",
+   "key_facts": [
+    "Pakistan's per capita GDP growth has been near zero since 2024, the slowest in South Asia.",
+    "Pakistan's extreme poverty rate is about 23pc, roughly ten times India's.",
+    "Consumption makes up about 82pc of Pakistan's GDP and investment only about 14pc.",
+    "Exports fell from a peak of 17pc of GDP in 1992 to about a tenth of GDP now.",
+    "Harvard's Economic Complexity Index ranks Pakistan 89th among 145 countries.",
+    "Pakistan's public debt-to-GDP ratio is about 73pc and tax revenue is about 11pc of GDP."
+   ],
+   "vocab": [
+    {
+     "word": "kleptocrat",
+     "meaning": "a ruler who uses power to steal the country's wealth"
+    },
+    {
+     "word": "odious",
+     "meaning": "very unpleasant and unfair"
+    },
+    {
+     "word": "rapacious",
+     "meaning": "greedy and grabbing"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043442/served-by-the-court",
+   "title": "Served by the court",
+   "author": "Arifa Noor",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Governance",
+    "Pakistan Affairs"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "It shows how the new FCC is shaping fundamental rights, women's rights and electoral disputes, a key topic in constitutional affairs.",
+   "summary": "The writer reviews three recent judgements of the new Federal Constitutional Court (FCC). It dismissed the JUI-F's appeal over a reserved seat, so Sadaf Ihsan remains an MNA though the party says she was never on its list. It stopped the Peshawar High Court from hearing cases under Article 199 because the army was called in aid of civil power in KP. It also gave a narrow meaning to workplace harassment, limiting it to sexual conduct.",
+   "key_facts": [
+    "The FCC dismissed the JUI-F's appeal against the ECP's decision to give a reserved seat to Sadaf Ihsan, who the party says was not on its list.",
+    "The FCC barred the Peshawar High Court from hearing such matters under Article 199 because the army had been called in aid of civil power in KP.",
+    "The KP government challenged more than 60 bail orders in the FCC.",
+    "The FCC ruled that workplace harassment is limited to acts of an overtly sexual nature, departing from earlier wider interpretations.",
+    "Justice Ayesha Malik had earlier held that harassment law aims to address gender-based discrimination at the workplace."
+   ],
+   "vocab": [
+    {
+     "word": "appellate",
+     "meaning": "relating to a court that hears appeals"
+    },
+    {
+     "word": "precedent",
+     "meaning": "an earlier court decision used as a guide for later cases"
+    },
+    {
+     "word": "reprieve",
+     "meaning": "temporary relief from a decision or punishment"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043521/centre-spent-rs5tr-on-devolved-subjects-in-violation-of-constitution-senate-panel-head-says",
+   "title": "Centre spent Rs5tr on devolved subjects in violation of Constitution, Senate panel head says",
+   "author": "Iftikhar A. Khan",
+   "section": "Front page",
+   "tags": [
+    "Governance",
+    "Pakistan Affairs"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "It raises key issues of the 18th Amendment, devolution, federal finances and provincial quotas in federal jobs.",
+   "summary": "A Senate sub-committee head, Senator Zamir Hussain Ghumro, said the federal government spent over Rs5 trillion on devolved provincial subjects and CCI matters, citing the Auditor General's report. He called this a breach of the 18th Amendment and Articles 97 and 154. The panel also pressed for filling the provincial quota of federal jobs for Sindh and Balochistan under Article 38(g). A separate Senate panel was briefed on a silver swapping case in which 214kg of about 400kg of silver was recovered.",
+   "key_facts": [
+    "Senator Zamir Hussain Ghumro said the federal government spent over Rs5 trillion (more than $18 billion) on devolved subjects and CCI matters.",
+    "He said federal expenditure is about Rs19 trillion against total tax and non-tax revenue of Rs20 trillion.",
+    "Article 154 of the Constitution deals with the functions and rules of procedure of the Council of Common Interests.",
+    "Summaries to abolish 24 federal ministries and institutions have been sent to the prime minister.",
+    "The Establishment Division said 5,000 jobs for Balochistan were advertised under Article 38(g); the committee found a shortfall of over 30,000 jobs for Balochistan and over 80,000 for Sindh.",
+    "In the silver swapping case, about 400kg of silver was replaced with lead bars and 214kg has been recovered."
+   ],
+   "vocab": [
+    {
+     "word": "devolved",
+     "meaning": "transferred from the central government to a lower level"
+    },
+    {
+     "word": "remuneration",
+     "meaning": "payment for work"
+    },
+    {
+     "word": "modus operandi",
+     "meaning": "a particular way of doing something"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043437/extreme-heat",
+   "title": "Extreme heat",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Environment",
+    "Economy"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "It links climate change to food security and rural poverty, a common essay and environment topic.",
+   "summary": "The editorial discusses a new UN report, Extreme Heat and Agriculture, by the FAO and the WMO. It shows that heat is cutting farm productivity in Pakistan, especially in rain-fed areas of Punjab, where fruit output has halved. Heat stress lowers milk production and harms rural women. The paper urges climate adaptation in farm policy, including heat-resistant crops, better water use and cold storage, and cooperation with India.",
+   "key_facts": [
+    "The report 'Extreme Heat and Agriculture' was produced by the Food and Agriculture Organisation and the World Meteorological Organisation.",
+    "Fruit productivity in Punjab's high-rainfall areas has halved because of heat.",
+    "Heat stress is reducing milk production and increasing disease among small ruminants.",
+    "Agriculture sustains about two-thirds of Pakistan's population."
+   ],
+   "vocab": [
+    {
+     "word": "ruminant",
+     "meaning": "an animal like a goat or sheep that chews its food again"
+    },
+    {
+     "word": "perishables",
+     "meaning": "foods that spoil quickly"
+    },
+    {
+     "word": "smallholder",
+     "meaning": "a farmer who owns or works a small piece of land"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043436/israel-power-struggle",
+   "title": "Israel power struggle",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "International Relations"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "It explains the political situation in Israel and its effect on the Palestine issue.",
+   "summary": "Israel's October election left no party with a majority to form a government. The president asked former army chief Gadi Eisenkot to form a government, while caretaker PM Benjamin Netanyahu will try to block him. Parties of Palestinian citizens of Israel may become kingmakers. The editorial argues that Palestinians should expect little change, as Eisenkot also rejects a Palestinian state.",
+   "key_facts": [
+    "Israel's October 2026 election produced no party with enough seats to form a government.",
+    "Israel's president asked former military chief Gadi Eisenkot to form the government.",
+    "Benjamin Netanyahu is serving as caretaker prime minister.",
+    "Eisenkot has publicly said \"no Palestinian state will be created\"."
+   ],
+   "vocab": [
+    {
+     "word": "kingmaker",
+     "meaning": "a person or group that decides who gets power"
+    },
+    {
+     "word": "veiled",
+     "meaning": "hidden or not openly stated"
+    }
+   ]
+  },
+  {
+   "source": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2639562/dar-vows-to-safeguard-pakistans-water-rights-under-iwt-oppose-attempts-to-weaponise-water",
+   "title": "Makkah pact not directed against any country, reflects our partnership with Saudi Arabia and Turkiye: Dar",
+   "author": "Naeem Asghar",
+   "section": "National",
+   "tags": [
+    "Foreign Policy",
+    "International Relations"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "It sums up Pakistan's current foreign policy positions and recent diplomatic milestones.",
+   "summary": "Deputy PM and Foreign Minister Ishaq Dar opened Margalla Dialogue 2026 in Islamabad. He said the Makkah Joint Defence Agreement with Saudi Arabia and Turkiye is defensive and aimed at no country. He vowed to protect Pakistan's rights under the Indus Waters Treaty and listed Pakistan's diplomatic work at the UN Security Council, its role in US-Iran talks and a joint peace initiative with China.",
+   "key_facts": [
+    "The Makkah Joint Defence Agreement is between Pakistan, Saudi Arabia and Turkiye.",
+    "The theme of Margalla Dialogue 2026 was 'Changing Global Order — How to Navigate Strategic Uncertainty'.",
+    "During Pakistan's UNSC presidency in July 2025, the Council unanimously adopted Pakistan-initiated Resolution 2788 on peaceful settlement of disputes.",
+    "Pakistan hosted US-Iran talks in Islamabad in April 2026, followed by the Islamabad MoU signed on June 18.",
+    "Pakistan and China issued a five-point initiative in Beijing on March 31, 2026, for peace in the Gulf and Middle East.",
+    "Dar referred to Operation Bunyanun-Marsoos as Pakistan's response to India in May 2025."
+   ],
+   "vocab": [
+    {
+     "word": "deterrence",
+     "meaning": "preventing attack by showing strength"
+    },
+    {
+     "word": "asymmetry",
+     "meaning": "imbalance between two sides"
+    },
+    {
+     "word": "multipolar",
+     "meaning": "having several major centres of power"
+    }
+   ]
+  },
+  {
+   "source": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2639481/three-tests-pakistans-social-protection-system-must-pass",
+   "title": "Three tests Pakistan's social protection system must pass",
+   "author": "Dr Asghar Zaidi",
+   "section": "Opinion",
+   "tags": [
+    "Governance",
+    "Economy"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "It provides data on pensions, ageing and social protection useful for essays on welfare and fiscal policy.",
+   "summary": "Writing from an ESCAP meeting on ageing in Bangkok, the writer proposes three tests for Pakistan's social protection system: fiscal responsibility, social adequacy and intergenerational fairness. He says Pakistan spends heavily on pensions for a few government employees while most older people get nothing. He suggests a universal tax-funded basic pension, a Senior Citizens Act and EOBI reform.",
+   "key_facts": [
+    "The Madrid International Plan of Action on Ageing was signed in 2002 by 159 governments, including Pakistan.",
+    "Pakistan's federal pension bill this year is Rs1.055 trillion and has been growing by 20 to 30pc a year.",
+    "Since July 2024, new federal employees pay 10pc of salary into a pension fund and the state adds 12pc.",
+    "EOBI pays old-age pensions to about 323,000 people, with a minimum pension of Rs11,500 a month.",
+    "HelpAge International estimates only 3 million of Pakistan's 15 million older people receive any pension.",
+    "Asia and the Pacific has 748 million people aged 60 and over, expected to reach 1.33 billion by 2050."
+   ],
+   "vocab": [
+    {
+     "word": "geriatric",
+     "meaning": "relating to old people and their health care"
+    },
+    {
+     "word": "intergenerational",
+     "meaning": "involving different generations"
+    },
+    {
+     "word": "adequacy",
+     "meaning": "being enough for the need"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043509/lahores-pm25-level-eight-times-who-guideline-report-says",
+   "title": "Lahore’s PM2.5 level eight times WHO guideline, report says",
+   "author": "Imran Gabol",
+   "section": "Front page",
+   "tags": [
+    "Environment"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Smog, crop burning and transboundary pollution are recurring environment topics for Pakistan.",
+   "summary": "A Pakistan Air Quality Initiative report found 16,714 likely crop-residue fires in Punjab between October 1 and November 9. Lahore's average PM2.5 level was 126 micrograms per cubic metre, eight times the WHO guideline. The report said evidence did not support blaming Lahore's post-Diwali pollution on Indian fireworks, as inland cities saw bigger rises. Punjab's environment department reported a sharp AQI improvement after anti-smog operations.",
+   "key_facts": [
+    "PAQI detected 16,714 likely crop-residue fires in Punjab between Oct 1 and Nov 9, 2026.",
+    "Lahore's average PM2.5 concentration was 126 micrograms per cubic metre, eight times the WHO guideline and 11pc lower than in 2025.",
+    "Sheikhupura recorded the most fires (2,559), followed by Jhang, Okara, Hafizabad and Gujranwala.",
+    "The report found the evidence did not support blaming Lahore's post-Diwali pollution on Indian fireworks.",
+    "Lahore's average AQI fell from 489 to 232 on one day, with improvement at all 11 monitoring stations."
+   ],
+   "vocab": [
+    {
+     "word": "particulate",
+     "meaning": "made of very small separate particles"
+    },
+    {
+     "word": "dispersion",
+     "meaning": "spreading out over a wide area"
+    },
+    {
+     "word": "trajectory",
+     "meaning": "the path that something follows through the air"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043486/pm-shehbaz-arrives-in-turkiye-to-address-cop31-tomorrow",
+   "title": "PM Shehbaz arrives in Turkiye, to address COP31 tomorrow",
+   "author": "News Desk, AFP",
+   "section": "Front page",
+   "tags": [
+    "Environment",
+    "International Relations"
+   ],
+   "score": 6,
+   "priority": "skim",
+   "why": "COP31 and climate finance are central current affairs topics for Pakistan, a climate-vulnerable country.",
+   "summary": "PM Shehbaz Sharif reached Antalya, Turkiye, for the COP31 Leaders' Summit under the UNFCCC. He will highlight Pakistan's solarisation and call for predictable climate finance for developing countries. At the summit, UN chief Guterres urged a move away from fossil fuels, while Turkiye celebrated new oil finds. Talks began with disputes over climate finance on the agenda.",
+   "key_facts": [
+    "COP31 to the UNFCCC is being held in Antalya, Turkiye, in November 2026.",
+    "Pakistan set up a Pakistan Pavilion at COP31 to host 54 events.",
+    "The COP31 presidency held a clean energy dialogue titled '35 by 35: Powering the Future'.",
+    "President Erdogan announced two oil fields potentially holding 135 million barrels of crude.",
+    "Nations first agreed in 2023 to transition away from fossil fuels; COP30 was held in Brazil.",
+    "The EU's climate monitor said 2026 will most likely be the second-hottest year on record."
+   ],
+   "vocab": [
+    {
+     "word": "electrification",
+     "meaning": "switching energy use to electricity"
+    },
+    {
+     "word": "adaptation",
+     "meaning": "changing to cope with new conditions such as climate change"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043495/trump-nominates-natalie-baker-for-us-ambassador-to-pakistan",
+   "title": "Trump nominates Natalie Baker for US ambassador to Pakistan",
+   "author": "News Desk",
+   "section": "Front page",
+   "tags": [
+    "Foreign Policy"
+   ],
+   "score": 6,
+   "priority": "skim",
+   "why": "It concerns a key diplomatic appointment in Pakistan-US relations.",
+   "summary": "US President Donald Trump nominated Natalie Baker as the US ambassador to Pakistan. She has been charge d'affaires at the US embassy in Islamabad since January 2025. The Senate foreign relations committee will review the nomination before a full Senate vote. She earlier served in Doha, Libya, Dubai and Kuwait.",
+   "key_facts": [
+    "Natalie Baker was nominated by President Trump as US ambassador to Pakistan in November 2026.",
+    "She became charge d'affaires in Islamabad in January 2025, after ambassador Donald Armin Blome left.",
+    "She arrived in Islamabad as deputy chief of mission in August 2024.",
+    "She was deputy chief of mission at the US embassy in Doha from August 2021 to July 2024."
+   ],
+   "vocab": [
+    {
+     "word": "charge d'affaires",
+     "meaning": "a diplomat who heads an embassy when there is no ambassador"
+    }
+   ]
+  },
+  {
+   "source": "Foreign Affairs",
+   "url": "https://www.foreignaffairs.com/china/chinas-ai-diplomacy-working",
+   "title": "China’s AI Diplomacy Is Working",
+   "author": "Daniel Remler",
+   "section": "Analysis",
+   "tags": [
+    "Science and Technology",
+    "International Relations"
+   ],
+   "score": 6,
+   "priority": "skim",
+   "why": "It touches on great-power competition in technology, relevant to international relations.",
+   "summary": "From the published summary: The analysis argues that China's diplomacy on artificial intelligence is succeeding. It suggests the United States should learn from it.",
+   "key_facts": [
+    "Foreign Affairs published an analysis titled 'China's AI Diplomacy Is Working'."
+   ],
+   "vocab": []
+  },
+  {
+   "source": "Foreign Affairs",
+   "url": "https://www.foreignaffairs.com/united-states/luxury-children",
+   "title": "The Luxury of Children",
+   "author": "Jesús Fernández-Villaverde",
+   "section": "Analysis",
+   "tags": [
+    "International Relations"
+   ],
+   "score": 6,
+   "priority": "skim",
+   "why": "Demographic change is a useful theme for essays on society and economy.",
+   "summary": "From the published summary: The piece looks at falling birth rates around the world. It argues that the baby bust is making the world more unequal.",
+   "key_facts": [
+    "Foreign Affairs published an analysis titled 'The Luxury of Children'."
+   ],
+   "vocab": []
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "In November 2026, in which Turkish city was the 31st Conference of the Parties (COP31) to the UNFCCC held?",
+   "options": [
+    "Antalya",
+    "Istanbul",
+    "Ankara",
+    "Izmir"
+   ],
+   "answer": "A",
+   "explanation": "COP31 was held in Antalya, Turkiye, where PM Shehbaz Sharif attended the Leaders' Summit. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Environment"
+  },
+  {
+   "q": "In November 2026, whom did US President Donald Trump nominate as the US ambassador to Pakistan?",
+   "options": [
+    "Donald Armin Blome",
+    "Natalie Baker",
+    "Elizabeth Horst",
+    "Paul Jones"
+   ],
+   "answer": "B",
+   "explanation": "Trump nominated Natalie Baker, who had been charge d'affaires in Islamabad since January 2025. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Appointments and Awards"
+  },
+  {
+   "q": "The Makkah Joint Defence Agreement links Pakistan with which two countries?",
+   "options": [
+    "Saudi Arabia and Qatar",
+    "Turkiye and Azerbaijan",
+    "Saudi Arabia and Turkiye",
+    "UAE and Turkiye"
+   ],
+   "answer": "C",
+   "explanation": "The Makkah Joint Defence Agreement is a defence pact between Pakistan, Saudi Arabia and Turkiye; Ishaq Dar called it defensive. (The Express Tribune)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "Which UN Security Council resolution on strengthening mechanisms for the peaceful settlement of disputes was adopted during Pakistan's presidency in July 2025?",
+   "options": [
+    "Resolution 2728",
+    "Resolution 2775",
+    "Resolution 2799",
+    "Resolution 2788"
+   ],
+   "answer": "D",
+   "explanation": "Pakistan-initiated Resolution 2788 was adopted unanimously in July 2025 during Pakistan's UNSC presidency. (The Express Tribune)",
+   "difficulty": "Hard",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "On which date was the Islamabad memorandum of understanding signed after Pakistan hosted US-Iran talks in 2026?",
+   "options": [
+    "June 18, 2026",
+    "March 31, 2026",
+    "April 18, 2026",
+    "November 5, 2026"
+   ],
+   "answer": "A",
+   "explanation": "After US-Iran talks in Islamabad in April 2026, the Islamabad MoU was signed on June 18, 2026. (The Express Tribune)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "Where did Pakistan and China jointly issue a five-point initiative for peace in the Gulf and Middle East on March 31, 2026?",
+   "options": [
+    "Islamabad",
+    "Beijing",
+    "Shanghai",
+    "Riyadh"
+   ],
+   "answer": "B",
+   "explanation": "Pakistan and China issued the five-point initiative in Beijing on March 31, 2026. (The Express Tribune)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "What was the theme of the Margalla Dialogue 2026 held in Islamabad?",
+   "options": [
+    "Peace Through Connectivity",
+    "Pakistan in a Multipolar World",
+    "Changing Global Order — How to Navigate Strategic Uncertainty",
+    "Security, Economy and Climate"
+   ],
+   "answer": "C",
+   "explanation": "Margalla Dialogue 2026 was themed 'Changing Global Order — How to Navigate Strategic Uncertainty' and opened by Ishaq Dar. (The Express Tribune)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "Operation Bunyanun-Marsoos was Pakistan's military response to India in which month and year?",
+   "options": [
+    "February 2019",
+    "August 2024",
+    "March 2026",
+    "May 2025"
+   ],
+   "answer": "D",
+   "explanation": "Ishaq Dar described Operation Bunyanun-Marsoos as Pakistan's response to Indian aggression in May 2025. (The Express Tribune)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "According to the World Bank's Pakistan Poverty and Equity brief, what was Pakistan's national poverty rate in 2024-25?",
+   "options": [
+    "29pc",
+    "22pc",
+    "38.3pc",
+    "23pc"
+   ],
+   "answer": "A",
+   "explanation": "The World Bank says poverty rose from 22pc in 2018-19 to 29pc in 2024-25, about 70 million people. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "What was Pakistan's rank in the 2026 Global Hunger Index?",
+   "options": [
+    "99th of 127",
+    "106th of 122",
+    "102nd of 125",
+    "168th of 193"
+   ],
+   "answer": "B",
+   "explanation": "The 2026 Global Hunger Index placed Pakistan 106th of 122 countries, with the highest hunger score in South Asia. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Where was Pakistan ranked in the UNDP Human Development Report 2025?",
+   "options": [
+    "154th of 191",
+    "161st of 189",
+    "168th of 193",
+    "172nd of 193"
+   ],
+   "answer": "C",
+   "explanation": "The UNDP HDR 2025 ranked Pakistan 168th of 193 countries, in the 'low' human development category. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "According to the UNDP's 2025 Global Multidimensional Poverty Index, what share of Pakistan's population is multidimensionally poor?",
+   "options": [
+    "16.4pc",
+    "29pc",
+    "14.9pc",
+    "38.3pc"
+   ],
+   "answer": "D",
+   "explanation": "The 2025 Global MPI found 38.3pc of Pakistanis (95 million) multidimensionally poor, against 16.4pc in India. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Which Article of the Constitution of Pakistan deals with the functions and rules of procedure of the Council of Common Interests?",
+   "options": [
+    "Article 154",
+    "Article 142",
+    "Article 159",
+    "Article 199"
+   ],
+   "answer": "A",
+   "explanation": "Article 154 covers the CCI's functions; a Senate panel said the Centre breached it by spending over Rs5 trillion on devolved subjects. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Which Article of the Constitution was cited by a Senate panel in 2026 to demand provinces' fair share in federal jobs?",
+   "options": [
+    "Article 25",
+    "Article 38(g)",
+    "Article 97",
+    "Article 140A"
+   ],
+   "answer": "B",
+   "explanation": "The panel cited Article 38(g) and found shortfalls of over 30,000 jobs for Balochistan and over 80,000 for Sindh. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "In November 2026, a Senate sub-committee head said the federal government had spent more than how much on devolved provincial subjects and CCI matters?",
+   "options": [
+    "Rs2.6 trillion",
+    "Rs19 trillion",
+    "Rs5 trillion",
+    "Rs1.055 trillion"
+   ],
+   "answer": "C",
+   "explanation": "Senator Zamir Hussain Ghumro, citing the Auditor General, put the spending above Rs5 trillion, over $18 billion. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "According to a Pakistan Air Quality Initiative report in November 2026, which Punjab district recorded the highest number of crop-residue fires between October 1 and November 9?",
+   "options": [
+    "Jhang",
+    "Okara",
+    "Gujranwala",
+    "Sheikhupura"
+   ],
+   "answer": "D",
+   "explanation": "Sheikhupura recorded 2,559 fires, ahead of Jhang, Okara, Hafizabad and Gujranwala. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Environment"
+  },
+  {
+   "q": "In autumn 2026, Lahore's average PM2.5 level was how many times the WHO guideline value, according to the Pakistan Air Quality Initiative?",
+   "options": [
+    "Eight times",
+    "Four times",
+    "Twelve times",
+    "Twenty times"
+   ],
+   "answer": "A",
+   "explanation": "Lahore's average PM2.5 was 126 micrograms per cubic metre, eight times the WHO guideline. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Environment"
+  },
+  {
+   "q": "Which two UN bodies produced the 2026 assessment 'Extreme Heat and Agriculture'?",
+   "options": [
+    "UNEP and UNDP",
+    "FAO and WMO",
+    "WFP and WHO",
+    "IFAD and UNFCCC"
+   ],
+   "answer": "B",
+   "explanation": "The Food and Agriculture Organisation and the World Meteorological Organisation produced the report, which found fruit output in Punjab's high-rainfall areas halved. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "In which year was the Madrid International Plan of Action on Ageing (MIPAA) signed by 159 governments, including Pakistan?",
+   "options": [
+    "1991",
+    "1999",
+    "2002",
+    "2015"
+   ],
+   "answer": "C",
+   "explanation": "MIPAA was signed in 2002; ESCAP is now preparing its Fifth Review. (The Express Tribune)",
+   "difficulty": "Medium",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "Under Pakistan's pension reform effective from July 2024, how much does the state contribute to the pension fund of new federal employees?",
+   "options": [
+    "5pc of salary",
+    "8pc of salary",
+    "10pc of salary",
+    "12pc of salary"
+   ],
+   "answer": "D",
+   "explanation": "New federal employees pay 10pc of salary and the state adds 12pc, so pensions are funded in advance. (The Express Tribune)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "What is the minimum monthly old-age pension paid by Pakistan's Employees' Old-Age Benefits Institution (EOBI), as of 2026?",
+   "options": [
+    "Rs11,500",
+    "Rs8,500",
+    "Rs15,000",
+    "Rs20,000"
+   ],
+   "answer": "A",
+   "explanation": "EOBI's minimum pension is Rs11,500 a month, paid to about 323,000 pensioners, less than a third of the minimum wage. (The Express Tribune)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Where is Pakistan ranked on Harvard's Economic Complexity Index, as cited in 2026?",
+   "options": [
+    "67th of 133",
+    "89th of 145",
+    "102nd of 145",
+    "120th of 150"
+   ],
+   "answer": "B",
+   "explanation": "Pakistan ranks 89th of 145 on Harvard's Economic Complexity Index, showing low-value exports. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "In November 2026, Turkish President Erdogan announced the discovery of two oil fields potentially containing how much crude?",
+   "options": [
+    "35 million barrels",
+    "1.3 billion barrels",
+    "135 million barrels",
+    "350 million barrels"
+   ],
+   "answer": "C",
+   "explanation": "Erdogan hailed two oil fields with a potential 135 million barrels, even as COP31 debated leaving fossil fuels. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "After Israel's October 2026 election, the Israeli president asked whom to form the government?",
+   "options": [
+    "Benjamin Netanyahu",
+    "Yair Lapid",
+    "Benny Gantz",
+    "Gadi Eisenkot"
+   ],
+   "answer": "D",
+   "explanation": "Former military chief Gadi Eisenkot was asked to form the government, while Netanyahu remained caretaker PM. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "In which country was COP30, the UN climate conference preceding COP31, held?",
+   "options": [
+    "Brazil",
+    "Azerbaijan",
+    "Egypt",
+    "UAE"
+   ],
+   "answer": "A",
+   "explanation": "COP30 was held in Brazil in 2025; fossil fuels were not named in its final agreement. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Environment"
+  }
+ ]
+}
