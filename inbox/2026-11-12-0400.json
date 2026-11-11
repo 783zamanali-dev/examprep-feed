@@ -1,0 +1,1106 @@
+{
+ "date": "2026-11-12",
+ "time": "04:00",
+ "summary": {
+  "national": [
+   {
+    "headline": "PM showcases solar boom at COP31",
+    "line": "At COP31 in Antalya, Shehbaz Sharif said Pakistan added nearly 22GW of rooftop solar in two years and sought climate finance.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043746/pm-shehbaz-highlights-pakistans-solar-revolution-by-ordinary-citizens-at-cop31"
+   },
+   {
+    "headline": "ADB approves $500m disaster financing",
+    "line": "ADB approved up to $500 million in contingent financing to give Pakistan quick budget support after disasters.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043774/asian-development-bank-approves-500m-loan-to-help-pakistan-strengthen-disaster-preparedness"
+   },
+   {
+    "headline": "Development spending crawls at 10pc",
+    "line": "PSDP spending reached only Rs103.87bn in July-October, about 10pc of the Rs1 trillion allocation, despite a budget surplus.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043633/development-spending-stalls-despite-surplus"
+   },
+   {
+    "headline": "Remittances up 14pc in four months",
+    "line": "Remittances reached $14.8bn in July-October FY27, keeping the State Bank's $45bn annual target within reach.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043625/remittances-increase-14pc-to-148bn-in-four-months"
+   },
+   {
+    "headline": "Ten police martyred in Kohat attack",
+    "line": "Ten policemen were martyred and 18 terrorists killed when a police team returning from an anti-illegal-mining operation was attacked in Kohat.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043793/10-cops-martyred-18-terrorists-killed-as-police-party-comes-under-attack-in-kps-kohat"
+   },
+   {
+    "headline": "Chashma-5 dome placed ahead of schedule",
+    "line": "The 1,200MW Chashma-5 nuclear plant near Mianwali reached a key milestone and should start generating power in September 2030.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043579/pm-shehbaz-stresses-clean-energys-importance-for-pakistan-at-chashma-5-nuclear-plant-event"
+   },
+   {
+    "headline": "KP lawyers strike over PHC powers",
+    "line": "Lawyers boycotted courts in KP against the FCC's suspension of Peshawar High Court powers under Article 199.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043592/lawyers-observe-strike-against-suspension-of-phc-powers-by-fcc"
+   },
+   {
+    "headline": "Petrol and diesel prices cut again",
+    "line": "The government cut petrol by Rs3 to Rs335 a litre and diesel by Rs7 to Rs364, easing costs for consumers.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043820/fuel-prices-slashed-once-again-high-speed-diesel-cut-by-rs7-per-litre-petrol-by-rs3"
+   }
+  ],
+  "international": [
+   {
+    "headline": "Russia, Ukraine resume talks in Abu Dhabi",
+    "line": "US-led talks brought Russia and Ukraine together for the first time in nine months, with Washington seeking a new European security framework.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043580/us-calls-for-new-europe-security-framework-as-russia-ukraine-hold-first-peace-talks-in-9-months"
+   },
+   {
+    "headline": "Iran sets terms to reopen Hormuz",
+    "line": "Iran urged the US to accept its conditions to reopen the Strait of Hormuz, while Rubio said major combat was unnecessary.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043645/iran-urges-us-to-meet-terms-for-hormuz-opening"
+   },
+   {
+    "headline": "Guterres targets fossil fuels at COP31",
+    "line": "The UN chief said fossil fuels must 'go the way of the dinosaurs' as several prominent leaders skipped the summit.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043837/world-urged-to-tackle-fossil-fuels-but-big-names-skip-cop31"
+   },
+   {
+    "headline": "Iran condemns US nuclear reward",
+    "line": "Iran called a $20 million US reward for information on its nuclear programme 'repugnant' and urged the IAEA and UNSC to condemn it.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043807/iran-slams-repugnant-20m-us-reward-for-nuclear-information"
+   },
+   {
+    "headline": "US skips UN rights review again",
+    "line": "The United States boycotted a UN review of its human rights record for a second time, an unprecedented snub.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043696/us-fails-to-show-for-un-rights-review-yet-again"
+   },
+   {
+    "headline": "Spain hit by housing general strike",
+    "line": "About four million Spanish workers joined the first general strike in 14 years over housing costs, ahead of a snap election.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043822/millions-of-spaniards-stage-first-general-strike-in-14-years-as-anger-rages-over-housing"
+   },
+   {
+    "headline": "Indian smog breaks pollution monitors",
+    "line": "Smog in India exceeded monitors' upper limit, equal to 66 times the WHO daily maximum, regulators admitted.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043757/india-pollution-monitors-overwhelmed-by-toxic-smog"
+   },
+   {
+    "headline": "Saudi coalition downs Houthi missiles",
+    "line": "The Saudi-led coalition said it intercepted Houthi missiles aimed at Saudi cities as strikes hit Yemen's capital Sanaa.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2043642/saudi-arabia-intercepts-missiles-as-strikes-hit-sanaa"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "image": "https://i.dawn.com/large/2025/12/692cf1dd9c290.jpg",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043716/hidden-cause-of-economic-imbalances",
+   "title": "Hidden cause of economic imbalances",
+   "author": "Shahid Kardar",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Economy",
+    "Pakistan Affairs"
+   ],
+   "score": 9,
+   "priority": "must_read",
+   "why": "Useful for essay and economy papers on inequality, elite capture, tax reform and the balance of payments.",
+   "summary": "Former State Bank governor Shahid Kardar argues that Pakistan's growing inequality is a hidden cause of its economic imbalances. He says the state protects favoured businesses through duties, subsidies and tax exemptions, gives away public land, and taxes salaried people more heavily than property and capital gains. This concentrates purchasing power in a small group, which pushes up demand for imports while exports stay weak. He calls for a fairer tax system, open competition and rule-based allocation of public resources.",
+   "key_facts": [
+    "Pakistan's consumption-based Gini coefficient rose from 28.4 in 2018-19 to 32.7 in 2024-25.",
+    "The writer, Shahid Kardar, is a former governor of the State Bank of Pakistan.",
+    "Household surveys tend to underrepresent the incomes and assets of the richest households.",
+    "The writer says salaried individuals pay substantial income taxes, while earnings from property and capital gains have historically enjoyed favourable treatment.",
+    "He argues that remittances have helped bridge the external gap but cannot replace export earnings for good."
+   ],
+   "vocab": [
+    {
+     "word": "disproportionately",
+     "meaning": "by a share that is too large or too small compared with something else"
+    },
+    {
+     "word": "cartel",
+     "meaning": "a group of businesses that act together to control prices or markets"
+    },
+    {
+     "word": "extractive",
+     "meaning": "taking resources or wealth for a few without giving back fair value"
+    }
+   ],
+   "text": [
+    "GROWING inequality is a serious economic and social issue. Internally, we tend to treat poverty and inequality as separate problems. They are closely connected but not identical. Poverty is about deprivation; inequality is about how income, wealth, opportunities, and economic power are dis­­tributed. An economy can grow and even red­u­­ce poverty temporarily while allowing wealth and privilege to become concentrated.",
+    "Household data underlines the problem. The consumption-based Gini coefficient increased from 28.4 in 2018 –19 to 32.7 in 2024 –25. This figure does not capture the full extent of inequality in income and wealth, be­­cause household surveys tend to underrepresent the assets and incomes of the richest households.",
+    "The distribution of income and wealth influences what people consume, what businesses produce, where investment flows, and how much a country imports. In Pakistan, a relatively small segment commands a disproportionately large share of purchasing power and assets, while much of the population struggles to meet basic needs.",
+    "A relatively small segment commands a disproportionately large share of purchasing power and assets.",
+    "The benefits of economic growth have been distributed unevenly. Expanding sectors such as banking, telecommunications, IT, energy, oil and gas require capital, technology, and specialised skills, favouring those who already possess financial resources or access to quality education. The state’s failure to provide decent education and healthcare has denied much of the population a fair opportunity to participate in these activities. Hence, economic disadvantages are passed from one generation to the next.",
+    "Equally damaging is the continued protection of selected businesses from competition through high import duties, subsidies, tax exemptions, and special regulatory concessions. Powerful business groups have resisted competition, sometimes forming cartels to influence prices and markets. Profits earned through state protection rather than efficiency reward influence instead of innovation, raise costs for consumers, and weaken competitiveness.",
+    "The tax system has reinforced these inequalities by treating similar incomes from different sources unequally. Salaried individuals face substantial income taxes, while earnings from property, capital gains, and certain commercial activities have historically enjoyed relatively favourable treatment.",
+    "The state itself has been a major contributor to wealth concentration. Valuable public land and plots have been given to officials and influential individuals, while discretionary powers over building permissions, zoning regulations, and public contracts have created opportunities for private enrichment. Rising property prices, reinforced by speculative investment and the use of real estate to park undeclared wealth, have further increased the fortunes of existing asset owners. Corruption, smuggling, tax evasion, and manipulation of import and export prices have provided additional avenues for accumulating wealth, often beyond the reach of effective taxation and accountability.",
+    "Together, these factors constitute a system in which public authority is used to transfer economic opportunities and resources to privileged groups. The consequences extend beyond unfair income distribution; they also distort how the economy allocates and uses its scarce resources.",
+    "When fortunes can be made through political connections, regulatory concessions, and protection from competition, capital and entrepreneurial talent are diverted towards securing favours rather than productive investment. It becomes more profitable to lobby for higher import duties or special exemptions than to invest in technology, improve quality, or develop export markets.",
+    "The concentration of purchasing power also shapes the structure of domestic demand and, therefore, what businesses choose to produce. Businesses often respond to this purchasing power by directing investment towards activities serving a narrow market.",
+    "Meanwhile, the limited purchasing power of the majority constrains demand for mass-consumption goods, discouraging investment in industries that could serve a broader domestic market, create jobs, and compete globally.",
+    "This distorted pattern of consumption and production also contributes to our recurring external imbalances. The concentration of disposable income generates demand for imported vehicles, electronics, luxury goods, foreign travel, and education abroad, adding to the foreign exchange needed for machinery, fuel, technology, and industrial inputs. Not all imports are undesirable. Many are essential for productivity and exports. However, our consumption and production structures generate substantial demand for foreign exchange without a corresponding capacity to earn it through competitive exports.",
+    "Remittances from overseas Pakistanis have helped bridge this gap. But however valuable these inflows, they cannot substitute indefinitely for an economy capable of financing its import requirements through its own export earnings.",
+    "Inequality is certainly not the sole cause of external deficits. Exchange rate policies, tariffs, energy costs, inflation, low productivity, and weak export competitiveness also matter. Still, the concentration of purchasing power helps explain why import demand remains substantial even when we face severe foreign exchange constraints. There is another damaging effect.",
+    "When influential groups secure tax exemptions, subsidies, and protected markets, government revenues suffer. The burden of financing an oversized, extractive state, with its extensive controls and perks and privileges, consequently falls disproportionately on salaried workers, compliant businesses, and ordinary consumers unable to escape taxation.",
+    "Public expenditure compounds the problem. Chronic underinvestment in quality education and healthcare has denied millions of children a fair start. Affluent households can purchase good private education and medical care, while poorer families depend on poor and overstretched public services. Their children’s prospects depend on family circumstances. The failure to provide equal opportunities thereby perpetuates inequality across generations.",
+    "Addressing these disparities does not mean pe­­nalising wealth creation. It means distinguishing wealth earned through enterprise, innovation, and productivity from fortunes accumulated through political connections, monopolies, and state-gra­nted privileges. This requires a fairer tax system.",
+    "Protection must give way to competition, while discretionary allocations of public land, contracts, and regulatory concessions need to be replaced by transparent, rule-based processes. Foreign aid, remittances, and favourable global developments have provided only temporary relief, enabling successive governments to shelve tough reforms, thereby sustaining an economic structure that rewards privilege over productivity.",
+    "Unless this system of privileges and unequal opportunities is dismantled, Pakistan will remain trapped in recurring internal and external imbalances, regardless of how many stabilisation programmes it negotiates with the IMF and others.",
+    "The writer is a former governor of the State Bank.",
+    "Published in Dawn, November 11th, 2026"
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/10/25131309d4fdd25.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043719/ct-battle",
+   "title": "CT battle",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Security",
+    "Pakistan Affairs"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Relevant to internal security, the TTP threat and the situation in KP's merged districts.",
+   "summary": "Dawn's editorial welcomes recent counterterrorism gains. According to ISPR, the military cleared two mosques in North Waziristan that TTP militants had used to store explosives and run torture cells. Figures from the Pakistan Institute for Conflict and Security Studies show attacks fell sharply in October. The paper urges more intelligence-based operations, border security and minimal displacement of local people.",
+   "key_facts": [
+    "ISPR said two mosques misused by the TTP in North Waziristan had been cleared.",
+    "According to PICSS, terrorist attacks in October 2026 fell by 37pc compared to September.",
+    "KP's merged districts saw 30 attacks in October 2026, compared to 34 in September.",
+    "Balochistan and KP showed particular improvement in October."
+   ],
+   "vocab": [
+    {
+     "word": "desecrated",
+     "meaning": "treated a holy place with disrespect or damaged it"
+    },
+    {
+     "word": "ilk",
+     "meaning": "type or kind (often used negatively)"
+    }
+   ],
+   "text": [
+    "IN order to stem the tide of terrorism, it is necessary to ensure that no spaces are left for violent elements to operate in the country.",
+    "Terrorists often try to blend in with the civilian population. Intelligence-based operations are meant to counter this practice. The military has recently said that two mosques being misused by TTP terrorists in North Waziristan have been cleared. As per ISPR, the terrorists had desecrated the places of worship to store explosives, while also operating torture cells inside the mosques.",
+    "In the twisted worldview of the TTP and those of their ilk, misusing mosques — as well as attacking the faithful inside places of worship — is acceptable, hence these developments do not come as a surprise. What is important is for operations against violent anti-state elements to continue so that these groups are rooted out for good.",
+    "It does seem that the state’s efforts are bearing fruit. According to figures released recently by the Pakistan Institute for Conflict and Security Studies, terrorist attacks in October fell by 37pc as compared to September. Improvements were particularly seen in Balochistan and KP — the provinces hardest hit by various strands of terrorism. Yet in KP’s merged districts, where the problem of terrorism is most acute, the gains were modest: October saw 30 attacks compared to 34 in September.",
+    "Action against terrorist groups must continue until all areas are declared clear of militancy. While the Taliban are reluctant to cooperate against terrorists who launch attacks on Pakistan from Afghan soil, the state here must do all possible to ensure violent elements have no safe spaces within our borders.",
+    "The gains made over the last month should be capitalised on, with the affected areas permanently cleared of terrorists. These counterterrorism operations must come with minimal displacement of the local people. For over two decades, tribal communities and those living in disturbed areas have faced repeated terrorist violence and displacement due to CT operations.",
+    "This time the state should ensure that after the terrorism-hit areas are cleared, the government builds on the gains so that local people can live in peace. More IBOs and securing the border against terrorist infiltrators can help bring long-term peace.",
+    "Published in Dawn, November 11th, 2026"
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043718/water-management",
+   "title": "Water management",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Environment",
+    "Governance"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Useful for questions on water scarcity, urban governance and agriculture in Pakistan.",
+   "summary": "The editorial agrees with the Sindh chief minister that saving water through better canal management and lining matters as much as new infrastructure. It adds that Karachi's old distribution pipes waste much water through leaks and careless development work. It calls for mapping the network, replacing bad pipes, metering, conservation pricing and efficient irrigation. Many Karachi neighbourhoods get no piped water and depend on tankers.",
+   "key_facts": [
+    "The Sindh chief minister said saving water through canal management and lining works is as important as building new water infrastructure.",
+    "Many Karachi neighbourhoods receive no piped water and rely on the so-called tanker mafia.",
+    "The editorial proposes metering, conservation-based pricing and incentives for farmers to move away from flood irrigation."
+   ],
+   "vocab": [
+    {
+     "word": "conduit",
+     "meaning": "a channel or pipe that carries water"
+    }
+   ],
+   "text": [
+    "THE Sindh chief minister, while reflecting on Karachi’s water woes, recently observed that water supply is only part of the problem. “Saving water through better canal management and lining works is as important as developing new water infrastructure,” he remarked at a meeting held to review measures for improving Karachi’s water supply. Those are wise words. But while the chief minister was referring to the canals and conduits that bring water to Karachi, the authorities must pay equal attention to what happens to it once it reaches the city. After all, the city’s ageing distribution network is a major source of wastage. Old lines frequently rupture, either from lack of upkeep or during poorly planned development work, leaking water for days before repairs are made. Here, too, the authorities must be vigilant. Mapping the network, replacing the worst-affected pipes and holding contractors accountable for the damage they cause would save more water than many new schemes.",
+    "Plugging water losses requires public education and participation alongside the planned technical interventions to line canals and feeders. That means awareness campaigns, metering, and pricing that reward conservation, as well as incentives for farmers to switch from flood irrigation to more efficient methods. Water can no longer be taken for granted in a country where population growth is already straining supply. Sindh’s agriculturalists have repeatedly raised the alarm about how water shortages are hurting farm output and deepening rural poverty. In Karachi, many neighbourhoods receive no piped water at all, forcing residents either to buy from the so-called tanker mafia or to queue for hours at public taps to fill containers. So while the state must ensure that the canals, feeders, and reservoirs it manages stop leaking, those with reliable access — politically connected farmers and well-off urban households alike — should agree to use it far more thoughtfully than they do now. Only then can we set out on a path to true sustainability.",
+    "Published in Dawn, November 11th, 2026"
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2025/11/220738569bdca66.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043774/asian-development-bank-approves-500m-loan-to-help-pakistan-strengthen-disaster-preparedness",
+   "title": "Asian Development Bank approves $500m loan to help Pakistan strengthen disaster preparedness",
+   "author": "Khaleeq Kiani",
+   "section": "Front page",
+   "tags": [
+    "Economy",
+    "Environment"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Links climate vulnerability, disaster finance and Pakistan's ties with multilateral lenders.",
+   "summary": "The Asian Development Bank approved contingent disaster financing of up to $500 million for Pakistan. The money will provide quick budget support after eligible disasters to limit economic and fiscal damage. It comes under the second subprogramme of the Climate and Disaster Resilience Enhancement Programme. ADB noted that disasters cost Pakistan about $2 billion a year on average.",
+   "key_facts": [
+    "In November 2026, ADB approved contingent disaster financing (CDF) of up to $500 million for Pakistan.",
+    "ADB says disasters cause Pakistan an estimated $2 billion in average annual losses.",
+    "The 2022 floods caused $14.9bn in direct damage and $15.2bn in economic losses, pushing about 9.1 million people into poverty.",
+    "The financing is part of the second subprogramme of the Climate and Disaster Resilience Enhancement Programme.",
+    "Emma Fan is ADB's Country Director for Pakistan.",
+    "In 2024, ADB approved a $500m policy-based loan for climate change and disaster resilience in Pakistan."
+   ],
+   "vocab": [
+    {
+     "word": "contingent",
+     "meaning": "depending on something happening first"
+    }
+   ],
+   "text": [
+    "ISLAMABAD: The Asian Development Bank (ADB) on Wednesday approved contingent disaster financing (CDF) facilities up to $500 million for Pakistan to withstand disasters and facilitate disaster response.",
+    "In a statement, the Manila-based lending agency said the funds will provide prompt budget support following eligible disaster events to help reduce the resulting economic and fiscal impacts.",
+    "“Floods, earthquakes, and other disasters cause Pakistan an estimated $2 billion in annual average losses,” ADB noted, further recalling, “2022 floods alone caused $14.9bn in direct damage and $15.2bn in economic losses, pushing as many as $9.1m people into poverty.”",
+    "“Poor and rural communities have less capacity to recover, while women and girls are disproportionately affected.”",
+    "The lending agency said the second subprogramme of the Climate and Disaster Resilience Enhancement Programme supported reforms aimed at strengthening disaster preparedness and risk management, as well as integrating resilience measures into Pakistan’s development planning and investment, to reduce the impact of future disasters.",
+    "“The programme also strengthens Pakistan’s disaster risk financing framework and improves the availability of financing following disaster events,” the statement added.",
+    "“When disaster strikes, it is often the most vulnerable communities that are hit hardest. Investing in preparedness can help protect lives and livelihoods, reduce economic losses, and safeguard the development gains Pakistan has worked hard to achieve,” ADB Country Director for Pakistan Emma Fan was quoted as saying.",
+    "“This programme will support the country in implementing critical reforms to ensure a more resilient future.”",
+    "It added that the programme was in accordance with “Pakistan’s priorities for managing disaster risks and with ADB’s commitment to supporting resilience initiatives across Asia and the Pacific.”",
+    "In 2024, ADB had also approved a $500m policy-based loan to support climate change and disaster risk reduction and resilience in Pakistan.",
+    "In May, a report compiled by the think tank Jinnah Institute highlighted that persistent governance failures and weak community-level systems continued to undermine Pakistan’s ability to prepare for and respond to climate disasters and called for urgent reforms to build long-term resilience across vulnerable districts.",
+    "The findings came in the wake of devastating 2025 floods, which submerged entire districts, displaced millions, and wiped out livelihoods, exposing critical gaps in preparedness despite years of policy frameworks, institutional reforms, and international commitments.",
+    "The report argued that reliance on reactive disaster management has proven insufficient in the face of intensifying climate stress."
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/06/220724559c55276.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043633/development-spending-stalls-despite-surplus",
+   "title": "Development spending stalls despite surplus",
+   "author": "Khaleeq Kiani",
+   "section": "Front page",
+   "tags": [
+    "Economy",
+    "Governance"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Shows the gap between budget allocations and actual development spending under IMF fiscal targets.",
+   "summary": "Federal development spending under the PSDP reached only Rs103.87bn in July-October 2026, about 10.4pc of the Rs1 trillion allocation. This happened even though the government posted a 0.8pc budget surplus in the first quarter. The National Highways Authority used only 5.8pc of its allocation, and six ministries spent nothing. The health division was a rare good performer at 41pc.",
+   "key_facts": [
+    "PSDP spending in July-October 2026-27 was Rs103.87bn, 10.4pc of the Rs1 trillion annual allocation.",
+    "Pakistan posted a 0.8pc budget surplus in the first quarter of 2026-27.",
+    "The NHA used only Rs13.3bn, or 5.8pc, of its Rs225bn annual allocation in four months.",
+    "The Water Resources Division led ministries, spending Rs18.7bn of its Rs103bn allocation.",
+    "The National Health Services division used 41pc of its Rs16bn allocation.",
+    "Under the finance ministry plan, 15pc of the allocation is released in the first quarter, 20pc in the second and 25pc in the third."
+   ],
+   "vocab": [
+    {
+     "word": "meagre",
+     "meaning": "very small or not enough"
+    }
+   ],
+   "text": [
+    "ISLAMABAD: The country’s Public Sector Development Programme (PSDP) spending in the first four months of the current fiscal year struggled at only 10 per cent of the annual allocation.",
+    "Total PSDP spending in the first four months (July-October) of 2026-27 amounted to Rs103.87bn — 10.4pc of the Rs1trillion allocation, according to the Ministry of Planning and Development. Actual utilisation was far lower than the Rs412.3bn authorised by the Planning Commission.",
+    "This alarming spending pattern on public-interest projects, which is affecting living standards and economic growth, has emerged despite a healthy 0.8pc budget surplus posted in the first quarter of the year.",
+    "Latest data released by the Ministry of Planning and Development showed that, excluding corporations, total PSDP expenditure by about 33 ministries and divisions amounted to a meagre Rs74.65bn in the first four months, or about 11pc of the total allocation of Rs682bn. The corporations — chiefly the power sector and the National Highways Authority — together spent Rs29bn or 9.3pc against their budget allocation of Rs313bn for the whole year.",
+    "Ministries, divisions utilise just Rs103.87bn in July-October against Rs1tr allocation",
+    "The NHA could utilise only 5.8pc or Rs13.3bn in four months against its annual allocation of Rs225bn. The power sector was able to use Rs16bn or 18pc of its Rs98bn allocation. The Planning Commission had authorised disbursement of Rs78.6bn for NHA and Rs31bn to the power sector.",
+    "Under the mechanism announced by the Ministry of Finance for the current fiscal year, the government should release 15pc of budgeted allocation in the first quarter, followed by 20pc in the second quarter, 25pc in the third quarter and the remaining in the last quarter of the fiscal year to ensure that any shortfall in revenue collection is managed through cuts in the development budget to remain with fiscal targets set with the IMF.",
+    "Under this mechanism, the Planning Commission claimed that it had authorised Rs303bn for disbursement to the federal ministries in the first four months, which accounted for more than 44pc of the annual target (Rs1tr) and was higher than allowed in the finance ministry’s instructions, but only Rs75bn or 11pc, could actually be spent on the ground.",
+    "Only eight ministries were able to cross the Rs1bn spending threshold in 4MFY27, led by the Water Resources Division, which spent Rs18.7bn, or 18pc of its Rs103bn annual allocation. This was followed by Rs6.88bn expenditure in Federal Education and Professional Training against its Rs36bn allocation, accounting for 19pc. Then came Rs6.6bn spending by National Health Services, Regulations and Coordination Division, achieving a healthy rate of 41pc against its allocated share of Rs16bn.",
+    "As such, NHSRC exceeded the utilisation target, which was even better when seen in the context of Rs9.6bn authorisation.",
+    "Next was Higher Education Commission with a funding utilisation of Rs4.7bn or 10pc of Rs46bn annual allocation. This was followed by the Ministry of Railways with Rs4.65bn utilisation, accounting for around 11pc of its Rs40.65bn allocation. The Ministry of Planning and Development itself used only Rs2.15bn, or less than 10pc, against its allocated share of Rs22.6bn.",
+    "After that, the Ministry of Information Technology used only Rs1.45bn or only 7.4pc of its Rs19.6bn allocation.",
+    "Combined spending in provinces and special areas (Azad Kashmir and GB) for development amounted to Rs23.8bn, or just 10pc of the annual allocation of Rs233bn and the Planning Commission’s authorisation of Rs59.8bn for the first four months. These special areas are provided funds by the finance division under a separate seasonal pattern.",
+    "Likewise, despite the country being at risk of climate disasters, the climate change division spent only Rs259 million in four months or only 10.4pc of its Rs2.5bn allocation. Another critical social-sector ministry — National Food Security — utilised less than 1.5pc (Rs65m) of its allocation of Rs4.2bn.",
+    "About six federal ministries could not spend even a single rupee for development in four months.",
+    "They included commerce, communication, Kashmir Affairs, Gilgit-Baltistan and states and frontier regions, petroleum, privatisation, religious affairs and interfaith harmony.",
+    "Published in Dawn, November 11th, 2026"
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2023/04/19085329f4eec05.jpg",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043717/what-money-bought",
+   "title": "What money bought",
+   "author": "Zahid Hussain",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "International Relations",
+    "Foreign Policy"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Gives background on the JCPOA, the Abraham Accords and US-Gulf-Israel ties for international relations papers.",
+   "summary": "Zahid Hussain reviews the book Princes and Thieves by journalist Matthew Cole. The book alleges that Gulf rulers transferred billions into accounts managed by Jared Kushner during Trump's first term to undo the Iran nuclear deal and reshape the Middle East. Kushner calls the allegations fabricated. The writer links this to the Abraham Accords and today's war with Iran.",
+   "key_facts": [
+    "The JCPOA was agreed on July 14, 2015, between Iran and the P5+1 and endorsed by UN Security Council Resolution 2231.",
+    "The JCPOA came into effect in January 2016 and capped Iran's uranium enrichment at 3.67 per cent.",
+    "In May 2018, President Trump withdrew the US from the JCPOA and reimposed sanctions under a 'maximum pressure' campaign.",
+    "The UAE, Bahrain, Morocco and Sudan signed the Abraham Accords.",
+    "The book Princes and Thieves is written by investigative journalist Matthew Cole."
+   ],
+   "vocab": [
+    {
+     "word": "sordid",
+     "meaning": "dishonest and morally bad"
+    },
+    {
+     "word": "machinations",
+     "meaning": "secret plans to do something harmful"
+    },
+    {
+     "word": "slush fund",
+     "meaning": "money kept secretly for improper purposes"
+    }
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/10/140645312d17fba.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043715/american-dilemma",
+   "title": "American dilemma",
+   "author": "Mahir Ali",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "International Relations",
+    "Current Affairs"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Helps candidates follow US domestic politics and its effect on the Middle East conflict.",
+   "summary": "Mahir Ali writes that Trump's Republican Party suffered heavy losses in the US midterm elections, partly because the war on Iran was unpopular. Democrats now hold large majorities in both houses of Congress. The writer asks whether they will deliver on domestic issues such as living costs and healthcare, and whether they will challenge pro-Israel lobbies. He notes Stephen Miller has become Trump's chief of staff.",
+   "key_facts": [
+    "Trump's Republican Party suffered a heavy defeat in the November 2026 US midterm elections.",
+    "AIPAC spent nearly $40 million against Abdul El-Sayed of Michigan, who still won.",
+    "Elon Musk spent nearly $500m on the midterms, focusing on Texas.",
+    "Republican Congressman Thomas Massie introduced articles of impeachment against Pete Hegseth.",
+    "Stephen Miller took over as Trump's chief of staff.",
+    "The writer refers to a $1.5 trillion US defence budget for 2027."
+   ],
+   "vocab": [
+    {
+     "word": "bête noire",
+     "meaning": "a person or thing someone strongly dislikes"
+    },
+    {
+     "word": "jingoistic",
+     "meaning": "showing aggressive, extreme patriotism that favours war"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043720/opposition-moves",
+   "title": "Opposition moves",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Pakistan Affairs",
+    "Governance"
+   ],
+   "score": 6,
+   "priority": "skim",
+   "why": "Relevant to Pakistan's current politics, provincial autonomy and opposition strategy.",
+   "summary": "The opposition alliance TTAP has hinted at a new anti-government movement and has held talks with the JUI-F. Dawn doubts that such a drive will succeed, since earlier PTI and Jamaat-i-Islami efforts failed to draw crowds. It notes growing anger over governor's rule and emergency in KP and action against JUI-F Senator Kamran Murtaza. It warns that small protests can grow if public discontent is ignored.",
+   "key_facts": [
+    "The opposition alliance TTAP has held talks with the JUI-F on parliamentary coordination.",
+    "The federal government has imposed emergency measures and governor's rule in Khyber Pakhtunkhwa.",
+    "The Balochistan government has acted against JUI-F Senator Kamran Murtaza over a citizenship claim.",
+    "The All Pakistan Lawyers Action Committee in Quetta vowed to support Senator Murtaza."
+   ],
+   "vocab": [
+    {
+     "word": "protracted",
+     "meaning": "lasting a long time"
+    }
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/10/05030440588d901.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043714/values-in-education",
+   "title": "Values in education",
+   "author": "Neda Mulji",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Governance",
+    "Current Affairs"
+   ],
+   "score": 6,
+   "priority": "skim",
+   "why": "Useful for essays on education reform, school culture and character building.",
+   "summary": "Teacher educator Neda Mulji argues that schools must build a culture where students feel valued and safe. Teachers act as role models, so their behaviour spreads among students. Harsh punishment makes students defiant and focused on avoiding being caught. Social-emotional learning in early years helps students build values and responsible citizenship.",
+   "key_facts": [
+    "The writer says students learn better when they feel valued by teachers and peers.",
+    "Research cited by the writer shows harsh punishment can make students progressively defy authority.",
+    "The writer recommends social-emotional learning embedded across the school curriculum."
+   ],
+   "vocab": [
+    {
+     "word": "microaggression",
+     "meaning": "a small, often unintended act or remark that shows disrespect"
+    },
+    {
+     "word": "imbibe",
+     "meaning": "to absorb ideas or habits"
+    },
+    {
+     "word": "ostracise",
+     "meaning": "to exclude someone from a group"
+    }
+   ]
+  },
+  {
+   "image": "https://i.tribune.com.pk/media/images/Editorial-New1131222/Editorial-New1131222.jpg",
+   "source": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2639798/margalla-dialogue-charting-tomorrow",
+   "title": "Margalla Dialogue: charting tomorrow",
+   "author": "editorial",
+   "section": "Editorial",
+   "tags": [
+    "Foreign Policy",
+    "International Relations"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Covers Pakistan's foreign policy narrative and key strategic themes in a changing world order.",
+   "summary": "The Express Tribune reviews the Margalla Dialogue, IPRI's annual international conference held in Islamabad. Speakers discussed supply chain shocks, AI in warfare, great-power rivalry and threats to strategic stability in South Asia. Deputy Prime Minister Ishaq Dar described the Makkah Joint Defence Agreement as purely defensive. India's handling of the Indus Waters Treaty was also criticised.",
+   "key_facts": [
+    "The Margalla Dialogue is the flagship international conference of the Islamabad Policy Research Institute (IPRI).",
+    "The 2026 conference was titled 'Global Order in Transition: Navigating Strategic Uncertainty'.",
+    "Deputy PM Ishaq Dar said the Makkah Joint Defence Agreement is purely defensive and does not target any country.",
+    "US political scientist John J Mearsheimer spoke at the conference."
+   ],
+   "vocab": [
+    {
+     "word": "sine qua non",
+     "meaning": "an essential condition"
+    },
+    {
+     "word": "hegemon",
+     "meaning": "a dominant power that controls others"
+    },
+    {
+     "word": "rapprochement",
+     "meaning": "restoring friendly relations"
+    }
+   ]
+  },
+  {
+   "image": "https://i.tribune.com.pk/media/images/Editorial-New1131222/Editorial-New1131222.jpg",
+   "source": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2639799/poison-in-the-air",
+   "title": "Poison in the air",
+   "author": "editorial",
+   "section": "Editorial",
+   "tags": [
+    "Environment"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Key environment topic: smog, transboundary pollution and public health in Punjab.",
+   "summary": "The Express Tribune calls Pakistan's air pollution a public health emergency. Data from the Pakistan Air Quality Initiative show Punjab's anti-smog measures have not worked, and local crop burning, not Indian Diwali fireworks, appears to be the main driver. Lahore's average PM2.5 was eight times the WHO daily guideline. The paper calls for a year-round clean-air strategy with enforceable targets.",
+   "key_facts": [
+    "Satellites detected 16,714 likely crop-residue fires in Pakistan between October 1 and November 9, 2026.",
+    "Lahore's average PM2.5 concentration was 126 micrograms per cubic metre, eight times the WHO daily guideline.",
+    "PAQI found insufficient evidence to link the deterioration to Diwali fireworks in India.",
+    "The University of Chicago's Air Quality Life Index says an average Pakistani could gain 3.3 years of life expectancy if pollution met WHO guidelines.",
+    "The Punjab Clean Air Programme is supported by $300 million in World Bank financing."
+   ],
+   "vocab": [
+    {
+     "word": "particulate",
+     "meaning": "made of very small separate particles"
+    },
+    {
+     "word": "transboundary",
+     "meaning": "crossing national borders"
+    }
+   ]
+  },
+  {
+   "source": "Foreign Affairs",
+   "url": "https://www.foreignaffairs.com/north-korea/trump-facing-very-different-north-korea",
+   "title": "Trump Is Facing a Very Different North Korea",
+   "author": "Stephen E. Biegun, Emma Chanlett-Avery",
+   "section": "Analysis",
+   "tags": [
+    "International Relations"
+   ],
+   "score": 6,
+   "priority": "skim",
+   "why": "Background on US policy towards North Korea for international relations papers.",
+   "summary": "From the published summary: Foreign Affairs writers Stephen E. Biegun and Emma Chanlett-Avery say Trump is again focused on North Korea. Trump has suggested he is in contact with Kim Jong Un. In an August 17 post on Truth Social, he announced the US would scale back joint military activity.",
+   "key_facts": [
+    "Trump has suggested he is in communication with North Korean leader Kim Jong Un.",
+    "On August 17, Trump said on Truth Social that the US would scale back joint military activity."
+   ],
+   "vocab": []
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/05/12075044db6fae0.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043625/remittances-increase-14pc-to-148bn-in-four-months",
+   "title": "Remittances increase 14pc to $14.8bn in four months",
+   "author": "Shahid Iqbal",
+   "section": "Business",
+   "tags": [
+    "Economy",
+    "Pakistan Affairs"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Remittances are Pakistan's most important source of foreign exchange.",
+   "summary": "Workers' remittances rose to $3.9 billion in October 2026, up 13.8pc from a year earlier. Total inflows in July-October FY27 reached $14.8bn, up 14pc, keeping the State Bank's $45bn annual target within reach. Saudi Arabia was the biggest source, while the UK showed the fastest growth. Inflows stayed strong despite the conflict in the Gulf.",
+   "key_facts": [
+    "Pakistan received $3.9 billion in remittances in October 2026, up 13.8pc year-on-year.",
+    "Remittances in July-October FY27 totalled $14.8bn, against $13bn a year earlier.",
+    "SBP Governor Jameel Ahmad set the FY27 remittance target at $45bn after inflows exceeded $41bn in FY26.",
+    "Saudi Arabia was the largest source in 4MFY27 with $3.668bn.",
+    "Inflows from the UK grew 19.2pc to $2.226bn, the highest growth among major sources.",
+    "Remittances from the UAE rose 13.5pc to $3.051bn in 4MFY27."
+   ],
+   "vocab": [
+    {
+     "word": "resilient",
+     "meaning": "able to stay strong in difficult conditions"
+    }
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/11/1119215717e0acb.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043746/pm-shehbaz-highlights-pakistans-solar-revolution-by-ordinary-citizens-at-cop31",
+   "title": "PM Shehbaz highlights Pakistan's solar 'revolution by ordinary citizens' at COP31",
+   "author": "News Desk, Reuters",
+   "section": "Front page",
+   "tags": [
+    "Environment",
+    "Foreign Policy"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Covers Pakistan's climate diplomacy, energy transition targets and COP31 basics.",
+   "summary": "At COP31 in Antalya, Turkiye, PM Shehbaz Sharif said Pakistan added nearly 22 gigawatts of rooftop solar in two years, calling it a revolution by ordinary citizens. He backed the 35-by-35 Global Electrification Pledge and said Pakistan needs about $138 billion by 2035 for low-carbon power. He met Iran's president, Kuwait's prime minister and other leaders. The US skipped the talks for a second year.",
+   "key_facts": [
+    "COP31 was held in Antalya, Turkiye, which holds the COP31 presidency.",
+    "Pakistan added nearly 22 gigawatts of rooftop solar capacity in two years.",
+    "Under the 35-by-35 pledge, countries aim to raise electricity's share of final energy consumption to about 35pc by 2035.",
+    "Pakistan aims for 30pc of new vehicles to be electric by 2030.",
+    "PM Shehbaz said Pakistan needs about $138 billion by 2035 for low-carbon power and $50 billion more to replace coal with solar.",
+    "Brazil hosted the previous year's climate talks, and the US skipped COP31 for the second year in a row."
+   ],
+   "vocab": [
+    {
+     "word": "ecocide",
+     "meaning": "large-scale destruction of the natural environment"
+    },
+    {
+     "word": "concessional",
+     "meaning": "given on easier terms than normal, such as low interest"
+    }
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/11/1100592813eff8d.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043579/pm-shehbaz-stresses-clean-energys-importance-for-pakistan-at-chashma-5-nuclear-plant-event",
+   "title": "PM Shehbaz stresses clean energy’s importance for Pakistan at Chashma-5 nuclear plant event",
+   "author": "News Desk",
+   "section": "National",
+   "tags": [
+    "Science and Technology",
+    "Pakistan Affairs"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Important for energy security, nuclear power and Pakistan-China cooperation.",
+   "summary": "PM Shehbaz Sharif attended the dome placement of the Chashma-5 nuclear plant near Mianwali, which marks the end of civil works. The 1,200MW plant is Pakistan's seventh nuclear plant built with Chinese help and should start generating power in September 2030. The PM said the dome was placed ahead of schedule. The PAEC chairman said nuclear power gives 16.6pc of Pakistan's electricity.",
+   "key_facts": [
+    "Chashma-5 near Mianwali will have a capacity of 1,200MW and is expected to start generating electricity in September 2030.",
+    "The groundbreaking of Chashma-5 took place in July 2023.",
+    "Chashma-5 is Pakistan's seventh nuclear power plant built with China's help.",
+    "PAEC Chairman Dr Raja Ali Raza Anwar said Pakistan's nuclear plants generate 3,530MW and avoid 15 million tonnes of CO2 a year.",
+    "Nuclear energy provides about 16.6pc of Pakistan's electricity generation but only 8.6pc of installed capacity, rising to 26pc of generation in winter."
+   ],
+   "vocab": [
+    {
+     "word": "commissioned",
+     "meaning": "brought into official operation"
+    }
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2021/11/618b5ed54ff5f.jpg",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043592/lawyers-observe-strike-against-suspension-of-phc-powers-by-fcc",
+   "title": "Lawyers observe strike against suspension of PHC powers by FCC",
+   "author": "Bureau Report",
+   "section": "National",
+   "tags": [
+    "Governance",
+    "Pakistan Affairs"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Key constitutional issue: high court jurisdiction, Article 199, Article 245 and provincial autonomy.",
+   "summary": "Lawyers across Khyber Pakhtunkhwa went on strike against a Federal Constitutional Court order suspending the Peshawar High Court's powers under Article 199. The FCC said that because the armed forces were called in to aid civil power in KP, such cases filed on or after October 12 stay suspended under Article 245(4). Lawyers threatened an indefinite strike if the powers are not restored by November 16. The order affects petitions against governor's rule and alleged detentions of PTI leaders.",
+   "key_facts": [
+    "A two-member FCC bench suspended PHC proceedings under Article 199 filed on or after October 12, citing Clause 4 of Article 245.",
+    "The armed forces were called in aid of civil power across KP under an October 11 order.",
+    "The Khyber Pakhtunkhwa Bar Council called the strike, and lawyers set a November 16 deadline before an indefinite strike.",
+    "Lawyers plan an All Pakistan Lawyers Convention.",
+    "Affected petitions include challenges to emergency and governor's rule in KP."
+   ],
+   "vocab": [
+    {
+     "word": "usurped",
+     "meaning": "taken without the right to do so"
+    }
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/08/211949440262a78.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043675/public-accounts-committee-seeks-to-delay-power-firms-sell-off-until-asset-valuation",
+   "title": "Public Accounts Committee seeks to delay power firms’ sell-off until asset valuation",
+   "author": "Jamal Shahid",
+   "section": "National",
+   "tags": [
+    "Economy",
+    "Governance"
+   ],
+   "score": 6,
+   "priority": "skim",
+   "why": "Relevant to privatisation, power sector reform and public accountability.",
+   "summary": "The National Assembly's Public Accounts Committee proposed delaying the privatisation of power companies, planned for January, until their assets are properly revalued. The Auditor General said the government was relying on outdated valuations and that fixed assets worth Rs624.47 billion had not been revalued. The committee also questioned Rs8.6bn paid to wind power producers because the Jhimpir grid station could not take their full output.",
+   "key_facts": [
+    "PAC Chairperson Shahida Begum said power companies should not be privatised before their assets are properly valued.",
+    "Auditor General of Pakistan Maqbool Ahmad Gondal raised concerns over outdated asset valuations.",
+    "Power companies had failed to revalue fixed assets worth Rs624.47 billion.",
+    "Rs8.648bn was paid to wind power producers under the Non-Project Missed Volume mechanism.",
+    "The 220kV Jhimpir Grid Station in the Sindh Wind Corridor could not handle full wind output due to frequent tripping."
+   ],
+   "vocab": [
+    {
+     "word": "exchequer",
+     "meaning": "the national treasury or government funds"
+    }
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/11/1100434052b144c.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043580/us-calls-for-new-europe-security-framework-as-russia-ukraine-hold-first-peace-talks-in-9-months",
+   "title": "US calls for new Europe security framework as Russia, Ukraine hold first peace talks in 9 months",
+   "author": "AFP",
+   "section": "International",
+   "tags": [
+    "International Relations"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Tracks the Ukraine war peace process and the future of European security.",
+   "summary": "Russia and Ukraine held their first peace talks in nine months in Abu Dhabi, led by US envoys Jared Kushner and Steve Witkoff. Kushner said the US had narrowed the gaps and wants a new security framework for Ukraine, Russia and Europe. Europeans fear a deal over their heads, and Ukraine warned against a 'Yalta 2.0'. Kyiv says its priorities are a ceasefire and security guarantees.",
+   "key_facts": [
+    "In November 2026, US-led Russia-Ukraine talks were held in Abu Dhabi, the first since February.",
+    "US envoys Jared Kushner and Steve Witkoff led the talks.",
+    "Rustem Umerov is Ukraine's chief negotiator.",
+    "Russia included diplomat Sergei Ryabkov in its delegation.",
+    "A local truce in Ukraine's Kherson region was brokered by US First Lady Melania Trump.",
+    "Ukraine wants at least 10 years of financial support for an 800,000-strong army."
+   ],
+   "vocab": [
+    {
+     "word": "de facto",
+     "meaning": "existing in practice, even if not officially"
+    }
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/07/151103057e62620.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043645/iran-urges-us-to-meet-terms-for-hormuz-opening",
+   "title": "Iran urges US to meet terms for Hormuz opening",
+   "author": "Agencies",
+   "section": "International",
+   "tags": [
+    "International Relations",
+    "Economy"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "The Iran war and Hormuz shipping directly affect Pakistan's energy imports and the Gulf economy.",
+   "summary": "Iran urged the US to accept its conditions for reopening the Strait of Hormuz, saying its offer to reopen within two days of a deal still stands. Its terms include ending the war, unfreezing assets, lifting oil sanctions and ending the naval blockade. US Secretary of State Rubio said major combat operations are not needed because economic pressure is working. Attacks on tankers continued, though LNG shipments through Hormuz reached a post-war high in October.",
+   "key_facts": [
+    "The US-Iran conflict began with US-Israeli strikes on Iran on February 28, 2026.",
+    "Iran's Foreign Minister Abbas Araghchi said Iran's proposal to reopen Hormuz within two days of a deal remains on the table.",
+    "Iran's conditions include ending the war, unfreezing assets, lifting oil sanctions and ending the US naval blockade of its ports.",
+    "According to S&P Global, 31 laden LNG tankers passed through Hormuz in October 2026, up from 23 in September.",
+    "Of October's LNG tankers, 23 loaded at Qatar's Ras Laffan and eight at the UAE's Das Island.",
+    "Talks on the Iran crisis in Paris were convened by French Foreign Minister Jean-Noel Barrot on the sidelines of a G7 meeting."
+   ],
+   "vocab": [
+    {
+     "word": "laden",
+     "meaning": "loaded or carrying cargo"
+    }
+   ]
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "In November 2026, the Asian Development Bank approved contingent disaster financing for Pakistan of up to what amount?",
+   "options": [
+    "$300 million",
+    "$500 million",
+    "$1 billion",
+    "$250 million"
+   ],
+   "answer": "B",
+   "explanation": "ADB approved contingent disaster financing of up to $500 million to give Pakistan quick budget support after eligible disasters. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "According to the ADB, how much direct damage did Pakistan's 2022 floods cause?",
+   "options": [
+    "$9.1 billion",
+    "$15.2 billion",
+    "$2 billion",
+    "$14.9 billion"
+   ],
+   "answer": "D",
+   "explanation": "ADB said the 2022 floods caused $14.9bn in direct damage and $15.2bn in economic losses. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Environment"
+  },
+  {
+   "q": "Pakistan's consumption-based Gini coefficient rose to what level in 2024-25, from 28.4 in 2018-19?",
+   "options": [
+    "32.7",
+    "30.1",
+    "35.4",
+    "29.8"
+   ],
+   "answer": "A",
+   "explanation": "The Gini coefficient rose from 28.4 in 2018-19 to 32.7 in 2024-25, showing growing inequality. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "In July-October 2026, Pakistan's federal PSDP spending was about what share of its Rs1 trillion annual allocation?",
+   "options": [
+    "25pc",
+    "18pc",
+    "10.4pc",
+    "44pc"
+   ],
+   "answer": "C",
+   "explanation": "PSDP spending was Rs103.87bn, about 10.4pc of the Rs1 trillion allocation, despite a 0.8pc first-quarter budget surplus. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "What remittance target did the State Bank of Pakistan set for FY2026-27?",
+   "options": [
+    "$41 billion",
+    "$38 billion",
+    "$50 billion",
+    "$45 billion"
+   ],
+   "answer": "D",
+   "explanation": "SBP Governor Jameel Ahmad set a $45bn target for FY27 after inflows exceeded $41bn in FY26. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Which country was the largest source of workers' remittances to Pakistan in July-October FY27?",
+   "options": [
+    "Saudi Arabia",
+    "United Arab Emirates",
+    "United Kingdom",
+    "United States"
+   ],
+   "answer": "A",
+   "explanation": "Saudi Arabia sent $3.668bn in 4MFY27, ahead of the UAE at $3.051bn. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Among major sources, which recorded the highest growth in remittances to Pakistan in July-October FY27, at 19.2pc?",
+   "options": [
+    "European Union",
+    "United Kingdom",
+    "United States",
+    "Saudi Arabia"
+   ],
+   "answer": "B",
+   "explanation": "Remittances from the UK rose 19.2pc to $2.226bn in 4MFY27. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "In which city was the COP31 climate summit held in November 2026?",
+   "options": [
+    "Istanbul",
+    "Ankara",
+    "Antalya",
+    "Izmir"
+   ],
+   "answer": "C",
+   "explanation": "COP31 was held in the Mediterranean resort city of Antalya, Turkiye, which holds the COP31 presidency. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "At COP31, PM Shehbaz Sharif said Pakistan had added nearly how much rooftop solar capacity in two years?",
+   "options": [
+    "12 gigawatts",
+    "35 gigawatts",
+    "8 gigawatts",
+    "22 gigawatts"
+   ],
+   "answer": "D",
+   "explanation": "He said Pakistan added nearly 22GW of rooftop solar in two years, calling it a quiet revolution by ordinary citizens. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Environment"
+  },
+  {
+   "q": "Under the '35-by-35 Global Electrification Pledge', countries aim to raise electricity's share of total final energy consumption to about 35pc by which year?",
+   "options": [
+    "2030",
+    "2035",
+    "2040",
+    "2050"
+   ],
+   "answer": "B",
+   "explanation": "The pledge aims for electricity to make up about 35pc of final energy consumption by 2035; Pakistan fully supports it. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "What is the planned generation capacity of the Chashma-5 nuclear power plant near Mianwali?",
+   "options": [
+    "1,200MW",
+    "1,100MW",
+    "340MW",
+    "3,530MW"
+   ],
+   "answer": "A",
+   "explanation": "Chashma-5, Pakistan's seventh nuclear plant built with Chinese help, will add 1,200MW and is expected to start generating in September 2030. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Science and Technology"
+  },
+  {
+   "q": "According to the PAEC chairman in November 2026, nuclear energy provides about what share of Pakistan's electricity generation?",
+   "options": [
+    "8.6pc",
+    "26pc",
+    "16.6pc",
+    "55pc"
+   ],
+   "answer": "C",
+   "explanation": "Nuclear provides about 16.6pc of generation while making up only 8.6pc of installed capacity; its share rises to 26pc in winter. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Science and Technology"
+  },
+  {
+   "q": "In November 2026, the Federal Constitutional Court suspended Peshawar High Court proceedings under Article 199 by citing which constitutional provision?",
+   "options": [
+    "Article 184(3)",
+    "Clause 4 of Article 245",
+    "Article 232",
+    "Article 199(1)"
+   ],
+   "answer": "B",
+   "explanation": "The FCC said that because the armed forces were called in aid of civil power in KP, Article 199 proceedings filed on or after October 12 stay suspended under Article 245(4). (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Who chaired the National Assembly's Public Accounts Committee when it proposed delaying power company privatisation in November 2026?",
+   "options": [
+    "Shazia Marri",
+    "Munazza Hassan",
+    "Maqbool Ahmad Gondal",
+    "Shahida Begum"
+   ],
+   "answer": "D",
+   "explanation": "PAC Chairperson Shahida Begum said assets must be properly valued before privatisation to avoid losses. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Rs8.6bn was paid to wind power producers because which grid station could not handle their full output?",
+   "options": [
+    "220kV Jhimpir Grid Station",
+    "500kV Jamshoro Grid Station",
+    "220kV Hyderabad Grid Station",
+    "500kV Port Qasim Grid Station"
+   ],
+   "answer": "A",
+   "explanation": "Payments under the Non-Project Missed Volume mechanism arose because the 220kV Jhimpir Grid Station in the Sindh Wind Corridor tripped often. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Where were the first US-led Russia-Ukraine peace talks in nine months held in November 2026?",
+   "options": [
+    "Riyadh",
+    "Istanbul",
+    "Abu Dhabi",
+    "Geneva"
+   ],
+   "answer": "C",
+   "explanation": "US envoys Jared Kushner and Steve Witkoff hosted the talks in Abu Dhabi, the first since February. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "Who is Ukraine's chief negotiator in the US-led peace talks with Russia held in late 2026?",
+   "options": [
+    "Sergei Ryabkov",
+    "Alexus Grynkewich",
+    "Alexander Stubb",
+    "Rustem Umerov"
+   ],
+   "answer": "D",
+   "explanation": "Rustem Umerov said Kyiv's priorities were a ceasefire and security guarantees; Russia's team included Sergei Ryabkov. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "On what date did the US-Israeli strikes that began the war with Iran take place in 2026?",
+   "options": [
+    "February 28",
+    "January 16",
+    "March 15",
+    "April 2"
+   ],
+   "answer": "A",
+   "explanation": "The conflict began with US-Israeli strikes on Iran on February 28, 2026. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "How many laden LNG tankers passed through the Strait of Hormuz in October 2026, the highest monthly total since the war began?",
+   "options": [
+    "23",
+    "42",
+    "31",
+    "27"
+   ],
+   "answer": "C",
+   "explanation": "S&P Global data showed 31 laden LNG tankers in October, up from 23 in September; 23 loaded at Qatar's Ras Laffan. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "Which UN Security Council resolution endorsed the 2015 Iran nuclear deal (JCPOA)?",
+   "options": [
+    "Resolution 1701",
+    "Resolution 2231",
+    "Resolution 242",
+    "Resolution 1540"
+   ],
+   "answer": "B",
+   "explanation": "The JCPOA, agreed on July 14, 2015, was endorsed by Resolution 2231 and took effect in January 2016. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "Under the JCPOA, Iran capped its uranium enrichment at what level?",
+   "options": [
+    "20 per cent",
+    "60 per cent",
+    "5 per cent",
+    "3.67 per cent"
+   ],
+   "answer": "D",
+   "explanation": "Iran capped enrichment at 3.67pc and accepted IAEA inspections; the US withdrew from the deal in May 2018. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "Which institute organises the Margalla Dialogue, whose 2026 theme was 'Global Order in Transition: Navigating Strategic Uncertainty'?",
+   "options": [
+    "Institute of Strategic Studies Islamabad",
+    "Jinnah Institute",
+    "Islamabad Policy Research Institute",
+    "Pakistan Institute for Conflict and Security Studies"
+   ],
+   "answer": "C",
+   "explanation": "The Margalla Dialogue is IPRI's flagship international conference, held in Islamabad. (The Express Tribune)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "According to the Pakistan Air Quality Initiative, how many likely crop-residue fires were detected by satellite between October 1 and November 9, 2026?",
+   "options": [
+    "16,714",
+    "12,600",
+    "8,300",
+    "21,400"
+   ],
+   "answer": "A",
+   "explanation": "PAQI recorded 16,714 likely crop-residue fires, while Lahore's average PM2.5 was eight times the WHO daily guideline. (The Express Tribune)",
+   "difficulty": "Hard",
+   "topic": "Environment"
+  },
+  {
+   "q": "The Punjab Clean Air Programme is backed by $300 million in financing from which institution?",
+   "options": [
+    "Asian Development Bank",
+    "World Bank",
+    "Islamic Development Bank",
+    "Asian Infrastructure Investment Bank"
+   ],
+   "answer": "B",
+   "explanation": "The Punjab Clean Air Programme is supported by $300 million in World Bank financing. (The Express Tribune)",
+   "difficulty": "Medium",
+   "topic": "Environment"
+  },
+  {
+   "q": "According to PICSS, by how much did terrorist attacks in Pakistan fall in October 2026 compared with September?",
+   "options": [
+    "17pc",
+    "25pc",
+    "50pc",
+    "37pc"
+   ],
+   "answer": "D",
+   "explanation": "PICSS figures showed a 37pc fall, with KP's merged districts recording 30 attacks against 34 in September. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Which is the target year by which Pakistan aims for 30pc of its new vehicles to be electric?",
+   "options": [
+    "2027",
+    "2035",
+    "2030",
+    "2040"
+   ],
+   "answer": "C",
+   "explanation": "PM Shehbaz said the new auto policy builds on the goal of 30pc electric new vehicles by 2030. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Environment"
+  }
+ ]
+}
