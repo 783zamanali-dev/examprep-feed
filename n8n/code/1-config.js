@@ -11,7 +11,7 @@ return [{ json: {
 
   hoursBack: 30,     // only stories published in the last 30 hours
   minPicks: 8,       // news cards per day, between these two numbers
-  maxPicks: 15,
+  maxPicks: 20,
   minMcqs: 15,       // MCQs per day, between these two numbers
   maxMcqs: 30,
 
@@ -20,6 +20,15 @@ return [{ json: {
   // Switch a paper to true only from the day your signed agreement with it starts.
   // (Foreign Affairs puts only one line in its feed, so it has no full text to show.)
   fullText: {
+    'Dawn': false,
+    'The Express Tribune': false,
+    'Foreign Affairs': false,
+  },
+
+  // PICTURES. true = a card shows the first picture of the paper's article (the picture stays
+  // on the paper's own server; the app only displays it). Switch a paper on together with
+  // its full text, from the day your agreement with it starts.
+  pictures: {
     'Dawn': false,
     'The Express Tribune': false,
     'Foreign Affairs': false,

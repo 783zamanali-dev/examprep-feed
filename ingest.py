@@ -171,7 +171,8 @@ def ingest_pack(path, problems):
         credit = " · ".join(x for x in (source, one_line(c.get("section")), one_line(c.get("author")),
                                         PRIORITY.get(one_line(c.get("priority")))) if x)
         (FEED / "news" / f"{date}-{n:02d}-{slug(c['title'])[:50]}.md").write_text(
-            header(title=c["title"], date=date, time=time, source=credit, logo=logo_for(source)) + "\n".join(body),
+            header(title=c["title"], date=date, time=time, source=credit, logo=logo_for(source),
+                   image=one_line(c.get("image")) if str(c.get("image") or "").startswith("https://") else "") + "\n".join(body),
             encoding="utf-8")
 
     # 3. the day's current affairs: key facts to read, MCQs to practise

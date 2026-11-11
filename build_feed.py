@@ -157,8 +157,11 @@ def main():
             print("  " + e)
         sys.exit(1)
     index.sort(key=lambda r: r["date"], reverse=True)
+    # settings.json next to this script travels with the index: the app's plan switch and
+    # the length of the free PRO period, changed without updating the app
+    settings = json.loads((ROOT / "settings.json").read_text(encoding="utf-8")) if (ROOT / "settings.json").exists() else {}
     (OUT / "index.json").write_text(json.dumps(
-        {"updated": datetime.datetime.now().isoformat(timespec="minutes"), "items": index},
+        {"updated": datetime.datetime.now().isoformat(timespec="minutes"), "settings": settings, "items": index},
         ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"Wrote feed-out/: {len(index)} item(s) — upload the whole folder")
     for r in index:

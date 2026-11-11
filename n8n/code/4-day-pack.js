@@ -13,7 +13,7 @@ const pick = new Map(plan.picks.map(p => [p.id, p]));
 
 const cards = (out.cards || []).filter(c => pick.has(c.id)).map(c => {
   const src = byId.get(c.id), p = pick.get(c.id);
-  return { source: src.source, url: src.url, title: src.title, author: src.author, section: src.section,
+  return { ...(src.image ? { image: src.image } : {}), source: src.source, url: src.url, title: src.title, author: src.author, section: src.section,
            tags: c.tags, score: p.score, priority: p.priority, why: c.why, summary: c.summary,
            key_facts: c.key_facts, vocab: c.vocab,
            // the article itself, only for a must-read piece from a paper whose fullText switch is on

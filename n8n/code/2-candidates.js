@@ -46,7 +46,11 @@ $input.all().forEach((item, i) => {
     const body = tag(x, 'content:encoded') || (teaser.length > 900 ? teaser : '');
     const full = (cfg.fullText || {})[feed.source] === true
       ? (paragraphs(x, 'content:encoded').length ? paragraphs(x, 'content:encoded') : paragraphs(x, 'description')) : [];
-    all.push({ source: feed.source, section: feed.section, title, url,
+    // the article's first picture, only for a source whose pictures switch is on
+    const pic = (cfg.pictures || {})[feed.source] === true
+      ? ((x.match(/<media:(?:content|thumbnail)[^>]*\surl=["']([^"']+)["']/i) || x.match(/<enclosure[^>]*\surl=["']([^"']+\.(?:jpe?g|png|webp)[^"']*)["']/i)
+          || x.replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').match(/<img[^>]*\ssrc=["'](https?:[^"']+)["']/i) || [])[1] || '') : '';
+    all.push({ ...(pic ? { image: pic.replace(/&amp;/g, '&') } : {}), source: feed.source, section: feed.section, title, url,
                author: person(tag(x, 'dc:creator') || tag(x, 'author')),
                teaser: teaser.slice(0, 300), body: body.slice(0, 9000), when: when || 0,
                ...(full.join(' ').length > 600 ? { paras: full } : {}) });
@@ -73,7 +77,10 @@ A score of 8 to 10 is "must_read". A score of 5 to 7 is "skim". Leave out anythi
 
 Preferences
 - Editorials and opinion first, then analysis, then hard news with lasting facts.
-- Prefer Dawn, then The Express Tribune, then Foreign Affairs. Include the papers' unsigned editorials unless they score below 5.
+- Dawn's editorials and Dawn's opinion columns of the day are always included: every one of them is a pick, "must_read" when it scores 8 or more and "skim" otherwise. This is the one exception to leaving out pieces below 5.
+- Then add the best two to four opinion pieces and editorials of The Express Tribune.
+- Then add Foreign Affairs pieces that bear on Pakistan, South Asia, the great powers or a likely essay theme.
+- After those, hard news from Dawn first, then The Express Tribune.
 - When two papers cover the same story, keep the better one only.
 - Never choose city or metro news, letters to the editor, daily party gossip, talk-show quarrels, crime, showbiz, sport, or daily casualty counts.
 - Return between ${cfg.minPicks} and ${cfg.maxPicks} picks. Fewer good ones are better than padding with weak ones.
