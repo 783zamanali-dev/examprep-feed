@@ -1,0 +1,1138 @@
+{
+ "date": "2026-11-13",
+ "time": "16:22",
+ "summary": {
+  "national": [
+   {
+    "headline": "Population growth declared a national emergency",
+    "line": "The National Population Council's executive committee called rapid growth an emergency, and Ahsan Iqbal urged linking the NFC award to development indicators.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044151/rapid-population-growth-termed-national-emergency"
+   },
+   {
+    "headline": "Copper and gold found at eight Chagai sites",
+    "line": "National Resources Limited reported copper-gold deposits in Balochistan after 25,000 metres of drilling, boosting hopes for Pakistan's minerals sector.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044284/copper-gold-deposits-identified-at-eight-sites-in-balochistans-chagai-district-mining-company"
+   },
+   {
+    "headline": "Naqvi suggests referendum on new provinces",
+    "line": "The interior minister proposed a public vote on new provinces, promising parties would be consulted, as the PPP opposes division of Sindh.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044196/after-igniting-new-provinces-debate-naqvi-floats-option-of-referendum"
+   },
+   {
+    "headline": "IHC halts Islamabad local elections",
+    "line": "The Islamabad High Court suspended the ECP's local government election schedule for the capital until the next hearing, following a writ petition.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044288/ihc-suspends-local-government-elections-in-islamabad"
+   },
+   {
+    "headline": "Islamabad to go fully cashless by December 31",
+    "line": "The government decided to make Islamabad Pakistan's first fully cashless city, pushing digital payments in the capital.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044285/islamabad-to-become-countrys-first-fully-cashless-city-by-year-end"
+   },
+   {
+    "headline": "Petrol and diesel prices cut again",
+    "line": "Petrol fell by Rs3 to Rs332 per litre and diesel by Rs4 to Rs360, the eighth straight reduction.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044067/high-speed-diesel-price-dips-by-rs4-per-litre-petrol-by-rs3"
+   },
+   {
+    "headline": "Nepra approves Rs25.30 special industrial tariff",
+    "line": "Nepra notified a revised incremental consumption package for industry and agriculture to raise electricity use, despite dissent from two members.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044061/nepra-notifies-rs2530-per-unit-revised-special-industrial-tariff-despite-concerns"
+   },
+   {
+    "headline": "SBP raises cash reporting threshold to Rs3m",
+    "line": "Banks must now report cash transactions of Rs3 million, up from Rs2m, under the State Bank's revised currency transaction rule.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044162/threshold-for-currency-transaction-report-raised-to-rs3m"
+   }
+  ],
+  "international": [
+   {
+    "headline": "UNSC renews Yemen sanctions; Pakistan backs Saudi Arabia",
+    "line": "The Security Council extended Yemen sanctions to 2027, and Pakistan demanded an immediate end to Houthi attacks on Saudi Arabia.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044254/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-as-unsc-renews-yemen-sanctions"
+   },
+   {
+    "headline": "Shehbaz seeks grant-based climate finance at COP31",
+    "line": "At COP31 in Antalya, the PM urged grants and more adaptation funds for vulnerable countries and met several world leaders.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044031/at-cop31-pm-shehbaz-calls-for-grant-based-finance-resilience-funding-for-climate-vulnerable-countries"
+   },
+   {
+    "headline": "Xi says Taiwan reunification cannot be stopped",
+    "line": "China's president urged peaceful reunification with Taiwan without mentioning force, but Taipei firmly rejected his remarks.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044041/chinas-xi-says-taiwan-reunification-must-happen-as-history-cannot-be-stopped"
+   },
+   {
+    "headline": "Putin refuses Ukraine compromise",
+    "line": "Meeting US envoys, Putin kept his hardline demands on Ukraine but offered a short ceasefire in one frontline city.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044186/putin-rejects-compromise-on-ukraine-in-meeting-with-us-envoys"
+   },
+   {
+    "headline": "Trump says US does not need Iran deal",
+    "line": "Trump pulled Vice President Vance from Iran peace talks, raising doubts over the diplomacy that Pakistan helped facilitate.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044185/trump-says-washington-does-not-need-iran-deal"
+   },
+   {
+    "headline": "Migration to rich countries falls again",
+    "line": "An OECD report says migration to its 38 member countries fell 1.6pc in 2025, the second yearly decline.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044207/oecd-report-reveals-migration-to-developed-countries-is-dwindling"
+   },
+   {
+    "headline": "Asean split over Myanmar's junta",
+    "line": "Asean faces pressure to ease its five-year ban on Myanmar's military leaders as Thailand and others deepen engagement.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044277/asean-faces-myanmar-dilemma-as-some-members-pursue-closer-ties"
+   },
+   {
+    "headline": "Jensen Huang quits as Nvidia CEO",
+    "line": "Nvidia's co-founder resigned after 33 years at the top following reports of extramarital affairs, shaking a leading AI company.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2044060/jensen-huang-steps-down-as-nvidia-ceo-after-reports-of-extramarital-affairs"
+   }
+  ]
+ },
+ "cards": [
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044212/climate-challenges",
+   "title": "Climate challenges",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Environment",
+    "Pakistan Affairs"
+   ],
+   "score": 9,
+   "priority": "must_read",
+   "why": "Useful for essays on climate change, smog, adaptation and climate justice.",
+   "summary": "Dawn says the toxic smog in Punjab is part of a wider climate crisis that cannot be solved with piecemeal steps. Lahore's air quality index reached a hazardous 358, and floods, heatwaves and water stress show how exposed Pakistan is. The paper welcomes the PM's clean-energy targets at COP31 but argues that an energy transition alone is not a climate policy. It asks for strict emission enforcement, public transport, an end to crop burning and better flood and heat preparation, along with climate finance from rich countries.",
+   "key_facts": [
+    "Lahore's air quality index stood at a hazardous 358 on a Wednesday in November 2026.",
+    "PM Shehbaz Sharif told COP31 that Pakistan added nearly 22 gigawatts of rooftop solar capacity in two years.",
+    "Pakistan has backed a pledge to raise electricity's share of energy use to 35pc by 2035.",
+    "Pakistan aims for electric vehicles to make up 30pc of new vehicle sales by 2030."
+   ],
+   "vocab": [
+    {
+     "word": "piecemeal",
+     "meaning": "done in small, unconnected parts rather than as a full plan"
+    },
+    {
+     "word": "concessional",
+     "meaning": "given on easier terms than normal, such as low-interest loans"
+    },
+    {
+     "word": "affluent",
+     "meaning": "rich"
+    }
+   ],
+   "text": [
+    "THE poisonous smog blanketing Punjab is an immediate threat to public health, but it also points to a larger environmental crisis that Pakistan can no longer address through piecemeal measures. Lahore’s air quality index stood at a hazardous 358 on Wednesday, while other cities struggled under the same toxic haze.",
+    "Punjab’s government says better monitoring and enforcement have brought improvements over previous years. That is welcome, but the air remains dangerous. While pollution from India compounds the problem, Pakistan must also confront domestic emissions.",
+    "Moreover, smog is not the country’s only warning. Our climate crises are deeply interconnected. Repeated floods, punishing heatwaves and mounting water stress show how exposed Pakistan is to climate shocks, and how urgently it needs lasting solutions.",
+    "At COP31, PM Shehbaz Sharif outlined a cleaner energy future that deserves support. He pointed to nearly 22 gigawatts of rooftop solar capacity added in two years, much of it driven by households seeking relief from expensive electricity.",
+    "Pakistan has backed a pledge to increase electricity’s share of energy use to 35pc by 2035 and aims for electric vehicles to account for 30pc of new vehicle sales by 2030. These shifts could help reduce fossil-fuel dependence and, especially through cleaner transport, cut harmful emissions. But an energy transition is not, by itself, a climate policy.",
+    "Pakistan also needs to protect communities from floods and extreme heat, safeguard water supplies and adapt agriculture to changing conditions. The PM rightly called for concessional finance and affordable technology. Rich industrialised countries bear much of the responsibility for global warming and must help vulnerable nations cope. Yet appeals for international climate justice must run alongside serious action at home.",
+    "That action requires more than ambitious targets or seasonal restrictions. Authorities must enforce vehicle and industrial emission standards, expand public transport, support farmers in ending crop burning and make clean technology accessible beyond affluent households. Cities must be better prepared for floods and extreme weather, while rural communities need help coping with rising temperatures and water shortages.",
+    "Federal and provincial governments must work together and ensure that environmental regulations are properly enforced. Businesses, too, must reduce their environmental impact, while citizens have a responsibility to conserve resources, avoid polluting their surroundings and demand action from the state.",
+    "None of this will be easy in a country facing serious fiscal constraints. But the cost of delay is already being paid in illness, damaged livelihoods and repeated disruption. Pakistan cannot afford to confront its climate crises one disaster, one season and one international summit at a time.",
+    "Published in Dawn, November 13th, 2026"
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044211/under-fire",
+   "title": "Under fire",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Security",
+    "Governance"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Shows the security challenge in KP and the debate on police capacity in counter-terrorism.",
+   "summary": "Dawn reports that at least 12 policemen were martyred in Khyber Pakhtunkhwa in one day: ten in an ambush in Kohat and two in Swabi. A truck bomb attack on a police station in Dera Ismail Khan was repelled without police deaths. The Kohat team was returning from an operation against illegal gold mining when a large group attacked; at least 18 attackers were killed. The paper says the centre, which now controls the province, must fund and equip the police urgently.",
+   "key_facts": [
+    "The Kohat ambush hit a police team returning from an operation against illegal gold mining in the Darbukach area.",
+    "At least 18 attackers were killed when the police fought back in Kohat.",
+    "Two policemen were martyred in Swabi when a patrol came under fire.",
+    "Official data shows police deaths and injuries in KP in the first half of 2026 doubled from the year before, while attacks rose by 34pc."
+   ],
+   "vocab": [
+    {
+     "word": "unabated",
+     "meaning": "continuing without becoming weaker"
+    },
+    {
+     "word": "writ",
+     "meaning": "the authority of the state to enforce its laws"
+    }
+   ],
+   "text": [
+    "THE bloodshed continues unabated. On Wednesday, at least 12 policemen were martyred in the line of duty in KP. Ten lives were lost in an ambush in Kohat while a police party was returning from a clearance operation, and two more were martyred in Swabi when a police patrol came under fire. Separately, an explosive-laden pickup slammed into the main gate of a police station in Dera Ismail Khan, but the attack was promptly repelled. Thankfully, no police casualties were reported in the latter incident. Still, a dozen lives lost in a single day and at least a dozen more injured and hospitalised is a heavy toll for a provincial police force engaged in a relentless, fierce fight against terrorists threatening the state’s writ every day. The Kohat ambush, in particular, appears to have been a major security incident. By police accounts, a team that conducted a joint operation with the civil administration against illegal gold mining in the Darbukach area was returning after completing its objectives when it was ambushed by what appears to have been a very large group. At least 18 attackers were killed as the police fought back.",
+    "Official data shows that police fatalities and injuries in the first half of this year alone had doubled from the year before. The number of attacks, on the other hand, had risen by 34pc. The data suggests that attacks on police have become increasingly deadly, and, coupled with shortfalls in personnel, arms and necessary equipment, the KP police are increasingly vulnerable as they play a frontline role in ongoing operations against terrorists. Though October saw a marked improvement in the number of attacks compared to just a month earlier, the three incidents on Wednesday underline how fragile those gains can be if the police are not strengthened while the state has the upper hand. After the centre took control of the province, it bears full responsibility for the police’s protection. The new administration appointed to oversee KP’s affairs must immediately ensure that the provincial security forces receive all the funds they have requested and fill vacant posts on an urgent basis. It must ensure armoured vehicles, protective equipment, night-vision devices and better weapons are supplied to frontline personnel, and that intelligence and army backup are available during police operations in high-risk areas.",
+    "Published in Dawn, November 13th, 2026"
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/11/1216320966c1951.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2043972/forex-crowding-out",
+   "title": "Forex crowding out",
+   "author": "Farooq Arby",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Economy"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Explains reserve management, crowding out and exchange rate issues for the Economy paper.",
+   "summary": "Economist Farooq Arby argues that the State Bank has rebuilt reserves largely by buying dollars directly from the forex market. He says this crowds out private businesses, causing delays in letters of credit, dollar rationing and problems in sending profits abroad. He notes the exchange rate is not responding to these purchases and suggests an order-flow model may explain why. He urges the SBP to share more data and plan an exit from its dollar buying.",
+   "key_facts": [
+    "The US National Trade Estimate Report 2026 records concerns about delays in Pakistani banks issuing letters of credit.",
+    "The same US report notes that firms faced delays and informal queues when repatriating profits, dividends and royalties.",
+    "A 2002 study by Evans and Lyons in the Journal of Political Economy found order flow explains much of exchange rate change.",
+    "The writer says reserve accumulation is necessary but not sufficient for economic stability."
+   ],
+   "vocab": [
+    {
+     "word": "crowding out",
+     "meaning": "when a large buyer or borrower leaves fewer resources for private firms"
+    },
+    {
+     "word": "repatriate",
+     "meaning": "send money back to one's home country"
+    }
+   ],
+   "text": [
+    "THE State Bank of Pakistan (SBP) has successfully rebuilt foreign exchange reserves over the last three years. Much of this success, however, has been purchased by drawing liquidity directly out of the forex market. It attributes its purchases to improved market liquidity and describes their purpose as strengthening external buffers and the capacity to meet external obligations. These are legitimate considerations. Yet the extent to which dollars have been siphoned from the market to accumulate reserves raises concerns for the wider economy.",
+    "When the central bank becomes a persistent and dominant buyer of dollars in the market, it effectively crowds out some private businesses, which must compete with an institution that enjoys an informational advantage. While Pakistan is familiar with the crowding out of the private sector through large and persistent government borrowing to finance budget deficits, crowding out in the foreign exchange market is unprecedented.",
+    "If the forex market has sufficient depth, it can smoothly accommodate both the central bank’s purchases and the private sector’s requirements. But where the market is constrained, the adjustment has to take place somewhere. It may appear in the exchange rate, transaction spreads, delays in opening letters of credit (LCs), or restrictions on access to foreign currency. In effect, private sector buyers are either priced out of the market or pushed into waiting queues.",
+    "There have been several media reports of import payment delays and dollar rationing by some banks. Concerns about these practices have also surfaced in official trade assessments. The US National Trade Estimate Report 2026 , for instance, records stakeholder concerns about delays in banks’ issuance of LCs, reportedly resulting from informal SBP limitations on commercial banks’ borrowing of foreign currency through the interbank market. The report also highlights that corporations and foreign equity holders have encountered administrative delays, documentation hurdles, and informal queuing systems when seeking to repatriate their profits, dividends, and royalties in dollars.",
+    "The SBP must reassess its market interventions.",
+    "Such restrictions carry consequences. Central banking, in essence, is not an accounting exercise and balance sheet management. Every action has microeconomic and macroeconomic repercussions for resource allocation, business costs, investment decisions, and, ultimately, economic growth. Thus, a policy intended to strengthen the country’s external position can, paradoxically, undermine investors’ sentiments and the productive capacity to generate future foreign exchange.",
+    "A further paradox concerns the exchange rate signal. Despite extensive purchases, the exchange rate is not responding. Conventional macroeconomic models offer limited help in explaining such interventions. Instead, an exchange rate microstructure approach, built on order flow, may offer a better explanation of exchange rate determination. Order flow refers to the buying and selling pressure generated by market participants. This approach recognises the importance of participants’ identities, information and trading behaviour in influencing exchange rate movements. A study by Evans and Lyons, published in the Journal of Political Economy in 2002, shows that order flow has substantial explanatory power for exchange rate changes.",
+    "When a central bank, which also issues licences to the market participants, enters the market, its order flow may convey its preferences about price as well as quantity. Forex dealers, observing this institutional order flow, may adjust their quotes and inventory positi­ons accordingly. Consequently, the exchange rate may increasingly reflect the central bank’s institutional prefere­nces rather than the underlying balance of forex demand and supply.",
+    "Granular level data can explain forex dynamics on the basis of the order flow model. The SBP has both the technical capacity and the high-frequency data required for such analysis. It could examine import payment delays, outstanding foreign exchange requests, transaction spreads, interbank turnover, and the daily pattern of its own purchases. A range of forex market data is already covered by IMF monitoring and reporting requirements on a daily basis. Greater transparency and wider dissemination of this data may also allow independent researchers to apply an order flow model to exchange rate formation in Pakistan.",
+    "Reserve accumulation is a necessary but not sufficient condition for stability, which ultimately depends on the economy’s ability to generate foreign exchange through exports, investment, and productive activity. The SBP must, therefore, assess its market interventions within a robust analytical framework and develop an exit strategy for its dollar purchases for reserve accumulation.",
+    "The writer is an economist.",
+    "m.farooqarby@gmail.com",
+    "Published in Dawn, November 12th, 2026"
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/02/698e8852840fe.jpg",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044213/beyond-diplomacy",
+   "title": "Beyond diplomacy",
+   "author": "Laraib Sajid",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Governance",
+    "Foreign Policy"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Links foreign policy, federalism and investment, key themes in Pakistan Affairs and Governance.",
+   "summary": "Lawyer Laraib Sajid argues that Pakistan's diplomatic gains, such as mediating between the US and Iran, must turn into real investment. The SIFC has a pipeline of 38 projects worth about $40 billion, but a pipeline is not realised investment. Because the 18th Amendment gave provinces control over sectors like minerals, tourism and agriculture, federal assurances can stall at the provincial level. The writer suggests using the Interprovincial Coordination Committee, Provincial Investment Committees and the CCI to bridge the gap.",
+   "key_facts": [
+    "The SIFC presented a Senate committee with 38 projects worth about $40 billion in October 2026.",
+    "The SIFC was created in 2023 through an amendment to the Board of Investment Ordinance, 2001.",
+    "Section 10E of the BOI Ordinance lets the SIFC direct federal bodies but does not expressly cover provincial governments.",
+    "Provincial Investment Committees are set up under Section 15 of the BOI Ordinance.",
+    "The 18th Amendment strengthened provincial autonomy by moving responsibilities from the centre to the provinces."
+   ],
+   "vocab": [
+    {
+     "word": "federalism",
+     "meaning": "a system where power is shared between central and provincial governments"
+    },
+    {
+     "word": "pipeline",
+     "meaning": "a list of planned projects not yet completed"
+    }
+   ],
+   "text": [
+    "PAKISTAN’S relationship with competing global powers, and effective participat­i­­­on in international peace efforts, have of­­fe­red the country avenues to exercise inf­­luence beyond its economic weight. It has managed to grab international attention due to its role as a mediator in facilitating dialogue between the United States and Iran.",
+    "However, diplomatic recognition does not automatically translate into economic prosperity for a country. Pakistan needs to convert its growing diplomatic relevance into sustainable and durable economic partnerships, which include foreign direct investment, regional connectivity and technology transfer.",
+    "Pakistan has increasingly sought to use international platforms to seek its economic interests. Its engagements with multilateral forums such as the United Nations, OIC and SCO provide opportunities to promote trade, attract investment and build partnerships. The economic diplomacy initiatives of the Ministry of Foreign Affairs and its dedicated coordination with the Special Investment Facilitation Council (SIFC) highlight an acknowledgement that economic policy and foreign policy can no longer operate in isolation.",
+    "Last month, the SIFC presented an inv­e­­stment pipeline to a Senate committee comprising 38 projects with an anticipated in­­v­estment potential of approximately $40 bil­­lion. This is an encouraging indicator of opportunities being pursued. However, this investment pipeline should not be conside­red the same as realised investment. Inves­­tors assess the legal, regulatory and administrative environment in which their inv­­estments will operate instead of merely relying on the strength of diplomatic assurances.",
+    "Constitutional federalism needs to work for economic development.",
+    "The problem does not simply lie in burea­ucratic inefficiency; rather it goes deep into the unresolved question of Pakistan’s fede­ral structure. The 18th Amendment stren­g­thened provincial autonomy by transferring responsibilities from the centre to the provinces. Some of the sectors in which SIFC at­­tracts investments including tourism, agriculture, and minerals require provincial participation as they are outside the mandate of the Federal Legislative List. There­fore, an investment proposal initiated at the federal level may still require provincial approvals and administrative permissions.",
+    "The SIFC was formulated in 2023 through an amendment in the Board of Investment Ordinance, 2001. However, it is unable to resolve the institutional divide between the centre and provinces on matters related to investment. Section 10E of the Ordinance empowers SIFC to issue recommendations, advice or directions to federal regulatory bodies, public sector entities, authorities and government depart­­ments. This section does not expressly extend this directive authority to provincial governments.",
+    "Such hurdles create an uncomfortable situation for international investors. An in­­v­­estor attracted through assurance of a st­reamlined approval process and diplom­atic engagements may encounter delays once the project reaches the provincial level.",
+    "The solution does not lie in undermining provincial autonomy or doing expansive interpretation of SIFC’s mandate. Such a solution may give rise to constitutional disputes and alienate provincial governments. The goal should be to make the existing constitutional federalism work for economic development.",
+    "There are institutional mechanisms that can bridge the divide. The Interprovincial Coordination Committee provides a mechanism for coordination between the federation and provinces. Its mandate includes promoting a uniform approach to matters of common national concern. Investment-related bottlenecks can be for­mally placed be­­­fore it. The Ministry of Inter-Provincial Coordination must transition from its mostly reactive position to an active facilitator of investment-related coordination if this system is to be successful.",
+    "Another option is provided by the Provincial Investment Committees established under Section 15 of the BOI Ordinance. These committees are meant to support the BOI, promote investment within provinces, and ensure ongoing cooperation with it. They may function as SIFC’s provincial counterparts if properly constituted and operationalised.",
+    "The Council of Common Interests should continue to be accessible for issues coming under its constitutional purview. It is important, however, to distinguish between ordinary administrative cooperation needed to handle individual investment projects and high-level constitutional and policy disagreements.",
+    "Ultimately, Pakistan’s diplomatic outreach must be matched by institutional credibility at home. Pakistan cannot ask international investors to place confidence in its economic future while leaving unresolved the question of how its own government will work together to secure that future.",
+    "The writer is a lawyer based in Islamabad.",
+    "Published in Dawn, November 13th, 2026"
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2025/09/68d0ad88b3c24.png",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044217/ambition-without-scale",
+   "title": "Ambition without scale?",
+   "author": "Ehsan Malik",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Economy"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Good material on industrial policy, localisation and trade rules for the Economy paper.",
+   "summary": "Former Unilever Pakistan CEO Ehsan Malik questions whether the Auto Policy 2026-31 can meet all its goals at once. He welcomes tariff cuts and EV incentives but warns that cutting protection before lowering energy, tax and finance costs could destroy the engineering skills of local parts makers. He says localisation should measure real domestic value addition, and too many car models keep volumes small. He doubts the $6 billion export target and warns that a new levy may repeat the weak record of the Export Development Fund.",
+   "key_facts": [
+    "Pakistan's Auto Policy 2026-31 envisages about $6 billion in cumulative automotive exports over five years.",
+    "The proposed Automotive Development Levy is expected to raise Rs232bn over five years.",
+    "WTO rules restrict subsidies that depend on export performance.",
+    "Auto-parts industrial clusters exist around Port Qasim and Lahore-Sheikhupura."
+   ],
+   "vocab": [
+    {
+     "word": "localisation",
+     "meaning": "making parts within the country instead of importing them"
+    },
+    {
+     "word": "countervailing duty",
+     "meaning": "a tax an importing country places on goods it finds were unfairly subsidised"
+    },
+    {
+     "word": "proliferation",
+     "meaning": "rapid increase in number"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044210/used-car-imports",
+   "title": "Used car imports",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Economy"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Shows the link between import policy, the external account and domestic industry.",
+   "summary": "Dawn says the government's curbs on used car imports are failing. Even after the personal baggage scheme was abolished, more than 2,000 vehicles came through the gift scheme in October alone. Imports of completely built-up vehicles rose 40pc to $126m in the first quarter of the fiscal year, adding to pressure on reserves and hurting tax collection. The paper warns this, together with the new auto policy, threatens the local parts industry and jobs.",
+   "key_facts": [
+    "More than 2,000 used vehicles reportedly arrived in Pakistan through the gift scheme in October 2026.",
+    "Imports of completely built-up vehicles rose 40pc to $126m in the first quarter of FY2026-27.",
+    "The personal baggage scheme for vehicle imports has been abolished."
+   ],
+   "vocab": [
+    {
+     "word": "faltering",
+     "meaning": "losing strength or starting to fail"
+    }
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2024/07/66a31d2925124.jpg",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044221/constrained-partnership",
+   "title": "Constrained partnership",
+   "author": "Zafar Mirza",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Governance",
+    "Current Affairs"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Covers public health governance and donor dependence, useful for social sector questions.",
+   "summary": "Former health minister Zafar Mirza examines why the Global Fund placed Pakistan under its Additional Safeguard Policy in August 2020. A letter from the Fund cited rising HIV, weak TB results and poor performance of the Common Management Unit, whose head changed 10 times in three years. New HIV infections tripled between 2010 and 2024. He calls for a time-bound plan to exit the policy and a gradual shift to domestic funding.",
+   "key_facts": [
+    "Since 2003 the Global Fund has disbursed more than $1.1 billion to Pakistan's HIV, TB and malaria programmes.",
+    "The Global Fund invoked its Additional Safeguard Policy on Pakistan in August 2020.",
+    "The Additional Safeguard Policy has been invoked in about 30 countries but revoked only in Cuba, Myanmar and Côte d'Ivoire.",
+    "WHO and UNAIDS estimates show Pakistan's annual new HIV infections rose from about 16,000 in 2010 to 48,000 in 2024.",
+    "In 2024, 90pc of Pakistan's HIV financing came from the Global Fund.",
+    "The Global Fund, set up in 2002, has helped save an estimated 72 million lives."
+   ],
+   "vocab": [
+    {
+     "word": "epidemiological",
+     "meaning": "related to how diseases spread in a population"
+    },
+    {
+     "word": "revoked",
+     "meaning": "officially cancelled"
+    }
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/02/698e8852840fe.jpg",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044215/midterm-lessons",
+   "title": "Midterm lessons",
+   "author": "Asif Saad",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Economy",
+    "International Relations"
+   ],
+   "score": 6,
+   "priority": "skim",
+   "why": "Useful for essays on growth versus inclusive development and democracy.",
+   "summary": "Asif Saad argues that the US midterm results show economic growth alone no longer wins votes. Despite record stock prices and low unemployment, US consumer sentiment stayed near record lows because of the cost of living. He questions trickle-down economics and says wealth for asset owners does not reach wage earners automatically. He warns Pakistan that stabilisation, privatisation and growth will not bring shared prosperity unless ordinary people feel the benefits.",
+   "key_facts": [
+    "US consumer sentiment remained close to record lows before the 2026 midterm elections despite stock market highs.",
+    "The writer identifies privatisation and deregulation as central to Pakistan's current reform programme."
+   ],
+   "vocab": [
+    {
+     "word": "trickle-down economics",
+     "meaning": "the idea that helping businesses and the rich will benefit everyone over time"
+    },
+    {
+     "word": "legitimacy",
+     "meaning": "public acceptance that something is right and fair"
+    }
+   ]
+  },
+  {
+   "image": "https://i.tribune.com.pk/media/images/Editorial-New1131222/Editorial-New1131222.jpg",
+   "source": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2639982/diplomatic-reset",
+   "title": "Diplomatic reset?",
+   "author": "editorial",
+   "section": "Editorial",
+   "tags": [
+    "Foreign Policy",
+    "International Relations"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Key for questions on Pakistan-US relations and minerals diplomacy.",
+   "summary": "The Express Tribune says the nomination of career diplomat Natalie Baker as US ambassador to Pakistan signals a reset in ties. The post has been vacant since Donald Blome left in January 2025. The paper links the move to US interest in Pakistan's minerals, including Reko Diq financing, digital asset deals and Pakistan's role in US-Iran talks. It says Washington does not want to leave South Asia to China.",
+   "key_facts": [
+    "Natalie Baker has been nominated as US ambassador to Pakistan, pending Senate confirmation.",
+    "Baker had been leading the US mission in Pakistan as Chargé d'Affaires.",
+    "The ambassador's post had been vacant since Donald Blome left in January 2025.",
+    "The US Export-Import Bank has committed $1.25 billion in financing for the Reko Diq project.",
+    "Pakistan's critical mineral reserves are estimated at $7 trillion."
+   ],
+   "vocab": [
+    {
+     "word": "transactional",
+     "meaning": "based on short-term deals rather than lasting partnership"
+    },
+    {
+     "word": "interlocutor",
+     "meaning": "a person or country that helps carry on talks"
+    }
+   ],
+   "text": [
+    "Career diplomat Natalie Baker has been nominated as the next US ambassador to Pakistan. Pending Senate confirmation, she will formally fill a post left vacant since Donald Blome's departure in January 2025. The elevation of Baker - who has led the US mission as Charg&eacute; d'Affaires in the meantime - marks a pivotal change in Washington's approach to Islamabad, signalling a return to formal, long-term engagement after years of diplomatic uncertainty. For decades, Pak-US ties have been primarily transactional, driven by periodic security needs. However, emerging signs of renewed cooperation suggest a broader economic and strategic reset. Washington's push to become a partner in unlocking Pakistan's estimated $7 trillion critical mineral reserves - backed by a $1.25 billion US Export-Import Bank financing commitment for the Reko Diq project - reflects a desire to secure global supply chains, thereby also countering Chinese dominance in rare earths. At the same time, Islamabad's rapid move towards digital assets - including a recent agreement with the crypto venture World Liberty Financial - demonstrates how emerging fintech is opening new channels of access to the Trump administration. This upgrade in ties is also important in the context of regional diplomacy. As Pakistan grapples with cross-border terrorism amid open conflict with the Taliban regime in Kabul, American diplomatic presence provides a vital channel for counterterrorism coordination. Furthermore, Islamabad's recent role in facilitating talks between the US and Iran underscores its utility as a dependable interlocutor, thereby serving as a regional bridge. By appointing a full-time ambassador, Washington appears to be acknowledging that it cannot afford to cede strategic space in South Asia to Beijing. Ultimately, Baker's nomination offers both Washington and Islamabad an opportunity to anchor their relationship in long-term economic resilience and regional stability rather than episodic crises."
+   ]
+  },
+  {
+   "image": "https://i.tribune.com.pk/media/images/Editorial-New1131222/Editorial-New1131222.jpg",
+   "source": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2639984/financing-green-shift",
+   "title": "Financing green shift",
+   "author": "editorial.",
+   "section": "Editorial",
+   "tags": [
+    "Environment",
+    "Economy"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Provides figures on Pakistan's energy transition and climate finance needs.",
+   "summary": "The Express Tribune praises PM Shehbaz Sharif's specific message at COP31 in Antalya. Pakistan has added nearly 22 GW of rooftop solar, and clean sources make up about 55pc of its energy mix. Electric motorcycles have passed 10pc of motorcycle sales for the first time. The paper stresses that Pakistan needs huge funding and that rich countries, as main polluters, must pay.",
+   "key_facts": [
+    "Clean sources make up roughly 55pc of Pakistan's energy mix.",
+    "Electric motorcycles crossed 10pc of total motorcycle sales in Pakistan for the first time.",
+    "Pakistan needs about $138 billion by 2035 for low-carbon power generation.",
+    "Pakistan needs another $50 billion to replace coal with solar.",
+    "The Chashma-5 nuclear project is expected to add thousands of megawatts of clean power."
+   ],
+   "vocab": [
+    {
+     "word": "capital-intensive",
+     "meaning": "needing a lot of money to build"
+    }
+   ],
+   "text": [
+    "Prime Minister Shehbaz Sharif's message at COP31 in Antalya was refreshingly specific - our clean-energy ambitions are real, measurable and already delivering results, but without concessional financing and affordable technology transfers, they will fall by the wayside. The numbers back up that argument. Pakistan has added nearly 22 gigawatts of rooftop solar capacity in just two years, giving households and businesses access to cheap and reliable clean energy. Clean sources now make up roughly 55% of the energy mix, and new clean projects such as the Chashma-5 nuclear project will add thousands more megawatts. Despite high initial costs, electric motorcycles have crossed 10% of total motorcycle sales for the first time, with a target of 30% electric new vehicles by 2030. But meeting any such targets depends on either citizens and companies being able to afford them, or the government being able to provide them. Neither of these can happen without money. Pakistan needs approximately $138 billion by 2035 for low-carbon power generation and another $50 billion to replace coal with solar. Expanding grids, building storage and making emerging technologies affordable are capital-intensive undertakings that heavily indebted developing economies cannot shoulder alone. The international community must step up because, in PM Shehbaz's words, \"35 by 35 will be achieved only if finance flows at the speed of ambition through concessional capital and the transfer of affordable technology\". This is not a matter of charity. As has been widely noted, wealthy countries are most to blame for this problem, as their coal- and oil-fueled development journeys are what broke the environment. Helping poorer countries pay for green transitions and providing climate-vulnerable countries with the means to pay for disaster mitigation measures is the least they can do."
+   ]
+  },
+  {
+   "image": "https://i.tribune.com.pk/media/images/Editorial-New1131222/Editorial-New1131222.jpg",
+   "source": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2639983/criminal-nexus",
+   "title": "Criminal nexus",
+   "author": "editorial",
+   "section": "Editorial",
+   "tags": [
+    "Security"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Highlights the militancy-crime nexus and Governor's rule in KP.",
+   "summary": "The Express Tribune reports that 11 policemen, including a DSP, were martyred in a Kohat attack. It calls this the first major incident since Governor's rule was imposed in KP. The paper highlights an alleged alliance between the TTP and illegal gold miners and calls it an intelligence failure. It blames Kabul's failure to act and calls for coordinated, not just military, action.",
+   "key_facts": [
+    "A DSP was among the policemen martyred in the Kohat attack in November 2026.",
+    "The attack was the first major incident since Governor's rule was imposed in Khyber Pakhtunkhwa.",
+    "The paper alleges collusion between the TTP and a cartel of illegal gold miners."
+   ],
+   "vocab": [
+    {
+     "word": "nexus",
+     "meaning": "a connection or link between groups"
+    },
+    {
+     "word": "kinetic",
+     "meaning": "involving military force"
+    }
+   ]
+  },
+  {
+   "source": "Foreign Affairs",
+   "url": "https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war",
+   "title": "The World’s Last Chance for Peace",
+   "author": "Pedro Sánchez",
+   "section": "Analysis",
+   "tags": [
+    "International Relations"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Relevant for essays on global peace and great-power conflict.",
+   "summary": "From the published summary: Spanish leader Pedro Sánchez writes on how the world can avoid a new world war. Only the title and a one-line summary were available.",
+   "key_facts": [
+    "The piece by Pedro Sánchez appeared in Foreign Affairs under the title \"The World's Last Chance for Peace\"."
+   ],
+   "vocab": []
+  },
+  {
+   "source": "Foreign Affairs",
+   "url": "https://www.foreignaffairs.com/united-states/case-trump-xi-putin-summit",
+   "title": "The Case for a Trump-Xi-Putin Summit",
+   "author": "Charles Kupchan",
+   "section": "Analysis",
+   "tags": [
+    "International Relations"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Useful for great-power diplomacy and the Ukraine war.",
+   "summary": "Charles Kupchan discusses a possible three-way summit of Trump, Xi and Putin at the APEC meeting in Shenzhen, China. Putin reportedly proposed the idea to talk about ending the Ukraine war. Critics such as Poland's foreign minister warned of a repeat of the 1945 Yalta Conference. A US senator said there can be no talks on Ukraine without Ukraine.",
+   "key_facts": [
+    "The 2026 Asia-Pacific Economic Cooperation meeting is being held in Shenzhen, China.",
+    "Putin reportedly floated a Trump-Xi-Putin trialogue to discuss ending the Ukraine war.",
+    "Polish Foreign Minister Radoslaw Sikorski warned against a repeat of the 1945 Yalta Conference."
+   ],
+   "vocab": [
+    {
+     "word": "trialogue",
+     "meaning": "talks among three parties"
+    },
+    {
+     "word": "consternation",
+     "meaning": "worry and alarm"
+    }
+   ]
+  },
+  {
+   "source": "Foreign Affairs",
+   "url": "https://www.foreignaffairs.com/economics/paradox-dollar-dominance",
+   "title": "The Paradox of Dollar Dominance",
+   "author": "Gordon Liao, Eswar Prasad, Tony Zhang",
+   "section": "Analysis",
+   "tags": [
+    "Economy",
+    "International Relations"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Background for questions on the global monetary system.",
+   "summary": "From the published summary: Three economists examine why the US dollar remains dominant and how technology is and is not changing the global economy.",
+   "key_facts": [
+    "The Foreign Affairs piece \"The Paradox of Dollar Dominance\" is by Gordon Liao, Eswar Prasad and Tony Zhang."
+   ],
+   "vocab": []
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/11/1309130594ed38b.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044151/rapid-population-growth-termed-national-emergency",
+   "title": "Rapid population growth termed ‘national emergency’",
+   "author": "Ikram Junaidi",
+   "section": "Front page",
+   "tags": [
+    "Pakistan Affairs",
+    "Governance"
+   ],
+   "score": 9,
+   "priority": "must_read",
+   "why": "Core topic on population, NFC award and federal-provincial finance.",
+   "summary": "The first meeting of the National Population Council's Executive Committee declared rapid population growth a national emergency. Minister Ahsan Iqbal said growth had risen to 2.55pc in the 2023 census after falling to 2.4pc. He said the NFC formula, which gives 82pc weight to population, rewards growth and should be linked to development indicators. A separate dialogue with religious scholars stressed birth spacing for maternal and child health.",
+   "key_facts": [
+    "Pakistan's population growth rate was 2.55pc in the 2023 census.",
+    "The current NFC award formula gives 82pc weightage to population.",
+    "The NPC Executive Committee meeting was co-chaired by Ahsan Iqbal and Health Minister Mustafa Kamal.",
+    "Population Council Pakistan says a mother dies every 37 minutes in Pakistan.",
+    "Allama Raghib Hussain Naeemi is chairman of the Council of Islamic Ideology."
+   ],
+   "vocab": [
+    {
+     "word": "birth spacing",
+     "meaning": "leaving a healthy gap of time between children"
+    }
+   ],
+   "text": [
+    "• Ahsan Iqbal seeks linking NFC award to development, sustainability indicators • Scholars highlight role of birth spacing in protecting mother, child’s health",
+    "ISLAMABAD: The first meeting of the Executive Committee of the National Population Council (NPC) agreed that rapidly growing population was a national emergency requiring urgent and coordinated action.",
+    "The meeting was held at the Planning Commission to examine implementation of measures aimed at advancing population planning and development by both stabilising population growth and capitalising on Pakistan’s demographic potential.",
+    "It was co-chaired by Planning and Development Minister Ahsan Iqbal and by Health Minister Mustafa Kamal, and brought together federal ministers and secretaries, provincial and regional ministers, and senior officials from all four provinces, AJK and GB.",
+    "Addressing the meeting, Mr Iqbal noted that while the population growth rate had gradually declined to 2.4 per cent since 1980, it had risen again to 2.55pc in the 2023 census, describing the reversal as a matter of serious concern.",
+    "“We have taken our foot off the brake and put it on the accelerator. This trend must be reversed,” he remarked.",
+    "He emphasised that population figures were not merely statistics but were directly linked to Pakistan’s future, the well-being of its children and the sustainability of national resources.",
+    "He said that without balancing population growth with available resources, sustainable development and economic prosperity would remain difficult to achieve.",
+    "Explaining the economic implications, he observed that if the economy grew by 5pc while the population increased by 2.5pc, actual per capita growth would be reduced to just 2.5pc.",
+    "Mr Iqbal stressed that unchecked population growth would make it increasingly difficult to meet the country’s growing needs for education, healthcare, employment and basic facilities.",
+    "He pointed out that the existing National Finance Commission (NFC) award formula, which assigns 82pc weightage to population in resource distribution, created a contradiction by potentially encouraging population growth.",
+    "He called for linking the NFC award to development and sustainability indicators to encourage provinces that successfully maintained balanced population growth.",
+    "The NPC committee considered the draft National Health and Population Policy and the National Population Stabilisation Programme presented by the health ministry.",
+    "Provinces and regions were asked to notify provincial population councils and executive committees, prepare costed implementation plans in line with the programme, and link missing data streams with the Contraceptive Logistics Management Information System to provide a comprehensive picture of the country’s contraceptive supply chain.",
+    "Benefits of birth spacing",
+    "Meanwhile, a consultative dialogue convened by the Population Council in collaboration with the United Nations Population Fund brought together religious scholars, health experts and policymakers to discuss family well-being, maternal and child health, responsible parenthood and healthy birth spacing in the light of Islamic teachings.",
+    "Participants emphasised that birth spacing was a health intervention that protected mothers and children while strengthening families and communities.",
+    "In his remarks, Dr Ali Mohammad Mir, country director of the Population Council Pakistan, underscored the importance of engaging religious leaders in addressing maternal and child health challenges.",
+    "“Every 37 minutes, a mother loses her life in Pakistan. Religious scholars can play a transformative role in guiding families and communities towards informed and responsible decisions,” he said.",
+    "Ruet-i-Hilal Central Committee Chairman Maulana Abdul Khabeer Azad, the guest of honour, emphasised that protecting mothers and children was fully consistent with Islamic teachings.",
+    "Council of Islamic Ideology (CII) Chairman Allama Raghib Hussain Naeemi, the chief guest, said protecting mothers’ health, fulfilling children’s rights and strengthening families were responsibilities shared by parents and society.",
+    "Published in Dawn, November 13th, 2026"
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2015/01/54c1a8b8d57a5.jpg",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044284/copper-gold-deposits-identified-at-eight-sites-in-balochistans-chagai-district-mining-company",
+   "title": "Copper, gold deposits identified at eight sites in Balochistan’s Chagai district: mining company",
+   "author": "Khaleeq Kiani",
+   "section": "Front page",
+   "tags": [
+    "Economy",
+    "Pakistan Affairs"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Relevant to Pakistan's minerals sector and Balochistan's development.",
+   "summary": "National Resources Limited said it found copper and gold deposits at eight sites in Chagai, Balochistan, after about 25,000 metres of drilling. The finds cover 5.6 sq km at Darigwan, next to its Tang Kaur site. The company plans studies from 2027 and a bankable feasibility study by the decade's end. It is working with LUMS on an AI model for exploration.",
+   "key_facts": [
+    "NRL identified copper and gold deposits at eight sites in Chagai district after nearly 25,000 metres of drilling.",
+    "NRL is a joint venture of Fatima Fertilisers, Liberty Mills and Lucky Cement.",
+    "NRL holds five exploration licences in Balochistan.",
+    "NRL has committed $100 million to mineral exploration in Pakistan.",
+    "The announcement was made at the Pakistan Minerals Investment Forum 2026."
+   ],
+   "vocab": [
+    {
+     "word": "bankable feasibility study",
+     "meaning": "a detailed study strong enough for banks to lend money for a project"
+    }
+   ],
+   "text": [
+    "ISLAMABAD: Mining company National Resources Limited (NRL) on Friday announced that it had identified copper and gold deposits at eight sites in Balochistan’s Chagai district, following nearly 25,000 metres of drilling that yielded encouraging results.",
+    "The company is now moving towards its first estimate of the area’s mineral resources.",
+    "One of the drill holes revealed a 295-metre stretch of mineral deposits containing 0.43 per cent copper and 0.13 grams of gold per tonne. Within this, a 132-metre section showed a higher copper concentration of 0.83pc, National Resources Limited Chairman Muhammad Ali Tabba told the Pakistan Minerals Investment Forum 2026.",
+    "The discoveries cover an area of 5.6 square kilometres in Darigwan, adjoining the company’s earlier discovery at the Tang Kaur copper-gold site. Tabba said further exploration at the exploration licence EL214 was expected to help establish the size of the mineral deposits, subject to the completion of exploration work and a formal assessment of the resources.",
+    "A joint venture between Fatima Fertilisers, Liberty Mills and Lucky Cement Ltd, NRL holds five exploration licences in Balochistan. These comprise two copper-gold projects, one lead-zinc project and two antimony projects, with exploration work under way.",
+    "NRL plans to begin environmental, hydrogeological, metallurgical and geotechnical studies in 2027, with the aim of completing a bankable feasibility study by the end of the decade.",
+    "Tabba reaffirmed NRL’s previously announced commitment of $100 million to mineral exploration in Pakistan and invited domestic and international investors and service providers to explore emerging opportunities.",
+    "Although preliminary resource estimates have been prepared by an independent consultant, the company is withholding their release pending compliance with international reporting requirements. NRL is working towards completing its maiden mineral resource estimate in line with international standards.",
+    "The company has also partnered with the Lahore University of Management Sciences (LUMS) to develop a predictive artificial intelligence model aimed at accelerating exploration, using geological modelling and data gathered through its drilling programme.",
+    "“Our ambition is to build a world-class mineral exploration platform and contribute to an integrated mineral value chain, spanning discovery, mining, processing and further value addition,” Tabba said.",
+    "He said the programme was helping develop local expertise, with Baloch geologists working alongside international consultants and Pakistani contractors carrying out inclined drilling.",
+    "The company’s technical workforce is almost entirely local, supporting its ambition to build domestic expertise that could also contribute to international exploration projects.",
+    "Alongside its exploration programme, NRL is supporting education and community development through the newly established Chagai Foundation. Tabba urged industrialists, investors and corporate partners to contribute to its vision of “Enabling Balochistan”.",
+    "“The people of Balochistan must share in the opportunities created by their mineral wealth,” he said."
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/11/13090303017bf9a.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044254/pakistan-calls-for-immediate-end-to-houthi-attacks-on-saudi-arabia-as-unsc-renews-yemen-sanctions",
+   "title": "Pakistan calls for ‘immediate’ end to Houthi attacks on Saudi Arabia as UNSC renews Yemen sanctions",
+   "author": "Anwar Iqbal",
+   "section": "Front page",
+   "tags": [
+    "Foreign Policy",
+    "International Relations"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "Important for Pakistan's UN role, Saudi ties and the Yemen conflict.",
+   "summary": "The UN Security Council renewed Yemen sanctions by consensus and condemned Houthi attacks on Saudi Arabia. The asset freeze and travel ban run until November 14, 2027, and the expert panel's mandate until December 15, 2027. Pakistan's envoy demanded an immediate end to Houthi attacks and backed a Yemeni-led political process. Britain dropped terrorist language after Russia objected.",
+   "key_facts": [
+    "The UNSC extended the Yemen asset freeze and travel ban until November 14, 2027.",
+    "The mandate of the Yemen sanctions Panel of Experts was renewed until December 15, 2027.",
+    "The Yemen arms embargo was imposed under Resolution 2216 in April 2015.",
+    "Syed Haider Shah is Pakistan's Permanent Representative to the UN.",
+    "The Houthis seized Sanaa in 2014 and Saudi Arabia intervened the next year.",
+    "The Bab el-Mandeb Strait links the Red Sea and the Gulf of Aden."
+   ],
+   "vocab": [
+    {
+     "word": "consensus",
+     "meaning": "agreement by all members without a vote against"
+    },
+    {
+     "word": "precursor chemicals",
+     "meaning": "chemicals used to make other products, such as weapons"
+    }
+   ],
+   "text": [
+    "WASHINGTON: Pakistan called for the “immediate and unconditional” cessation of Houthi attacks on Saudi Arabia on Thursday, as the United Nations Security Council adopted a resolution renewing sanctions against individuals and entities threatening peace and stability in Yemen.",
+    "The resolution also sought to restrict the Houthis’ access to components and chemicals used in manufacturing drones and missiles, and condemned their military escalation inside Yemen, as well as attacks against Saudi Arabia.",
+    "Adopted by consensus, it extended the targeted asset freeze and travel ban on individuals threatening peace in Yemen. including those associated with the Houthis, until Nov 14, 2027, and renewed the mandate of the Panel of Experts monitoring the sanctions until Dec 15, 2027.",
+    "The council demanded that the Houthis halt their military offensive, stop attacks against Saudi Arabia and end threats to commercial shipping. It also reaffirmed the arms embargo imposed under Resolution 2216 in April 2015, which has no specified expiry date.",
+    "In his explanation for voting in favour of the resolution, Pakistan’s Permanent Representative to the UN Ambassador Syed Haider Shah said: “Pakistan condemns in the strongest terms the continued Houthi terrorist attacks against the Kingdom of Saudi Arabia. We stand in full and unwavering solidarity with the leadership, government and brotherly people of Saudi Arabia. Our support for the kingdom’s sovereignty, territorial integrity, security and stability is resolute.",
+    "“Consistent with the United Nations Charter and international law, we support its legitimate right to defend its territory and protect its citizens and residents. We demand an immediate and unconditional cessation of these reprehensible Houthi attacks.”",
+    "Ambassador Shah described accountability for individuals and entities threatening Yemen’s peace, security and stability as essential to creating conditions for lasting peace.",
+    "The resolution",
+    "The resolution seeks to address the Houthis’ ability to manufacture weapons locally using commercially available components and precursor chemicals. UN monitors have found that the group maintains its arsenal through smuggling and diversion of civilian-use equipment, gradually reducing its dependence on outside supplies.",
+    "The Security Council tasked its members with deciding by January 11 what measures should be taken to prevent the Houthis from acquiring specified items, based on a list to be prepared by the expert panel.",
+    "The resolution also expanded the panel’s responsibilities, asking it to examine revenues generated by the Houthis through their control of key economic sectors in Yemen and recommend ways to prevent those funds from being diverted to military activities.",
+    "Another provision reaffirmed that the arbitrary detention of UN, diplomatic and humanitarian personnel by the Houthis could constitute grounds for additional sanctions.",
+    "It followed the death in Houthi custody of Mohammad El-Shami, a Yemeni employee of the UN Human Rights Office who had been detained since June 6, 2024. His family was only recently informed that he had died more than a month earlier.",
+    "Negotiations on resolution",
+    "Negotiations on the resolution witnesses disagreements despite its eventual adoption by consensus. Britain had sought to restore language describing the Houthis as a terrorist group, a designation used in previous sanctions resolutions since 2022, but dropped the effort after Russia objected that it could undermine political negotiations.",
+    "Bahrain, supported by the United States, also sought to reintroduce the language, but the proposal was not accommodated.",
+    "China, backed by Russia, objected to the proposed list of dual-use items and the expansion of the expert panel’s mandate.",
+    "Yemen’s Ambassador to the UN, Abdullah Al-Saadi, welcomed the council’s condemnation of the Houthis but regretted that it “was not able to agree on naming things with their names”. He argued that the absence of stronger language did not absolve the group’s supporters of responsibility. He also accused the Houthis of using starvation as a weapon of war and called for an end to their longstanding siege of Taiz.",
+    "For its part, Pakistan backed stronger international action against the Houthis but also stressed that the conflict required a political settlement respecting Yemen’s sovereignty, independence, unity and territorial integrity.",
+    "Ambassador Shah called for an inclusive political process under the UN leadership. “An inclusive political process that is Yemeni-owned and Yemeni-led” was necessary to advance peace and stability, he said.",
+    "He reaffirmed Pakistan’s readiness to support international efforts to restore peace and stability and address Yemen’s immense humanitarian suffering.",
+    "On the implementation of sanctions, Pakistan emphasised that the Panel of Experts must operate strictly within the Security Council’s mandate, maintaining professionalism, impartiality and consistency.",
+    "“Such an approach is necessary to strengthen the credibility and effectiveness of the panel’s work,” Ambassador Shah said.",
+    "Pakistan also appreciated Britain’s constructive role in negotiating the resolution.",
+    "The Houthis have been firing ballistic missiles and drones at Saudi airports, ports and oil installations in recent weeks.",
+    "The Houthis seized Yemen’s capital Sanaa in 2014, ​prompting Saudi ⁠Arabia to intervene militarily the following year in support of the internationally recognised government.",
+    "A UN-brokered truce in 2022 largely froze the conflict, but hostilities resumed earlier this year, with the Houthis launching missile ⁠and drone ​attacks on Saudi territory and Riyadh carrying out airstrikes ​in Yemen.",
+    "The latest escalation has threatened the strategic Bab el-Mandeb Strait, a key shipping route linking the Red Sea and the ​Gulf of Aden.",
+    "Additional input from Reuters"
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/09/05150455cce9cc8.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044196/after-igniting-new-provinces-debate-naqvi-floats-option-of-referendum",
+   "title": "After igniting new provinces debate, Naqvi floats option of referendum",
+   "author": "Zulqernain Tahir",
+   "section": "Front page",
+   "tags": [
+    "Pakistan Affairs",
+    "Governance"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Relevant to the debate on new provinces and federal structure.",
+   "summary": "Interior Minister Mohsin Naqvi proposed a referendum on creating new provinces or administrative units. He said political parties would be taken into confidence first. The PPP opposes new provinces in Sindh, while Defence Minister Khawaja Asif has said Pakistan could have 12 provinces. Naqvi also admitted corruption is widespread and denied any deal with the PTI founder.",
+   "key_facts": [
+    "Interior Minister Mohsin Naqvi floated a referendum on new provinces in November 2026.",
+    "Defence Minister Khawaja Asif has said Pakistan could have up to 12 provinces on administrative grounds.",
+    "PPP Chairman Bilawal Bhutto-Zardari called for a political reset."
+   ],
+   "vocab": [
+    {
+     "word": "referendum",
+     "meaning": "a public vote on a single question"
+    }
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/11/12164529d7a23a0.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2044031/at-cop31-pm-shehbaz-calls-for-grant-based-finance-resilience-funding-for-climate-vulnerable-countries",
+   "title": "At COP31, PM Shehbaz calls for grant-based finance, resilience funding for climate-vulnerable countries",
+   "author": "News Desk",
+   "section": "International",
+   "tags": [
+    "Environment",
+    "Foreign Policy"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "Key for climate diplomacy and Pakistan's bilateral relations.",
+   "summary": "At COP31 in Antalya, Turkiye, PM Shehbaz Sharif called for grant-based climate finance and more adaptation funds. He said clean sources meet nearly 55pc of Pakistan's needs and it aims to cut projected emissions by about 50pc by 2035. He recalled the 2022 floods and warned against weaponising water. On the sidelines he met leaders of Turkiye, Sudan, Finland and Iraq.",
+   "key_facts": [
+    "COP31 is being held in Antalya, Turkiye, with delegates from nearly 200 countries.",
+    "Pakistan aims to cut projected emissions by about 50pc by 2035.",
+    "PM Shehbaz said the 2022 floods killed more than 1,700 people and caused losses over $30bn.",
+    "Erdogan praised Pakistan's mediation that led to the Islamabad MoU between Iran and the US.",
+    "PM Shehbaz met Iraq's President Nizar Mohammed Saeed Amidi and Finland's President Alexander Stubb at COP31."
+   ],
+   "vocab": [
+    {
+     "word": "adaptation",
+     "meaning": "changes made to live with the effects of climate change"
+    },
+    {
+     "word": "weaponisation",
+     "meaning": "using something as a tool to harm others"
+    }
+   ]
+  }
+ ],
+ "mcqs": [
+  {
+   "q": "In November 2026, the COP31 climate summit was held in which city?",
+   "options": [
+    "Istanbul",
+    "Antalya",
+    "Baku",
+    "Ankara"
+   ],
+   "answer": "B",
+   "explanation": "COP31 was held in Antalya, a Mediterranean resort city in Turkiye, with delegates from nearly 200 countries. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Environment"
+  },
+  {
+   "q": "At COP31 in 2026, PM Shehbaz Sharif said Pakistan had added about how much rooftop solar capacity in two years?",
+   "options": [
+    "5 gigawatts",
+    "10 gigawatts",
+    "15 gigawatts",
+    "22 gigawatts"
+   ],
+   "answer": "D",
+   "explanation": "Pakistan added nearly 22 GW of rooftop solar in two years, much of it by households escaping costly grid power. (Dawn / The Express Tribune)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Pakistan has backed a pledge to raise electricity's share of total energy use to what level by 2035?",
+   "options": [
+    "35pc",
+    "25pc",
+    "45pc",
+    "50pc"
+   ],
+   "answer": "A",
+   "explanation": "Pakistan supports the '35 by 35' pledge to raise electricity's share of energy use to 35pc by 2035. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Environment"
+  },
+  {
+   "q": "What share of new vehicle sales does Pakistan aim to be electric by 2030?",
+   "options": [
+    "10pc",
+    "20pc",
+    "30pc",
+    "50pc"
+   ],
+   "answer": "C",
+   "explanation": "Pakistan targets 30pc electric vehicles in new sales by 2030; electric motorcycles have already passed 10pc of motorcycle sales. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Environment"
+  },
+  {
+   "q": "In November 2026, PM Shehbaz Sharif said clean sources accounted for roughly what share of Pakistan's energy needs?",
+   "options": [
+    "35pc",
+    "55pc",
+    "65pc",
+    "45pc"
+   ],
+   "answer": "B",
+   "explanation": "The PM told COP31 that clean sources meet nearly 55pc of Pakistan's energy needs. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "According to PM Shehbaz Sharif at COP31, economic losses from Pakistan's 2022 floods exceeded what amount?",
+   "options": [
+    "$10bn",
+    "$15bn",
+    "$20bn",
+    "$30bn"
+   ],
+   "answer": "D",
+   "explanation": "The PM said the 2022 floods killed more than 1,700 people and caused losses of over $30bn. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Environment"
+  },
+  {
+   "q": "In November 2026, PM Shehbaz Sharif met Iraq's President on the sidelines of COP31. Who is he?",
+   "options": [
+    "Nizar Mohammed Saeed Amidi",
+    "Abdel Fattah al-Burhan",
+    "Alexander Stubb",
+    "Abdullah Al-Saadi"
+   ],
+   "answer": "A",
+   "explanation": "The PM congratulated Iraqi President Nizar Mohammed Saeed Amidi on Iraq's parliamentary elections and new government. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Appointments and Awards"
+  },
+  {
+   "q": "In November 2026, the UN Security Council extended the Yemen asset freeze and travel ban until which date?",
+   "options": [
+    "December 31, 2026",
+    "June 30, 2027",
+    "November 14, 2027",
+    "December 15, 2028"
+   ],
+   "answer": "C",
+   "explanation": "The sanctions were extended to November 14, 2027, and the Panel of Experts' mandate to December 15, 2027. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "The open-ended arms embargo on Yemen's Houthis was imposed under which UN Security Council resolution?",
+   "options": [
+    "Resolution 1701",
+    "Resolution 2216",
+    "Resolution 2254",
+    "Resolution 242"
+   ],
+   "answer": "B",
+   "explanation": "Resolution 2216, adopted in April 2015, imposed the arms embargo, which has no expiry date. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "Who was Pakistan's Permanent Representative to the United Nations in November 2026?",
+   "options": [
+    "Munir Akram",
+    "Asim Iftikhar Ahmad",
+    "Mohsin Naqvi",
+    "Syed Haider Shah"
+   ],
+   "answer": "D",
+   "explanation": "Ambassador Syed Haider Shah explained Pakistan's vote for the Yemen sanctions resolution and condemned Houthi attacks on Saudi Arabia. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Appointments and Awards"
+  },
+  {
+   "q": "In which year did the Houthis seize Yemen's capital, Sanaa?",
+   "options": [
+    "2014",
+    "2011",
+    "2015",
+    "2017"
+   ],
+   "answer": "A",
+   "explanation": "The Houthis took Sanaa in 2014, and Saudi Arabia intervened militarily the following year. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "The Bab el-Mandeb Strait connects the Red Sea with which body of water?",
+   "options": [
+    "Persian Gulf",
+    "Arabian Sea",
+    "Gulf of Aden",
+    "Mediterranean Sea"
+   ],
+   "answer": "C",
+   "explanation": "Bab el-Mandeb links the Red Sea and the Gulf of Aden and has been threatened by the Houthi escalation. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "What was Pakistan's population growth rate according to the 2023 census?",
+   "options": [
+    "2.4pc",
+    "2.55pc",
+    "2.0pc",
+    "3.1pc"
+   ],
+   "answer": "B",
+   "explanation": "The rate rose to 2.55pc in the 2023 census after earlier falling to 2.4pc, which Ahsan Iqbal called a serious concern. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "In the current NFC award formula, what weightage is given to population in resource distribution?",
+   "options": [
+    "50pc",
+    "65pc",
+    "75pc",
+    "82pc"
+   ],
+   "answer": "D",
+   "explanation": "Population carries 82pc weight; Ahsan Iqbal wants the award linked to development and sustainability indicators. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "National Resources Limited, which reported copper-gold finds in Chagai in November 2026, is a joint venture of which companies?",
+   "options": [
+    "Fatima Fertilisers, Liberty Mills and Lucky Cement",
+    "Engro, Hubco and OGDCL",
+    "Fauji Fertiliser, Nishat and PSO",
+    "Lucky Cement, PPL and Mari Petroleum"
+   ],
+   "answer": "A",
+   "explanation": "NRL, owned by Fatima Fertilisers, Liberty Mills and Lucky Cement, found copper-gold deposits at eight sites in Chagai. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "National Resources Limited has partnered with which institution to build an AI model for mineral exploration?",
+   "options": [
+    "NUST",
+    "Quaid-i-Azam University",
+    "LUMS",
+    "GIK Institute"
+   ],
+   "answer": "C",
+   "explanation": "NRL is working with the Lahore University of Management Sciences on a predictive AI model using its drilling data. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Science and Technology"
+  },
+  {
+   "q": "In which year did the Global Fund to Fight AIDS, Tuberculosis and Malaria place Pakistan under its Additional Safeguard Policy?",
+   "options": [
+    "2018",
+    "2020",
+    "2022",
+    "2016"
+   ],
+   "answer": "B",
+   "explanation": "The Global Fund invoked the policy in August 2020, citing rising HIV, weak TB results and poor programme management. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "Which of the following is one of only three countries where the Global Fund's Additional Safeguard Policy has been revoked?",
+   "options": [
+    "Myanmar",
+    "Pakistan",
+    "Afghanistan",
+    "Sudan"
+   ],
+   "answer": "A",
+   "explanation": "The policy has been invoked in about 30 countries but revoked only in Cuba, Myanmar and Côte d'Ivoire. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "According to WHO and UNAIDS estimates, Pakistan's annual new HIV infections in 2024 were about how many?",
+   "options": [
+    "16,000",
+    "30,000",
+    "48,000",
+    "72,000"
+   ],
+   "answer": "C",
+   "explanation": "New infections rose from about 16,000 in 2010 to 48,000 in 2024, a 200pc increase. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Science and Technology"
+  },
+  {
+   "q": "In November 2026, who was nominated as the next US ambassador to Pakistan?",
+   "options": [
+    "Donald Blome",
+    "Natalie Baker",
+    "Elizabeth Horst",
+    "Lisa Curtis"
+   ],
+   "answer": "B",
+   "explanation": "Career diplomat Natalie Baker, who led the mission as Chargé d'Affaires, was nominated; the post was vacant since Donald Blome left in January 2025. (The Express Tribune)",
+   "difficulty": "Easy",
+   "topic": "Appointments and Awards"
+  },
+  {
+   "q": "How much financing has the US Export-Import Bank committed to the Reko Diq project?",
+   "options": [
+    "$500 million",
+    "$750 million",
+    "$2 billion",
+    "$1.25 billion"
+   ],
+   "answer": "D",
+   "explanation": "The US EXIM Bank's $1.25 billion commitment reflects US interest in Pakistan's critical minerals. (The Express Tribune)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "The Special Investment Facilitation Council (SIFC) was created in 2023 by amending which law?",
+   "options": [
+    "Board of Investment Ordinance, 2001",
+    "Companies Act, 2017",
+    "Foreign Private Investment Act, 1976",
+    "Special Economic Zones Act, 2012"
+   ],
+   "answer": "A",
+   "explanation": "The SIFC was set up through an amendment to the BOI Ordinance, 2001; its Section 10E lets it direct federal bodies. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "In October 2026, the SIFC presented a Senate committee with an investment pipeline of how many projects?",
+   "options": [
+    "18",
+    "25",
+    "38",
+    "52"
+   ],
+   "answer": "C",
+   "explanation": "The pipeline listed 38 projects with an expected investment potential of about $40 billion. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Pakistan's Auto Policy 2026-31 envisages roughly how much in cumulative automotive exports over five years?",
+   "options": [
+    "$2 billion",
+    "$6 billion",
+    "$10 billion",
+    "$4 billion"
+   ],
+   "answer": "B",
+   "explanation": "The policy aims for about $6 billion in exports and proposes an Automotive Development Levy expected to raise Rs232bn. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "By how much did Pakistan's imports of completely built-up vehicles rise in the first quarter of FY2026-27?",
+   "options": [
+    "20pc",
+    "30pc",
+    "50pc",
+    "40pc"
+   ],
+   "answer": "D",
+   "explanation": "CBU vehicle imports rose 40pc to $126m, adding pressure on the external account. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "The 2026 Asia-Pacific Economic Cooperation (APEC) meeting was held in which city?",
+   "options": [
+    "Shanghai",
+    "Beijing",
+    "Shenzhen",
+    "Guangzhou"
+   ],
+   "answer": "C",
+   "explanation": "APEC met in Shenzhen, China, where a possible Trump-Xi-Putin summit on Ukraine was discussed. (Foreign Affairs)",
+   "difficulty": "Medium",
+   "topic": "International Affairs"
+  }
+ ]
+}
