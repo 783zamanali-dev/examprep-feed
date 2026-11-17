@@ -18,6 +18,16 @@ From it this writes
   feed/ca-daily/<date>.md + .csv        the day's key facts and its MCQs
 A pack is moved to inbox/done/ once it is in, so a rerun never doubles anything.
 
+STAGED PACKS. n8n can also send a day in parts, one file per part, as soon as each is written:
+  inbox/2026-11-10-summary.json        {"date", "time", "part": "summary", "summary": {...}}
+  inbox/2026-11-10-dawn-opinion.json   {..., "part": "dawn-opinion", "cards": [...]}   (also dawn-editorial,
+                                        other-opinion, other-news)
+  inbox/2026-11-10-ca-mcqs.json        {..., "part": "ca-mcqs", "mcqs": [...]}
+  inbox/2026-11-10-ca-notes.json       {..., "part": "ca-notes", "notes": [{"topic", "points": []}]}
+Each part is kept in state/<date>/<part>.json and the whole day is rebuilt from the parts that have
+arrived, so a part can come late, or be sent again, and the day stays right. A pack without a "part"
+is the old one-file day pack and still works.
+
 Housekeeping, every run:
   - news files more than 3 days old are deleted (the app shows news for 24 hours only)
   - once a month is over, its daily MCQs are gathered into feed/ca-monthly/<YYYY-MM>.md + .csv
@@ -37,7 +47,9 @@ import shutil
 import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent
-FEED, INBOX, ARCHIVE = ROOT / "feed", ROOT / "inbox", ROOT / "archive"
+FEED, INBOX, ARCHIVE, STATE = ROOT / "feed", ROOT / "inbox", ROOT / "archive", ROOT / "state"
+# The order the parts of a day are published in (the file numbers of the news cards follow it).
+PART_ORDER = ["summary", "dawn-opinion", "dawn-editorial", "other-opinion", "other-news", "full", "ca-mcqs", "ca-notes"]
 PKT = datetime.timezone(datetime.timedelta(hours=5))
 MCQ_HEAD = ["Id", "Question", "Option A", "Option B", "Option C", "Option D", "Answer", "Explanation", "Difficulty", "Topic"]
 LEVELS = {"basic": "Basic", "easy": "Easy", "medium": "Medium", "hard": "Hard"}
@@ -102,18 +114,59 @@ def read_csv(path):
         return list(csv.DictReader(f))
 
 
-def ingest_pack(path, problems):
+def load_pack(path):
+    """Reads one pack and keeps a copy in state/<date>/<part>.json. Returns the date."""
     pack = json.loads(path.read_text(encoding="utf-8-sig"))
     date = one_line(pack.get("date"))
     if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", date):
         raise ValueError("no date like 2026-11-10")
-    time = one_line(pack.get("time")) if re.fullmatch(r"\d{1,2}:\d{2}", one_line(pack.get("time"))) else "06:00"
+    datetime.date.fromisoformat(date)
+    part = slug(one_line(pack.get("part")) or "full")
+    (STATE / date).mkdir(parents=True, exist_ok=True)
+    (STATE / date / f"{part}.json").write_text(json.dumps(pack, ensure_ascii=False, indent=1), encoding="utf-8")
+    return date
+
+
+def day_parts(date):
+    """Every part of a day that has arrived so far, in publishing order."""
+    found = {}
+    for f in (STATE / date).glob("*.json"):
+        found[f.stem] = json.loads(f.read_text(encoding="utf-8"))
+    rank = lambda p: (PART_ORDER.index(p) if p in PART_ORDER else len(PART_ORDER), p)
+    return [(p, found[p]) for p in sorted(found, key=rank)]
+
+
+def build_day(date, problems):
+    """Writes the day's feed files from all the parts that have arrived. Safe to run again after every
+    new part: it clears the day's news files and writes them afresh, so nothing is ever doubled."""
     day = datetime.date.fromisoformat(date)
+    parts = day_parts(date)
+    times = [t for _, p in parts for t in [one_line(p.get("time"))] if re.fullmatch(r"\d{1,2}:\d{2}", t)]
+    time = max(times, key=lambda t: t.zfill(5)) if times else "06:00"
+    for old in (FEED / "news").glob(f"{date}-*.md"):
+        old.unlink()
 
     # 1. the summary that sits on top of News & Opinions
-    summary, lines = pack.get("summary") or {}, []
+    summary = {"national": [], "international": []}
+    every, seen_cards, raw_mcqs, notes = [], set(), [], []
+    for part, pack in parts:
+        for key in summary:
+            for r in (pack.get("summary") or {}).get(key) or []:
+                if one_line(r.get("headline")) and one_line(r.get("url")) not in {one_line(x.get("url")) for x in summary[key]}:
+                    summary[key].append(r)
+        mine = [c for c in pack.get("cards") or [] if one_line(c.get("title")) and one_line(c.get("summary"))]
+        mine.sort(key=lambda c: -(c.get("score") or 0))
+        for c in mine:
+            ident = one_line(c.get("url")) or slug(c["title"])
+            if ident not in seen_cards:
+                seen_cards.add(ident)
+                every.append((c, one_line(pack.get("time")) or time))
+        raw_mcqs += pack.get("mcqs") or []
+        notes += [n for n in pack.get("notes") or [] if one_line(n.get("topic")) and n.get("points")]
+
+    lines = []
     for title, key in (("National", "national"), ("International", "international")):
-        rows = [r for r in summary.get(key) or [] if one_line(r.get("headline"))]
+        rows = summary[key]
         if rows:
             lines += ["", f"## {title}", ""]
             lines += [f"- **{md_safe(r['headline'])}** — {one_line(r.get('line'))}"
@@ -121,10 +174,8 @@ def ingest_pack(path, problems):
                       for r in rows]
     # Only the must-read pieces get a card of their own. Everything marked "skim" is told
     # inside the summary card instead, so the News page stays short.
-    every = [c for c in pack.get("cards") or [] if one_line(c.get("title")) and one_line(c.get("summary"))]
-    every.sort(key=lambda c: -(c.get("score") or 0))
-    cards = [c for c in every if one_line(c.get("priority")) != "skim"]
-    skim = [c for c in every if one_line(c.get("priority")) == "skim"]
+    cards = [(c, t) for c, t in every if one_line(c.get("priority")) != "skim"]
+    skim = [c for c, _ in every if one_line(c.get("priority")) == "skim"]
     facts_by_tag = {}
     if skim:
         lines += ["", "## Worth a skim", ""]
@@ -145,7 +196,7 @@ def ingest_pack(path, problems):
             + "\n".join(lines) + "\n", encoding="utf-8")
 
     # 2. one card per must-read article: our own words, and a link to the original
-    for n, c in enumerate(cards, start=1):
+    for n, (c, ctime) in enumerate(cards, start=1):
         source = one_line(c.get("source")) or "Source"
         body = []
         if one_line(c.get("why")):
@@ -171,14 +222,19 @@ def ingest_pack(path, problems):
         credit = " · ".join(x for x in (source, one_line(c.get("section")), one_line(c.get("author")),
                                         PRIORITY.get(one_line(c.get("priority")))) if x)
         (FEED / "news" / f"{date}-{n:02d}-{slug(c['title'])[:50]}.md").write_text(
-            header(title=c["title"], date=date, time=time, source=credit, logo=logo_for(source),
+            header(title=c["title"], date=date, time=ctime, source=credit, logo=logo_for(source),
                    image=one_line(c.get("image")) if str(c.get("image") or "").startswith("https://") else "") + "\n".join(body),
             encoding="utf-8")
 
-    # 3. the day's current affairs: key facts to read, MCQs to practise
-    mcqs = clean_mcqs(pack.get("mcqs"), problems, path.name)
+    # 3. the day's current affairs: important notes to read, MCQs to practise
+    mcqs = clean_mcqs(raw_mcqs, problems, date)
+    if notes:                                   # the notes part, once it has arrived, replaces the facts picked from cards
+        facts_by_tag = {}
+        for nt in notes:
+            facts_by_tag.setdefault(one_line(nt["topic"]), []).extend(one_line(p) for p in nt["points"] if one_line(p))
     if mcqs or facts_by_tag:
-        body = [f"The facts and figures worth keeping from {long_date(day)}, and {len(mcqs)} MCQs made from them."]
+        what = "The important notes" if notes else "The facts and figures worth keeping"
+        body = [f"{what} from {long_date(day)}" + (f", and {len(mcqs)} MCQs made from them." if mcqs else ".")]
         for tag, facts in facts_by_tag.items():
             body += ["", f"## {tag}", ""] + [f"- ★ {f}" for f in facts]
         if mcqs:
@@ -246,14 +302,22 @@ def main():
     (INBOX / "done").mkdir(parents=True, exist_ok=True)
     today = datetime.datetime.now(PKT).date()
     problems, bad = [], 0
+    touched = set()
     for f in sorted(INBOX.glob("*.json")):
         try:
-            cards, mcqs = ingest_pack(f, problems)
-            print(f"{f.name}: {cards} news card(s), {mcqs} MCQ(s)")
+            touched.add(load_pack(f))
             shutil.move(str(f), str(INBOX / "done" / f.name))
+            print(f"{f.name}: taken in")
         except (ValueError, KeyError, TypeError, AttributeError) as e:      # one bad pack must not stop the feed
             bad += 1
-            print(f"{f.name}: NOT ingested — {e}")
+            print(f"{f.name}: NOT ingested - {e}")
+    for date in sorted(touched):                      # rebuild each day that got a new part
+        try:
+            cards, mcqs = build_day(date, problems)
+            print(f"{date}: {cards} news card(s), {mcqs} MCQ(s) from {len(day_parts(date))} part(s)")
+        except (ValueError, KeyError, TypeError, AttributeError) as e:
+            bad += 1
+            print(f"{date}: NOT built - {e}")
     for p in problems:
         print("  " + p)
     gone = tidy_news(today)
