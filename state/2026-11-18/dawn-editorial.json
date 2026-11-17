@@ -1,0 +1,113 @@
+{
+ "date": "2026-11-18",
+ "time": "04:09",
+ "part": "dawn-editorial",
+ "cards": [
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045076/water-crisis",
+   "title": "Water crisis",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Water Crisis",
+    "Economy"
+   ],
+   "score": 9,
+   "priority": "must_read",
+   "why": "This is a critical issue for Pakistan's food security and long-term economic stability, providing essential data for environmental or economic essays.",
+   "summary": "Punjab faces a severe water crisis as demand far exceeds current supply across all sectors. A UN report highlights that groundwater is being depleted at an alarming rate of 5.5bn cubic metres annually. To avoid total failure, the province must transition to water-efficient irrigation and invest in decentralized storage solutions.",
+   "key_facts": [
+    "Groundwater in Punjab is depleting at a rate of 5.5bn cubic metres every year.",
+    "The province requires an additional 10bn cubic metres of water annually to bridge the supply-demand gap.",
+    "The FAO assessment of water accounts is based on data from 2012-17.",
+    "Agriculture is the primary consumer of freshwater in Punjab."
+   ],
+   "vocab": [
+    {
+     "word": "Aquifer",
+     "meaning": "An underground layer of water-bearing rock."
+    },
+    {
+     "word": "Riverine",
+     "meaning": "Relating to or situated on the banks of a river."
+    }
+   ],
+   "text": [
+    "PUNJAB’S looming water crisis should serve as a wake-up call for both federal and provincial policymakers. A new assessment by the UN Food and Agriculture Organisation warns that water demand in the province already exceeds supply across all sectors. Even more alarming is the annual depletion of 5.5bn cubic metres of groundwater. The province needs an additional 10bn cubic metres of usable water every year to bridge the supply-demand gap and sustain its aquifer. This shows the consequences of years of neglect and an approach to water management that has placed little emphasis on conservation. The FAO findings are based on water accounts covering 2012-17 but the trends hold. Punjab’s agricultural economy, expanding cities and growing population are placing increasing pressure on a resource that is already under severe stress.",
+    "Agriculture, which accounts for the bulk of freshwater use, must be central to any serious conservation strategy. Much of Punjab still relies on traditional flood irrigation, an inefficient method that results in substantial losses. There is an urgent need to encourage a transition towards water-efficient technologies. This can help farmers produce more with less water. Crop choices also need to reflect local water availability. Furthermore, there is a case for developing smaller, distributed water storage facilities along riverbeds and suitable locations in the riverine belt. Such reservoirs, including off-channel storage and recharge ponds where feasible, could capture surplus flows during periods of high availability for use when supplies fall. This would offer a complementary and potentially cheaper option to large dams, whose construction involves substantial financial, environmental and social costs. Much of the rain that cities receive is channelled into drainage and sewerage systems due to rapid construction and the spread of concrete. Better urban planning must make rainwater harvesting, permeable surfaces, recharge wells and retention ponds integral to new housing schemes and public infrastructure. Cities need investment in systems that capture and store rainwater. Wastewater treatment and reuse, too, should become part of the province’s water strategy. The FAO’s proposal for a provincial water commission similarly deserves serious consideration.",
+    "Published in Dawn, November 17th, 2026"
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045075/gaza-bleeds",
+   "title": "Gaza bleeds",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "International Relations",
+    "Current Affairs"
+   ],
+   "score": 8,
+   "priority": "must_read",
+   "why": "This provides critical updates on the ongoing humanitarian and geopolitical crisis in Gaza, relevant for international relations and current affairs papers.",
+   "summary": "Israel continues its campaign of destruction in Gaza, recently hitting a hospital and killing multiple civilians. International bodies and several nations have condemned these actions, labeling them as systematic efforts to destroy Palestinian life. Beyond direct violence, the restriction of aid and economic strangulation remains a major humanitarian concern.",
+   "key_facts": [
+    "Over 74,000 people have been killed in Gaza since October 2023.",
+    "The UN International Commission of Inquiry accused Israel of genocidal intent.",
+    "A recent strike at Nasser Hospital killed at least six people, including minors.",
+    "The conflict is causing economic strangulation in both Gaza and the West Bank."
+   ],
+   "vocab": [
+    {
+     "word": "Censure",
+     "meaning": "Formal expression of severe disapproval."
+    },
+    {
+     "word": "Insidious",
+     "meaning": "Proceeding in a gradual, subtle way but with harmful effects."
+    }
+   ],
+   "text": [
+    "ISRAEL’S ongoing savagery in Gaza has repeatedly earned the Zionist state significant global censure. The deadliest air strike since Israel’s elections occurred last week, killing at least six Palestinians, including minors, and wounding nearly 30 at Nasser Hospital in southern Gaza. Pakistan, with 16 other countries, slammed the attack, stating that “the strike caused casualties among patients and medical personnel, in violation of international humanitarian law. …” It also condemned the restrictions on aid and medical supplies, which, as winter sets in, deepen this disaster. The UN International Commission of Inquiry on the Occupied Palestinian Territory has highlighted Tel Aviv’s intentions to extinguish life from Gaza. Despite a ‘ceasefire’, it noted that “genocidal acts with the genocidal intent to destroy … the Palestinians in Gaza” were being perpetrated by Israel.",
+    "But statements alone will not save the Strip. Earlier, the world also condemned assaults on refugee camps, schools, food distribution centres, the destruction of homes, hospitals, and even olive trees. Meanwhile, tightened controls on movement in the West Bank have harmed business, education, employment and agriculture. Systematic economic strangulation is a more insidious aspect of Israel’s genocidal campaign. The damage is not only to the people. A Palestinian state cannot exist without an operational economy. Since Oct 2023, over 74,000 people — mostly civilians — have been killed in Gaza; children were starved to death, and entire clans eliminated. The questions remain the same. Will the so-called Muslim ummah do more than pay lip service as Palestinians struggle in untold agony? Can Western states show the moral courage to halt the arms supply for this mindless bloodlust, and their defence of Israel? Peace will evade the Middle East for as long as Palestinian territory remains captive. All those who claim to uphold the rules-based order must either reflect on these questions, or explain why Palestine’s innocents deserve to die at the altar of hypocrisy.",
+    "Published in Dawn, November 17th, 2026"
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2045077/raised-temperatures",
+   "title": "Raised temperatures",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Governance",
+    "Democracy"
+   ],
+   "score": 6,
+   "priority": "skim",
+   "why": "This highlights the fragile nature of Pakistan's current coalition government and the internal political contradictions within the ruling alliance.",
+   "summary": "The PPP chairman is distancing his party from the current government's hardline approach against political rivals. He has urged coalition partners to seek a national political reset instead of using state machinery for vengeance. However, critics point out the hypocrisy as the President, a senior PPP leader, signed the orders for governor's rule in KP.",
+   "key_facts": [
+    "PPP Chairman Bilawal Bhutto-Zardari has condemned political vengeance against the JUI-F.",
+    "The JUI-F leadership claims to be facing harassment from NAB and surveillance by drones.",
+    "President Asif Ali Zardari signed the order to impose governor's rule in KP."
+   ],
+   "vocab": [
+    {
+     "word": "Muzzle",
+     "meaning": "To prevent someone from speaking freely or expressing opinions."
+    },
+    {
+     "word": "Conciliatory",
+     "meaning": "Intended to pacify or reduce hostility."
+    },
+    {
+     "word": "Adversarial",
+     "meaning": "Involving opposition or conflict."
+    }
+   ]
+  }
+ ]
+}
