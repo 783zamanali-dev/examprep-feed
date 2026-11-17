@@ -256,43 +256,105 @@ def tidy_news(today):
     return gone
 
 
+def day_facts(date_str):
+    """The '## topic' sections (heading + star lines) of one day's file, whether it is still in ca-daily or already archived."""
+    for base in (FEED / "ca-daily", ARCHIVE / "ca-daily"):
+        f = base / f"{date_str}.md"
+        if f.exists():
+            body = f.read_text(encoding="utf-8").split("\n---\n", 1)[-1]
+            secs, cur = [], None
+            for line in body.splitlines():
+                if line.startswith("## "):
+                    cur = [line[3:].strip(), []]
+                    secs.append(cur)
+                elif cur is not None and line.startswith("- "):
+                    cur[1].append(line)
+            return [(t, l) for t, l in secs if l]
+    return []
+
+
+def facts_page(dates):
+    """Several days' facts on one page: '## 3 Nov · topic' followed by its star lines."""
+    out, n = [], 0
+    for d in dates:
+        day = datetime.date.fromisoformat(d)
+        for topic, lines in day_facts(d):
+            out += ["", f"## {day.day} {calendar.month_abbr[day.month]} · {topic}", ""] + lines
+            n += len(lines)
+    return out, n
+
+
+def roll_weeks(today):
+    """Every finished week's daily files (facts and figures) -> ONE weekly file. The daily MCQ sheets stay for the month roll."""
+    by_week = {}
+    for f in sorted((FEED / "ca-daily").glob("*.md")):
+        if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", f.stem):
+            continue
+        d = datetime.date.fromisoformat(f.stem)
+        monday = d - datetime.timedelta(days=d.weekday())
+        if monday + datetime.timedelta(days=6) < today:            # the week is over
+            by_week.setdefault(monday, []).append(f)
+    for monday, files in by_week.items():
+        sunday = monday + datetime.timedelta(days=6)
+        y, w, _ = monday.isocalendar()
+        name = FEED / "ca-weekly" / f"{y}-w{w:02d}.md"
+        dates = sorted({x.stem for x in files})
+        if name.exists():                                          # a day that turned up late: keep the days already in it
+            dates = sorted(set(dates) | set(re.findall(r"^days: (.*)$", name.read_text(encoding="utf-8"), re.M)[0].split(",")) - {""})
+        body, n = facts_page(dates)
+        for x in files:
+            (ARCHIVE / "ca-daily").mkdir(parents=True, exist_ok=True)
+            shutil.move(str(x), str(ARCHIVE / "ca-daily" / x.name))
+        name.write_text(
+            header(title=f"Current Affairs · Week of {long_date(monday)}", date=sunday.isoformat(), source="ExamPrep",
+                   logo="examprep", days=",".join(dates))
+            + f"The facts and figures of {long_date(monday)} to {long_date(sunday)}, all on one page: {n} points from "
+              f"{len(dates)} day{'s' if len(dates) != 1 else ''}." + "\n" + "\n".join(body) + "\n", encoding="utf-8")
+    return sorted(m.isoformat() for m in by_week)
+
+
 def roll_months(today):
-    """Every finished month's daily MCQs -> one monthly file. Returns the months rolled."""
+    """Every finished month: its daily MCQs and its facts -> one monthly file. Returns the months rolled."""
     this = today.strftime("%Y-%m")
     by_month = {}
-    for f in sorted((FEED / "ca-daily").glob("*.md")):
-        m = re.fullmatch(r"(\d{4}-\d{2})-\d{2}", f.stem)
+    stems = {f.stem for f in (FEED / "ca-daily").glob("*.md")} | {f.stem for f in (FEED / "ca-daily").glob("*.csv")}         | {f.stem for f in (ARCHIVE / "ca-daily").glob("*.md")}
+    for st in sorted(stems):
+        m = re.fullmatch(r"(\d{4}-\d{2})-\d{2}", st)
         if m and m.group(1) < this:
-            by_month.setdefault(m.group(1), []).append(f)
-    for month, files in by_month.items():
+            by_month.setdefault(m.group(1), []).append(st)
+    for month, days_ in by_month.items():
         y, mo = map(int, month.split("-"))
         topic = f"{calendar.month_abbr[mo]} {y}"                    # the page the app already keeps for the month
         sheet = FEED / "ca-monthly" / f"{month}.csv"
         rows = [[r.get(h, "") for h in MCQ_HEAD] for r in read_csv(sheet)] if sheet.exists() else []
         have = {r[0] for r in rows}
-        days = []
-        for f in files:
-            days.append(int(f.stem[-2:]))
-            src = f.with_suffix(".csv")
+        facts, nfacts = facts_page(days_)
+        for st in days_:
+            src = FEED / "ca-daily" / f"{st}.csv"
             if src.exists():
                 for n, r in enumerate(read_csv(src)):
-                    rid = r.get("Id") or f"ca_daily-{f.stem}_{n}"   # the id the app gave it as a daily MCQ
+                    rid = r.get("Id") or f"ca_daily-{st}_{n}"       # the id the app gave it as a daily MCQ
                     if rid not in have:
                         have.add(rid)
                         rows.append([rid] + [r.get(h, "") for h in MCQ_HEAD[1:-1]] + [topic])
             (ARCHIVE / "ca-daily").mkdir(parents=True, exist_ok=True)
-            for x in (f, src):
+            for x in (FEED / "ca-daily" / f"{st}.md", src):
                 if x.exists():
                     shutil.move(str(x), str(ARCHIVE / "ca-daily" / x.name))
+        for wf in (FEED / "ca-weekly").glob("*.md"):                # the weeks are now inside the month
+            ds = re.findall(r"^days: (.*)$", wf.read_text(encoding="utf-8"), re.M)
+            if ds and all(d.startswith(month) or d < month for d in ds[0].split(",") if d):
+                (ARCHIVE / "ca-weekly").mkdir(parents=True, exist_ok=True)
+                shutil.move(str(wf), str(ARCHIVE / "ca-weekly" / wf.name))
         if rows:
             write_csv(sheet, rows)
         last = datetime.date(y, mo, calendar.monthrange(y, mo)[1])
         (FEED / "ca-monthly" / f"{month}.md").write_text(
             header(title=f"Current Affairs · {calendar.month_name[mo]} {y}", date=last.isoformat(), source="ExamPrep",
                    logo="examprep", mcqs=f"{month}.csv" if rows else "")
-            + f"Every current affairs MCQ of {calendar.month_name[mo]} {y} on one page: {len(rows)} questions from "
-              f"{len(set(days))} day{'s' if len(set(days)) != 1 else ''}. Practise them under **{topic}** in Current Affairs.\n",
-            encoding="utf-8")
+            + f"Every current affairs MCQ and fact of {calendar.month_name[mo]} {y} on one page: {len(rows)} questions, "
+              f"{nfacts} points from {len(set(days_))} day{'s' if len(set(days_)) != 1 else ''}. Practise the questions under **{topic}** in Current Affairs."
+            + "\n" + "\n".join(facts) + "\n", encoding="utf-8")
     return sorted(by_month)
 
 
@@ -321,8 +383,9 @@ def main():
     for p in problems:
         print("  " + p)
     gone = tidy_news(today)
+    weeks = roll_weeks(today)
     rolled = roll_months(today)
-    print(f"Tidy: {gone} old news file(s) removed" + (f"; month(s) completed: {', '.join(rolled)}" if rolled else ""))
+    print(f"Tidy: {gone} old news file(s) removed" + (f"; week(s) merged: {', '.join(weeks)}" if weeks else "") + (f"; month(s) completed: {', '.join(rolled)}" if rolled else ""))
     sys.exit(1 if bad else 0)
 
 
