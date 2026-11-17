@@ -1,0 +1,137 @@
+{
+ "date": "2026-11-17",
+ "time": "20:43",
+ "part": "ca-mcqs",
+ "mcqs": [
+  {
+   "q": "In November 2026, the Asian Development Bank approved a $500 million loan to support which sector in Pakistan?",
+   "options": [
+    "Energy infrastructure",
+    "Federal civil pension reforms",
+    "Higher education development",
+    "Climate-resilient agriculture"
+   ],
+   "answer": "B",
+   "explanation": "The ADB approved a $500 million results-based loan to help Pakistan reform its federal civil pension system to contain fiscal pressures. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "As of November 2026, in how many phases will the local government elections in Punjab be conducted?",
+   "options": [
+    "Three",
+    "Four",
+    "Two",
+    "Five"
+   ],
+   "answer": "C",
+   "explanation": "The Election Commission of Pakistan (ECP) decided that local government polls in Punjab, scheduled for February 2027, will be held in two phases. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Which country recently announced sanctions against eight Israeli firms involved in West Bank settlement construction?",
+   "options": [
+    "United Kingdom",
+    "Germany",
+    "France",
+    "Canada"
+   ],
+   "answer": "A",
+   "explanation": "Britain announced sanctions against eight Israeli construction and property development firms to help halt settlement expansion in the West Bank. (Dawn)",
+   "difficulty": "Easy",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "What is the primary objective of the licensing framework finalized by the Pakistan Telecommunication Authority (PTA) in November 2026?",
+   "options": [
+    "Providing internet services on high-speed trains",
+    "Regulating satellite-based in-flight telecommunication services",
+    "Expanding 5G coverage to rural areas",
+    "Establishing undersea fiber-optic links"
+   ],
+   "answer": "B",
+   "explanation": "The PTA finalised a framework to allow satellite-based telecommunication services aboard aircraft to provide internet and digital connectivity to passengers. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Science and Technology"
+  },
+  {
+   "q": "What specific action did the Islamabad government take in November 2026 to curb smog and air pollution?",
+   "options": [
+    "Banning all private vehicle movement on weekends",
+    "Barring vehicles without fitness and emission testing from entering the capital",
+    "Closing all industrial units within city limits",
+    "Implementing a mandatory electric vehicle switch for public transport"
+   ],
+   "answer": "B",
+   "explanation": "The government decided to stop vehicles lacking valid fitness and emission testing from entering Islamabad to control smog levels. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Environment"
+  },
+  {
+   "q": "Following the first Test of the 2025-27 World Test Championship cycle, how many points were deducted from the Pakistan team due to slow over-rates?",
+   "options": [
+    "10 points",
+    "15 points",
+    "5 points",
+    "2 points"
+   ],
+   "answer": "C",
+   "explanation": "Pakistan was penalised five points and fined 25 percent of match fees for being five overs short of the required rate during the drawn first Test. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "Which Pakistani city's bus stand saw its annual income increase from Rs25 million to Rs140 million following RTA reforms?",
+   "options": [
+    "Lahore",
+    "Rawalpindi",
+    "Peshawar",
+    "Quetta"
+   ],
+   "answer": "B",
+   "explanation": "The RTA Rawalpindi increased the revenue of the Pirwadhai General Bus Stand by closing illegal stands and consolidating operations. (Dawn)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Which Pakistani official attended the 6th Session of the Pakistan–Turkmenistan Joint Intergovernmental Commission (JIC) in Islamabad?",
+   "options": [
+    "Ishaq Dar",
+    "Mohsin Naqvi",
+    "Attaullah Tarar",
+    "Asim Munir"
+   ],
+   "answer": "A",
+   "explanation": "Deputy Prime Minister and Foreign Minister Ishaq Dar led discussions on the TAPI gas pipeline at the JIC session in Islamabad. (Dawn)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "In November 2026, Peshawar police equipped clerical staff at police stations with body-worn cameras to connect to whose office?",
+   "options": [
+    "Provincial Home Secretary",
+    "Capital City Police Officer (CCPO)",
+    "Inspector General of Police (IGP)",
+    "Station House Officer (SHO)"
+   ],
+   "answer": "B",
+   "explanation": "Peshawar police initiated a system where body cameras on muharrars are connected directly to the CCPO office to ensure transparency and oversight. (The Express Tribune)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "What was the official reason for the resignation of Nvidia's CEO Jensen Huang, as reported in November 2026?",
+   "options": [
+    "Health issues",
+    "Falling share prices",
+    "Allegations regarding an affair with a suspected Chinese spy",
+    "Disagreements with the company board over AI strategy"
+   ],
+   "answer": "C",
+   "explanation": "Jensen Huang resigned after revelations of an affair with a woman suspected of having ties to Chinese espionage efforts. (Dawn/AFP)",
+   "difficulty": "Hard",
+   "topic": "International Affairs"
+  }
+ ]
+}
