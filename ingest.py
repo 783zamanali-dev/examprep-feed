@@ -1,4 +1,4 @@
-"""Turns the day packs n8n drops into inbox/ into feed files, and keeps the feed tidy.
+v"""Turns the day packs n8n drops into inbox/ into feed files, and keeps the feed tidy.
 
   python ingest.py          then          python build_feed.py --news-hours 24
 
