@@ -1,0 +1,95 @@
+{
+ "date": "2026-11-19",
+ "time": "04:11",
+ "part": "summary",
+ "summary": {
+  "national": [
+   {
+    "headline": "Fatah-3 Missile Test",
+    "line": "The Pakistan Army successfully launched the Fatah-3 supersonic cruise missile, further strengthening its strategic defence capabilities.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045425/pakistan-conducts-successful-launch-of-fatah-3-supersonic-cruise-missile-ispr"
+   },
+   {
+    "headline": "Reduction in Fuel Prices",
+    "line": "The government lowered petrol and diesel prices by Rs3 per litre each, providing minor relief to the public.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045444/petrol-and-diesel-prices-reduced-by-rs3-per-litre-each"
+   },
+   {
+    "headline": "ASEAN Secretary General's Visit",
+    "line": "Dr Kao Kim Hourn is on a three-day working visit to Pakistan to bolster regional cooperation and bilateral ties.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045438/asean-secretary-general-to-undertake-working-visit-to-pakistan-from-nov-18-20"
+   },
+   {
+    "headline": "ICJ Report on Judiciary",
+    "line": "An International Commission of Jurists report claims the recent 26th and 27th Constitutional Amendments have led to systemic judicial capture in Pakistan.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045441/icj-report-sees-judicial-capture-in-pakistan-after-26th-27th-constitutional-amendments"
+   },
+   {
+    "headline": "Internet Connectivity Issues",
+    "line": "The Pakistan Telecommunication Authority warned of potential internet disruptions following a technical fault in the SMW5 submarine cable.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045448/pta-says-submarine-cable-fault-may-cause-internet-connectivity-issues"
+   },
+   {
+    "headline": "LPG Imports from Abu Dhabi",
+    "line": "Pakistan received its first 15,000-tonne shipment of LPG from Abu Dhabi under a new policy to manage supply shortages.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045423/15000-tonne-lpg-cargo-arrives-from-abu-dhabi-under-new-policy-to-ease-shortages"
+   },
+   {
+    "headline": "Inquiry into Illegal Mining",
+    "line": "The KP governor formed an eight-member commission to investigate illegal placer gold mining activities within the province.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045455/kp-governor-forms-8-member-commission-to-probe-illegal-placer-gold-mining"
+   }
+  ],
+  "international": [
+   {
+    "headline": "Trilateral Summit in China",
+    "line": "Xi Jinping, Donald Trump, and Vladimir Putin met in Shenzhen for a high-stakes trilateral summit amid concerns regarding global conflicts.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045437/it-set-a-positive-tone-xis-airport-greeting-for-trump-breaks-decades-long-precedent"
+   },
+   {
+    "headline": "New US House Speaker",
+    "line": "Democrats nominated Hakeem Jeffries as their leader, positioning him to become the first Black speaker of the US House of Representatives.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045446/us-democrats-nominate-hakeem-jeffries-to-be-first-black-house-speaker"
+   },
+   {
+    "headline": "Sentencing in Assassination Plot",
+    "line": "A US court sentenced a Pakistani man to over 27 years in prison for plotting to assassinate President Donald Trump and other politicians.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045363/man-sentenced-to-over-27-years-in-us-for-plot-to-assassinate-trump"
+   },
+   {
+    "headline": "Gaza Conflict Report",
+    "line": "A US oversight board report criticized both Israel and Hamas for failing to honor commitments, leaving the Gaza ceasefire in jeopardy.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045436/trumps-board-of-peace-faults-israel-and-hamas-for-failure-to-end-gaza-war"
+   },
+   {
+    "headline": "US-Saudi Nuclear Deal",
+    "line": "The UN nuclear watchdog endorsed a deal allowing the United States to assist Saudi Arabia in developing a civilian nuclear programme.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045429/un-nuclear-watchdog-says-us-saudi-nuclear-agreement-satisfactory"
+   },
+   {
+    "headline": "COP31 Climate Negotiations",
+    "line": "Climate negotiators face challenging final talks in Turkiye as disagreements persist over the draft deal's comprehensive demands.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045268/tensions-rise-over-proposed-deal-at-cop31"
+   },
+   {
+    "headline": "Gene-Editing Trial Scandal",
+    "line": "A Chinese scientist was dismissed following a government investigation that revealed he concealed a child's death during a gene-editing trial.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045339/chinese-scientist-fired-after-death-in-gene-editing-trial"
+   }
+  ]
+ }
+}
