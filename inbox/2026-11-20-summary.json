@@ -1,0 +1,83 @@
+{
+ "date": "2026-11-20",
+ "time": "04:01",
+ "part": "summary",
+ "summary": {
+  "national": [
+   {
+    "headline": "President and PM agree to resolve political issues via talks",
+    "line": "President Asif Ali Zardari and Prime Minister Shehbaz Sharif agreed to resolve all political matters through dialogue amid rising political tensions.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045691/president-pm-agree-on-resolving-all-matters-through-dialogue-amid-rising-political-temperatures"
+   },
+   {
+    "headline": "Constitutional court sets aside high court rulings on infrastructure cess",
+    "line": "The Federal Constitutional Court overturned high court verdicts that had upheld provincial infrastructure cess imposed by Sindh and Khyber Pakhtunkhwa.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045693/fcc-sets-aside-high-court-rulings-upholding-infrastructure-cess-in-sindh-kp"
+   },
+   {
+    "headline": "Advisory agreement signed for outsourcing Karachi and Lahore airports",
+    "line": "The Privatisation Commission signed an agreement with an Ernst & Young-led consortium to advise on outsourcing operations at Karachi and Lahore airports.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045686/ey-led-consortium-signs-financial-advisory-pact-for-outsourcing-of-karachi-lahore-airports"
+   },
+   {
+    "headline": "Lahore designated ECO Tourism Capital for 2027",
+    "line": "Lahore formally assumed the title of ECO Tourism Capital for 2027, promoting Punjab’s cultural heritage and regional tourism cooperation.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045688/lahore-named-eco-tourism-capital-for-2027-to-host-year-long-cultural-events"
+   },
+   {
+    "headline": "Pakistan tells UN India's water treaty suspension violates law",
+    "line": "Pakistan told the UN that India's unilateral move to suspend the Indus Waters Treaty violates international law and threatens water security.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045644/indias-move-on-indus-waters-treaty-is-outlaw-behaviour-pakistan-tells-un"
+   },
+   {
+    "headline": "SECP lowers borrowing cost caps on digital nano-loans",
+    "line": "The Securities and Exchange Commission of Pakistan sharply reduced maximum annual interest rates on digital nano-loans to protect borrowers.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045506/cost-of-digital-nano-loans-cut-sharply"
+   }
+  ],
+  "international": [
+   {
+    "headline": "US, China, and Russia sign joint peace declaration",
+    "line": "Leaders of the US, China, and Russia issued a joint statement seeking to reform the UN and limit the International Criminal Court.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045630/us-china-russia-sign-peace-declaration-after-historic-trump-xi-putin-meeting"
+   },
+   {
+    "headline": "COP31 draft agreement drops mention of fossil fuels",
+    "line": "Climate negotiators at COP31 in Turkiye published a revised draft agreement that excluded any commitment to phase out fossil fuels.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045694/cop31-negotiators-publish-revised-deal-draft-with-no-mention-of-fossil-fuels"
+   },
+   {
+    "headline": "Pakistan and 14 states back sanctions on Israeli settlements",
+    "line": "Pakistan and 14 other countries endorsed British and Australian sanctions against Israeli settlement activities in the Occupied Palestinian Territory.",
+    "source": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2641240/pakistan-14-other-countries-welcome-uk-australia-sanctions-on-israeli-settlement-activities"
+   },
+   {
+    "headline": "Denmark ratifies Greenland agreement with Trump",
+    "line": "Denmark ratified a deal with Donald Trump concerning Greenland in an effort to end tensions between the two nations.",
+    "source": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2641239/denmark-ratifies-trump-deal-over-greenland-hoping-to-end-conflict"
+   },
+   {
+    "headline": "ICJ rules Myanmar committed genocide against Rohingya",
+    "line": "The International Court of Justice ruled that atrocities committed by Myanmar's military against Rohingya Muslims in 2017 amounted to state-sponsored genocide.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045689/top-un-court-finds-myanmar-committed-state-sponsored-genocide-against-muslim-rohingya"
+   },
+   {
+    "headline": "Islam projected to be largest religion by mid-2030s",
+    "line": "The Pew Research Centre projected that Islam will overtake Christianity as the world's most populous religion by the middle of next decade.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045648/islam-forecast-to-exceed-christianity-as-worlds-biggest-religion-by-middle-of-next-decade"
+   }
+  ]
+ }
+}
