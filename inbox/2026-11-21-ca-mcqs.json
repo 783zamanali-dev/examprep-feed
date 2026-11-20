@@ -1,0 +1,137 @@
+{
+ "date": "2026-11-21",
+ "time": "04:03",
+ "part": "ca-mcqs",
+ "mcqs": [
+  {
+   "q": "In November 2026, the government of Pakistan announced a reduction in the price of petrol by how much per litre?",
+   "options": [
+    "Re 1",
+    "Rs 2",
+    "Rs 5",
+    "Rs 10"
+   ],
+   "answer": "A",
+   "explanation": "The government reduced the price of petrol by Re 1 per litre while increasing the price of diesel by Rs 2 per litre effective November 21, 2026. (Story id 5)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Which Pakistani bank received the 'Product Innovation of the Year' award at the 2026 Global SME Finance Awards?",
+   "options": [
+    "Habib Bank Limited",
+    "The Bank of Punjab",
+    "National Bank of Pakistan",
+    "Allied Bank Limited"
+   ],
+   "answer": "B",
+   "explanation": "The Bank of Punjab (BOP) won the Product Innovation of the Year award at the 9th Global SME Finance Awards in Singapore. (Story id 28)",
+   "difficulty": "Medium",
+   "topic": "Appointments and Awards"
+  },
+  {
+   "q": "In November 2026, which country was excluded from the Economic Cooperation Organisation (ECO) Council of Foreign Ministers meeting in Islamabad?",
+   "options": [
+    "Iran",
+    "Afghanistan",
+    "Tajikistan",
+    "Uzbekistan"
+   ],
+   "answer": "B",
+   "explanation": "The Foreign Office confirmed that Afghanistan was not invited to the ECO meeting because Pakistan does not recognize the current Afghan regime. (Story id 13)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "Which two Pakistani schools received international recognition at the World’s Best School Prizes 2026?",
+   "options": [
+    "TNS Beaconhouse (Lahore) and Govt Girls High School Tando Mir Ghulam Hussain (Hyderabad)",
+    "Aitchison College (Lahore) and Karachi Grammar School (Karachi)",
+    "Islamia College (Peshawar) and Burn Hall (Abbottabad)",
+    "Roots School (Islamabad) and City School (Lahore)"
+   ],
+   "answer": "A",
+   "explanation": "TNS Beaconhouse and Govt Girls High School Tando Mir Ghulam Hussain were recognized as leading institutions at the 2026 T4 Education awards. (Story id 30)",
+   "difficulty": "Medium",
+   "topic": "Appointments and Awards"
+  },
+  {
+   "q": "Which Pakistani official attended the SCO Civilisational Dialogue Forum in New Delhi in November 2026?",
+   "options": [
+    "Bilawal Bhutto-Zardari",
+    "Ishaq Dar",
+    "Dr Musadik Malik",
+    "Ahsan Iqbal"
+   ],
+   "answer": "C",
+   "explanation": "Minister for Climate Change Dr Musadik Malik represented Pakistan at the SCO Civilisational Dialogue Forum held in New Delhi. (Story id 25)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "What is the estimated value of Pakistan's natural resources according to Deputy Prime Minister Ishaq Dar in November 2026?",
+   "options": [
+    "$1-2 trillion",
+    "$3-5 trillion",
+    "$8-10 trillion",
+    "$15-20 trillion"
+   ],
+   "answer": "C",
+   "explanation": "Ishaq Dar stated that the most conservative estimate for the value of Pakistan's minerals, hydrocarbons, and natural resources is between $8 and $10 trillion. (Story id 12)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "In November 2026, which law enforcement department killed the mastermind of the Kohat Police Lines attack during an intelligence-based operation?",
+   "options": [
+    "Punjab Police",
+    "Khyber Pakhtunkhwa Counter Terrorism Department",
+    "Federal Investigation Agency",
+    "Elite Force"
+   ],
+   "answer": "B",
+   "explanation": "The Counter Terrorism Department (CTD) of Khyber Pakhtunkhwa conducted the operation in Kohat that resulted in the death of the mastermind behind the earlier police lines attack. (Story id 4)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "According to the National Cyber Crime Investigation Agency (NCCIA), what is the estimated transaction exposure of the uncovered betting and money-laundering network?",
+   "options": [
+    "Rs 100 billion",
+    "Rs 500 billion",
+    "Rs 1 trillion",
+    "Rs 5 trillion"
+   ],
+   "answer": "C",
+   "explanation": "The NCCIA reported that a massive gambling and money-laundering network was uncovered with an estimated exposure of up to Rs 1 trillion. (Story id 9)",
+   "difficulty": "Hard",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Which organization is responsible for tracking Pakistan's short-term inflation via the Sensitive Price Index (SPI)?",
+   "options": [
+    "State Bank of Pakistan",
+    "Pakistan Bureau of Statistics",
+    "Ministry of Finance",
+    "Federal Board of Revenue"
+   ],
+   "answer": "B",
+   "explanation": "The Pakistan Bureau of Statistics (PBS) calculates the weekly Sensitive Price Index (SPI) to track changes in prices for essential commodities. (Story id 19)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Where did Chief of Army Staff Field Marshal Asim Munir visit in November 2026 to discuss security and counter-terrorism efforts?",
+   "options": [
+    "Miranshah",
+    "Lahore",
+    "Islamabad",
+    "Muzaffarabad"
+   ],
+   "answer": "A",
+   "explanation": "Field Marshal Asim Munir visited Miranshah in North Waziristan to assess the security situation and counter-terrorism operations. (Story id 24)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  }
+ ]
+}
