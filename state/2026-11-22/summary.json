@@ -1,0 +1,83 @@
+{
+ "date": "2026-11-22",
+ "time": "04:01",
+ "part": "summary",
+ "summary": {
+  "national": [
+   {
+    "headline": "Ordinances Curtail Privileges of KP Lawmakers",
+    "line": "President Zardari promulgated five ordinances withdrawing several MPAs' privileges, including immunity against preventive detention.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046142/presidential-ordinance-withdraws-most-privileges-of-kp-mpas-including-protection-against-preventive-detention"
+   },
+   {
+    "headline": "Security Forces Kill 15 Terrorists in Mastung",
+    "line": "Security forces eliminated 15 terrorists during two separate intelligence-based operations in Balochistan's Mastung district.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046137/security-forces-kill-15-terrorists-in-balochistans-mastung-district-state-media"
+   },
+   {
+    "headline": "Pakistan Improves Ranking in UN E-Governance Index",
+    "line": "Pakistan jumped 17 places to rank 119th in the United Nations E-Government Development Index for 2026.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046012/pakistan-rises-17-places-in-un-e-governance-ranking"
+   },
+   {
+    "headline": "FCC Curbs Provincial Takeover of Federal Powers",
+    "line": "The Federal Constitutional Court ruled that unexercised federal fiscal authorities do not automatically transfer to provincial control under Article 142.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046013/provinces-cannot-assume-unexercised-federal-powers-fcc"
+   },
+   {
+    "headline": "ECC Approves Export of 416,000 Tonnes of Sugar",
+    "line": "The Economic Coordination Committee approved exporting 416,000 tonnes of sugar despite missing an agreed IMF deregulation benchmark.",
+    "source": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2641490/ecc-allows-416000t-sugar-export"
+   },
+   {
+    "headline": "CDWP Clears Major Development Projects",
+    "line": "The CDWP cleared development projects valued at Rs19.3 billion and forwarded schemes worth Rs172.4 billion to ECNEC for approval.",
+    "source": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2641496/cdwp-approvesrs193b-projects"
+   }
+  ],
+  "international": [
+   {
+    "headline": "Pakistan Labels Climate Change Major Threat at SCO",
+    "line": "Climate Change Minister Musadik Malik urged regional cooperation against global warming during a Shanghai Cooperation Organisation meeting in New Delhi.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046109/at-sco-moot-in-india-musadik-malik-declares-climate-change-enemy-of-civilisations"
+   },
+   {
+    "headline": "EU Proposes Big Tech Levy to Fund Budget",
+    "line": "The European Union presented plans to tax major global digital firms to finance its upcoming budget amid internal fiscal divisions.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046129/eu-proposes-tax-on-big-tech-to-boost-budget"
+   },
+   {
+    "headline": "China Seeks UNSC Sanctions Against BLA",
+    "line": "China called on UN Security Council members to sanction the Balochistan Liberation Army and its Majeed Brigade without political considerations.",
+    "source": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2641558/china-renews-unsc-push-to-sanction-bla-majeed-brigade"
+   },
+   {
+    "headline": "US Sentences Indian Man in Sikh Assassination Plot",
+    "line": "A US court handed Nikhil Gupta nearly 20 years in prison for participating in an Indian-directed plot to murder a Sikh activist.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045984/us-court-hands-indian-national-nikhil-gupta-20-years-for-sikh-murder-plot"
+   },
+   {
+    "headline": "UN Envoys Agree on Path Toward Autonomous Weapons Rules",
+    "line": "Countries reached a preliminary consensus at the United Nations to pursue regulations governing lethal autonomous weapons systems.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046098/countries-open-path-towards-killer-robots-pact"
+   },
+   {
+    "headline": "COP31 Climate Talks Stalled Over Fossil Fuel Language",
+    "line": "UN COP31 negotiations went into overtime after a revised draft agreement omitted commitments on phasing out fossil fuels.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2045986/cop31-runs-into-overtime-over-fossil-fuel-dispute"
+   }
+  ]
+ }
+}
