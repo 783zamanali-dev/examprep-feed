@@ -1,0 +1,107 @@
+{
+ "date": "2026-11-22",
+ "time": "04:03",
+ "part": "dawn-editorial",
+ "cards": [
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046081/rohingya-genocide",
+   "title": "Rohingya genocide",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "International Relations",
+    "Current Affairs"
+   ],
+   "score": 10,
+   "priority": "must_read",
+   "why": "It marks the first time a state has been found guilty of genocide by the International Court of Justice, setting a crucial legal precedent.",
+   "summary": "The International Court of Justice has found Myanmar guilty of genocide against the Rohingya Muslim minority. The historic case was brought forward by the African nation of The Gambia following the military's violent crackdown in Rakhine state in 2017. The court rejected the junta's claim of counterinsurgency and directed Myanmar to compensate victims, punish perpetrators, and grant citizenship to the community. Observers note that the landmark judgment provides legal precedent supporting South Africa's genocide case against Israel.",
+   "key_facts": [
+    "The International Court of Justice ruled that Myanmar's regime is guilty of genocide against the Rohingya minority.",
+    "The landmark legal challenge was lodged at the ICJ by The Gambia.",
+    "The 2017 military assault in Rakhine state resulted in thousands of deaths, including more than 2,000 children under five.",
+    "The ICJ ordered Myanmar to pay compensation to victims and grant full citizenship rights to the Rohingya.",
+    "Legal experts note the verdict strengthens South Africa's genocide petition against Israel regarding Gaza."
+   ],
+   "vocab": [
+    {
+     "word": "extermination",
+     "meaning": "killing or destroying a group completely"
+    },
+    {
+     "word": "counterinsurgency",
+     "meaning": "military action taken to defeat rebels or insurgents"
+    }
+   ],
+   "text": [
+    "NEARLY a decade after the world watched Myanmar’s junta conduct a brutal campaign of extermination and displacement against the Muslim Rohingya minority, the International Court of Justice has ruled that the regime is guilty of genocide. It took a small African state — The Gambia — to lodge a case at the ICJ against Myanmar. Today, because of The Gambia’s courage and moral clarity, this verdict has made history as it is the first time a state has been held guilty of genocide. While calling out a blood-soaked campaign for what it was, the ruling also sets a legal precedent for building a strong case against another genocidal state: Israel. To recall, in 2017 the Myanmar military unleashed massive violence against the Rohingya in Rakhine state, with thousands killed, including over 2,000 children under five, rampant sexual attacks, while hundreds of thousands of Rohingya were forced to flee. The Rohingya have long faced discrimination, with the regime denying most citizenship. The junta claims it had conducted ‘counterinsurgency operations’, a defence rejected by the ICJ.",
+    "Though the ruling grants the Rohingya a moral victory, it is difficult to see the community returning to their homes in Rakhine in an atmosphere of safety, as the junta is currently engaged in a civil war there with Arakan rebels. However, Myanmar should pay compensation, as ordered by the court, to the victims or their survivors, punish those involved in the atrocities, and grant the community full citizenship. The ICJ ruling, legal experts say, is also likely to strengthen South Africa’s genocide case against Israel for what it has done — and is doing — in Gaza. Many scholars of genocide, including UN experts, are convinced that Israel has conducted a genocide in the occupied Palestinian territory. Sadly, just as the international community remained silent while the Rohingya were butchered, a similar silence — punctured by ineffectual criticism — was seen at the height of Israel’s murderous campaign in Gaza, until last year’s ceasefire. The Rohingya have finally received justice after a nightmarish ordeal; the people of Palestine now await justice. Israel needs to be brought to book for its bloodletting in Gaza and the West Bank, while all those foreign states that aided and abetted its crimes must similarly be held to account.",
+    "Published in Dawn, November 21st, 2026"
+   ]
+  },
+  {
+   "image": "https://i.dawn.com/large/2026/08/05081625afdd995.webp",
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046082/reining-it-in",
+   "title": "Reining it in",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Pakistan Affairs",
+    "Governance"
+   ],
+   "score": 7,
+   "priority": "skim",
+   "why": "It illustrates ruling coalition dynamics and friction over administrative restructuring and the creation of new provinces.",
+   "summary": "President Asif Ali Zardari held a meeting with the prime minister and the interior minister to defuse coalition tensions over the new provinces debate. The interaction followed aggressive public speeches by PPP Chairman Bilawal Bhutto-Zardari that signaled potential fractures in the ruling alliance. An official statement noted that both sides agreed to address their differences through dialogue. While direct conflict has been avoided for now, the PML-N has yet to state its official position on administrative restructuring.",
+   "key_facts": [
+    "President Asif Ali Zardari met with the prime minister and interior minister to resolve political tensions.",
+    "The coalition dispute centered on opposing positions regarding the creation of new provinces.",
+    "A readout from the Presidency stated that all outstanding issues would be resolved via dialogue.",
+    "The PML-N has kept its official stance on administrative restructuring unannounced."
+   ],
+   "vocab": [
+    {
+     "word": "elucidated",
+     "meaning": "explained in a clear manner"
+    },
+    {
+     "word": "showdown",
+     "meaning": "a decisive confrontation"
+    }
+   ]
+  },
+  {
+   "source": "Dawn",
+   "url": "https://www.dawn.com/news/2046080/theatre-control",
+   "title": "Theatre control",
+   "author": "Editorial",
+   "section": "Editorial & Opinion",
+   "tags": [
+    "Governance",
+    "Current Affairs"
+   ],
+   "score": 6,
+   "priority": "skim",
+   "why": "It touches upon provincial governance, state censorship mechanisms, and the protection of cultural industries.",
+   "summary": "The Punjab government enacted the Punjab Dramatic and Theatrical Performances Bill 2026 to monitor and censor commercial theatre. The law mandates prior content screening for obscenity and requires organizers to obtain approval fifteen days before any performance. The provincial minister for information and culture defended the law as an attempt to make stage shows family-friendly. Critics maintain that heavy-handed censorship ignores the economic difficulties of artists and calls instead for genuine cultural patronage.",
+   "key_facts": [
+    "The Punjab Dramatic and Theatrical Performances Bill 2026 was passed to regulate local theatre productions.",
+    "The bill mandates official permission 15 days before events and requires script reviews for obscenity or inflammatory content.",
+    "The provincial minister for information and culture stated the law aims to regulate rather than prohibit performances.",
+    "Indigenous Punjabi theatre draws from folk traditions but faces commercial pressure due to an absence of state funding."
+   ],
+   "vocab": [
+    {
+     "word": "bawdiness",
+     "meaning": "humor that is vulgar or indecent"
+    },
+    {
+     "word": "derision",
+     "meaning": "ridicule or mockery"
+    }
+   ]
+  }
+ ]
+}
