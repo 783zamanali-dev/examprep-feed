@@ -1,0 +1,137 @@
+{
+ "date": "2026-11-23",
+ "time": "04:03",
+ "part": "ca-mcqs",
+ "mcqs": [
+  {
+   "q": "In November 2026, which country hosted the 15th annual meeting of the International Network for Nuclear Security Training and Support Centres (NSSC Network)?",
+   "options": [
+    "Turkiye",
+    "Australia",
+    "Pakistan",
+    "Iran"
+   ],
+   "answer": "C",
+   "explanation": "Pakistan hosted the 15th annual meeting of the NSSC Network in Islamabad from November 23 to 26, 2026, in collaboration with the IAEA. (Story id 16)",
+   "difficulty": "Easy",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "On January 1, 2027, which Pakistani commission is set to transition to a fully online document attestation service?",
+   "options": [
+    "Higher Education Commission (HEC)",
+    "Inter Boards Coordination Commission (IBCC)",
+    "Federal Board of Intermediate and Secondary Education (FBISE)",
+    "National Vocational and Technical Training Commission (NAVTTC)"
+   ],
+   "answer": "B",
+   "explanation": "The Inter Boards Coordination Commission (IBCC) will launch a fully online attestation service on January 1, 2027, removing the need for physical visits or courier submissions. (Story id 5)",
+   "difficulty": "Easy",
+   "topic": "Science and Technology"
+  },
+  {
+   "q": "Which of the following bodies is the founder of the NSSC Network that held its annual meeting in Islamabad in November 2026?",
+   "options": [
+    "United Nations Security Council",
+    "International Atomic Energy Agency (IAEA)",
+    "Nuclear Suppliers Group",
+    "World Health Organization"
+   ],
+   "answer": "B",
+   "explanation": "The IAEA establishes Nuclear Security Training and Support Centres in collaboration with member states to form the NSSC Network. (Story id 16)",
+   "difficulty": "Medium",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "What was the primary reason for the collapse of the COP31 climate talks in November 2026?",
+   "options": [
+    "A lack of venue for future summits",
+    "Deep divisions over transitioning away from fossil fuels and climate-finance support",
+    "The withdrawal of the United Nations from the climate process",
+    "A sudden economic crisis in the host country of Australia"
+   ],
+   "answer": "B",
+   "explanation": "Negotiations failed because countries could not agree on commitments to move away from fossil fuels or provide sufficient climate-finance support for developing nations. (Story id 20)",
+   "difficulty": "Medium",
+   "topic": "Environment"
+  },
+  {
+   "q": "In November 2026, which Gulf country signed an agreement to supply petroleum products and a $200 million credit facility to Pakistan State Oil?",
+   "options": [
+    "Saudi Arabia",
+    "Qatar",
+    "United Arab Emirates",
+    "Oman"
+   ],
+   "answer": "D",
+   "explanation": "Pakistan and Oman signed a Sale and Purchase Agreement for petroleum products, alongside a $200 million credit line for Pakistan State Oil. (Story id 12)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "How many Indian Sikh pilgrims arrived in Pakistan through the Wagah Border on November 22, 2026, for the 557th birth anniversary of Baba Guru Nanak Dev Ji?",
+   "options": [
+    "Over 2,300",
+    "Over 3,100",
+    "Exactly 5,000",
+    "Approximately 1,500"
+   ],
+   "answer": "A",
+   "explanation": "A total of 2,339 Indian Sikh pilgrims arrived in Pakistan on November 22 to participate in the birth anniversary celebrations. (Story id 4)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "Which city recorded an hourly Air Quality Index (AQI) reading of over 500 on the morning of November 22, 2026, making it the most polluted major city globally?",
+   "options": [
+    "Delhi",
+    "Karachi",
+    "Cairo",
+    "Lahore"
+   ],
+   "answer": "D",
+   "explanation": "Lahore topped the world's most polluted major city ranking on Sunday morning with an hourly AQI of 538. (Story id 30)",
+   "difficulty": "Easy",
+   "topic": "Environment"
+  },
+  {
+   "q": "In November 2026, which official visited Pakistan to hold delegation-level talks and attend the inaugural Pakistan-Portugal Business Forum?",
+   "options": [
+    "The Portuguese Foreign Minister",
+    "The Australian Prime Minister",
+    "The Turkish Minister of Energy",
+    "The German Chancellor"
+   ],
+   "answer": "A",
+   "explanation": "Minister of State and Foreign Affairs of Portugal Paulo Rangel arrived in Pakistan on November 22 for a two-day official visit. (Story id 8)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Foreign Policy"
+  },
+  {
+   "q": "Which Pakistani sports team defeated India A by 48 runs in the Asia Cup Rising Stars clash in Doha in November 2026?",
+   "options": [
+    "Pakistan National Team",
+    "Pakistan Shaheens",
+    "Pakistan U-19",
+    "Pakistan A-Eleven"
+   ],
+   "answer": "B",
+   "explanation": "The Pakistan Shaheens defeated India A in the Asia Cup Rising Stars match held in Doha. (Story id 3)",
+   "difficulty": "Medium",
+   "topic": "Appointments and Awards"
+  },
+  {
+   "q": "What specific measure was removed by the presidential ordinance promulgated in November 2026 regarding the privileges of Khyber Pakhtunkhwa MPAs?",
+   "options": [
+    "Protection against preventive detention",
+    "Salaries and allowances",
+    "Right to introduce bills in the assembly",
+    "Exemption from travel taxes"
+   ],
+   "answer": "A",
+   "explanation": "The ordinance withdrew several privileges of KP lawmakers, most notably the protection against preventive detention. (Story id 32)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  }
+ ]
+}
