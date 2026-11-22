@@ -1,0 +1,83 @@
+{
+ "date": "2026-11-23",
+ "time": "04:00",
+ "part": "summary",
+ "summary": {
+  "national": [
+   {
+    "headline": "Evidence-based talks with India",
+    "line": "Federal minister Musadik Malik stated that any future dialogue with India regarding terrorism must be founded on credible evidence.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046343/any-talks-with-india-on-terrorism-must-be-evidence-based-says-musadik-malik"
+   },
+   {
+    "headline": "Online document attestation by IBCC",
+    "line": "Starting January 1, 2027, the IBCC will launch an online system, removing the requirement for students to visit offices or use couriers.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046341/ibcc-plans-fully-online-attestation-from-jan-1-ending-office-visits-and-courier-submissions"
+   },
+   {
+    "headline": "Portuguese Foreign Minister visits Pakistan",
+    "line": "Paulo Rangel arrived in Pakistan for a two-day official visit upon the invitation of Deputy Prime Minister Ishaq Dar.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046304/portuguese-foreign-minister-arrives-in-pakistan-for-official-visit-fo"
+   },
+   {
+    "headline": "Oman and Pakistan energy pact",
+    "line": "Pakistan and Oman signed an agreement for petroleum supplies and a $200 million credit facility to help diversify energy sources.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046330/oman-petroleum-products-200m-credit-to-pso-new-agreement"
+   },
+   {
+    "headline": "Pakistan hosts IAEA nuclear network meeting",
+    "line": "Islamabad is hosting the 15th annual meeting of the International Network for Nuclear Security Training and Support Centres until November 26.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046329/pakistan-to-host-annual-meeting-of-iaea-nuclear-security-network-from-nov-23-26"
+   },
+   {
+    "headline": "Ordinances reduce KP lawmaker privileges",
+    "line": "President Zardari issued five ordinances removing several privileges of KP MPAs, including their protection from preventive detention.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046142/presidential-ordinance-withdraws-most-privileges-of-kp-mpas-including-protection-against-preventive-detention"
+   },
+   {
+    "headline": "Textile exports grow",
+    "line": "Pakistan's textile and clothing exports increased by 6.35 percent to $6.797 billion during the first four months of the current fiscal year.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046182/textile-exports-rise-635pc-in-july-october"
+   }
+  ],
+  "international": [
+   {
+    "headline": "COP31 climate talks fail",
+    "line": "UN climate negotiations collapsed after the European Union and other parties rejected a draft deal they considered insufficient to combat global warming.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046327/cop31-climate-talks-collapse-as-eu-and-others-reject-deal"
+   },
+   {
+    "headline": "Pakistani citizen injured in Bahrain attack",
+    "line": "A Pakistani national was among two people wounded in recent Iranian attacks on Bahrain, amid escalating regional tensions.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046321/pakistani-among-two-injured-in-iranian-attacks-bahrain-says"
+   },
+   {
+    "headline": "US court summons Indian officials",
+    "line": "A US federal court issued summons for India’s National Security Adviser and a former intelligence chief regarding an alleged murder conspiracy.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046196/summonses-for-indias-security-czar-ex-spymaster-sent-to-delhi-court"
+   },
+   {
+    "headline": "US seeks permanent Iran deal",
+    "line": "President Trump expressed his intent to secure a permanent agreement with Iran as regional tensions continue to impact the Strait of Hormuz.",
+    "source": "Dawn",
+    "url": "https://www.dawn.com/news/2046200/trump-intends-to-secure-permanent-deal-with-iran"
+   },
+   {
+    "headline": "Houthis claim refinery attack",
+    "line": "Yemen's Houthi rebels claimed they attacked a Saudi oil refinery, while the Saudi-led coalition reported intercepting a drone.",
+    "source": "The Express Tribune",
+    "url": "https://tribune.com.pk/story/2641660/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-targeting-western-saudi-arabia"
+   }
+  ]
+ }
+}
