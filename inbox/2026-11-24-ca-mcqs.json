@@ -1,0 +1,358 @@
+{
+ "date": "2026-11-24",
+ "time": "19:42",
+ "part": "ca-mcqs",
+ "mcqs": [
+  {
+   "q": "Which country is launching the Shenzhou-24 space mission, which will carry the first Pakistani astronaut?",
+   "options": [
+    "A) United States",
+    "B) Russia",
+    "C) China",
+    "D) European Union"
+   ],
+   "answer": "C",
+   "explanation": "China is launching its Shenzhou-24 space mission, which includes Pakistani astronaut Zeeshan Ali, making him the first Pakistani to go on an orbital space mission. (Story 1)",
+   "difficulty": "Easy",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "What is Zeeshan Ali's designated role aboard China’s Shenzhou-24 space mission?",
+   "options": [
+    "A) Mission Commander",
+    "B) Mission Pilot",
+    "C) Payload Specialist",
+    "D) Flight Engineer"
+   ],
+   "answer": "C",
+   "explanation": "According to the China Manned Space Agency, Zeeshan Ali will serve as a payload specialist during the Shenzhou-24 space mission. (Story 1)",
+   "difficulty": "Medium",
+   "topic": "Science and Technology"
+  },
+  {
+   "q": "Which space station will Zeeshan Ali be the first foreign national to visit?",
+   "options": [
+    "A) International Space Station (ISS)",
+    "B) Tiangong space station",
+    "C) Mir space station",
+    "D) Gateway lunar outpost"
+   ],
+   "answer": "B",
+   "explanation": "Zeeshan Ali will be the first foreign national to board Beijing’s Tiangong space station. (Story 1)",
+   "difficulty": "Medium",
+   "topic": "Science and Technology"
+  },
+  {
+   "q": "What is the maximum reward announced by the Balochistan government for information on most-wanted terrorists?",
+   "options": [
+    "A) Rs50 million",
+    "B) Rs100 million",
+    "C) Rs200 million",
+    "D) Rs250 million"
+   ],
+   "answer": "D",
+   "explanation": "The Balochistan government has announced rewards of up to Rs250 million for providing authentic information about most-wanted terrorists in the province. (Story 2)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Which two Constitutional Amendments do members of the legal fraternity and civil society want repealed, as of November 2026?",
+   "options": [
+    "A) 18th and 19th Amendments",
+    "B) 20th and 21st Amendments",
+    "C) 26th and 27th Amendments",
+    "D) 24th and 25th Amendments"
+   ],
+   "answer": "C",
+   "explanation": "A group of 100 individuals from the legal community and civil society have called for the repeal of the 26th and 27th Constitutional Amendments. (Story 4)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "When was the 27th Constitutional Amendment enacted in Pakistan?",
+   "options": [
+    "A) October 2024",
+    "B) November 2025",
+    "C) December 2023",
+    "D) January 2026"
+   ],
+   "answer": "B",
+   "explanation": "The 27th Constitutional Amendment was enacted in November 2025, according to the article. (Story 4)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Which Pakistani body is establishing separate sales tax zones in Karachi, Lahore, Islamabad, and Multan?",
+   "options": [
+    "A) State Bank of Pakistan (SBP)",
+    "B) Ministry of Finance",
+    "C) Federal Board of Revenue (FBR)",
+    "D) Pakistan Bureau of Statistics (PBS)"
+   ],
+   "answer": "C",
+   "explanation": "The Federal Board of Revenue (FBR) is establishing separate sales tax zones in Karachi, Lahore, Islamabad, and Multan to improve collection. (Story 6)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Economy"
+  },
+  {
+   "q": "Which international conference recently collapsed without a deal, the first since the 2009 Copenhagen Summit?",
+   "options": [
+    "A) COP29",
+    "B) COP30",
+    "C) COP31",
+    "D) COP32"
+   ],
+   "answer": "C",
+   "explanation": "Climate negotiations at COP31 in Antalya recently collapsed, marking the first climate conference to end without a deal since the 2009 Copenhagen Summit. (Story 7)",
+   "difficulty": "Easy",
+   "topic": "Environment"
+  },
+  {
+   "q": "What was the main sticking point that led to the collapse of climate negotiations at COP31?",
+   "options": [
+    "A) Lack of commitment to climate finance",
+    "B) Disagreement over carbon pricing mechanisms",
+    "C) Phasing out of fossil fuels",
+    "D) Dispute over renewable energy targets"
+   ],
+   "answer": "C",
+   "explanation": "The main point of contention at COP31 was the phasing out of fossil fuels, which was omitted from the draft agreement due to pressure from petro-states. (Story 7)",
+   "difficulty": "Easy",
+   "topic": "Environment"
+  },
+  {
+   "q": "In November 2026, which Hamas official, serving as director of internal security, was killed in an Israeli airstrike in Gaza?",
+   "options": [
+    "A) Ismail Haniyeh",
+    "B) Yahya Sinwar",
+    "C) Brigadier General Naeem Abu Nahal",
+    "D) Mohammed Deif"
+   ],
+   "answer": "C",
+   "explanation": "Palestinian officials reported that Israeli airstrikes in Gaza killed seven people, including Brigadier General Naeem Abu Nahal, Hamas’s director of internal security. (Story 8)",
+   "difficulty": "Medium",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "Which late Pope recounted seeing the devil three times and the 'gate of hell' in excerpts from his personal diary?",
+   "options": [
+    "A) Pope John Paul II",
+    "B) Pope Benedict XVI",
+    "C) Pope Francis",
+    "D) Pope Leo XIV"
+   ],
+   "answer": "C",
+   "explanation": "The late Pope Francis, who died in 2025, recounted seeing the devil three times and the 'gate of hell' in excerpts from his personal diary. (Story 9, Story 27)",
+   "difficulty": "Easy",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "Which country's military aircraft breached South Korea’s air defence identification zone (KADIZ) in November 2026?",
+   "options": [
+    "A) North Korea",
+    "B) China",
+    "C) Japan",
+    "D) Russia"
+   ],
+   "answer": "D",
+   "explanation": "South Korean authorities reported that several Russian military aircraft had breached its air defence identification zone (KADIZ) over the East Sea. (Story 10)",
+   "difficulty": "Easy",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "In November 2026, who serves as Pakistan's Interior Minister?",
+   "options": [
+    "A) Rana Sanaullah",
+    "B) Ahsan Iqbal",
+    "C) Mohsin Naqvi",
+    "D) Bilawal Bhutto-Zardari"
+   ],
+   "answer": "C",
+   "explanation": "Mohsin Naqvi is the Interior Minister of Pakistan. He addressed a seminar on freedom of speech and its limits. (Story 11, Story 23)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Which of the following is identified by Pakistan's Interior Minister as a 'red line' for freedom of speech?",
+   "options": [
+    "A) Political dissent",
+    "B) Criticism of government policies",
+    "C) Incitement to violence",
+    "D) Satirical content"
+   ],
+   "answer": "C",
+   "explanation": "Interior Minister Mohsin Naqvi stated that 'incitement to violence' is one of the four 'red lines' for the state, alongside terrorism, hate speech, and sexual exploitation of children. (Story 11, Story 23)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Which fast bowler was directly signed by Islamabad United for the 12th edition of the Pakistan Super League (PSL)?",
+   "options": [
+    "A) Adil Rashid",
+    "B) Lance Morris",
+    "C) Matt Henry",
+    "D) Kamindu Mendis"
+   ],
+   "answer": "C",
+   "explanation": "Islamabad United announced the direct signing of New Zealand fast bowler Matt Henry for PSL 12. (Story 15)",
+   "difficulty": "Easy",
+   "topic": "Appointments and Awards"
+  },
+  {
+   "q": "Which leg-spinner was directly signed by Karachi Kings for the 12th edition of the Pakistan Super League (PSL)?",
+   "options": [
+    "A) Rashid Khan",
+    "B) Adil Rashid",
+    "C) Shadab Khan",
+    "D) Usama Mir"
+   ],
+   "answer": "B",
+   "explanation": "Karachi Kings secured the services of England leg-spinner Adil Rashid as their marquee direct signing for PSL 12. (Story 15)",
+   "difficulty": "Easy",
+   "topic": "Appointments and Awards"
+  },
+  {
+   "q": "Into which prestigious Hall of Fame was Pakistan’s Chief of Defence Forces (CDF) and Chief of the Army Staff Field Marshal Asim Munir inducted in November 2026?",
+   "options": [
+    "A) Royal United Services Institute (RUSI) Hall of Fame",
+    "B) Malaysian Armed Forces College Hall of Fame",
+    "C) Malaysia’s National Defence Studies Centre Hall of Fame",
+    "D) Asia-Pacific Centre for Security Studies Hall of Fame"
+   ],
+   "answer": "C",
+   "explanation": "Prime Minister Shehbaz Sharif congratulated CDF Field Marshal Asim Munir on his induction into the Hall of Fame at Malaysia’s National Defence Studies Centre. (Story 16)",
+   "difficulty": "Medium",
+   "topic": "Appointments and Awards"
+  },
+  {
+   "q": "Which international cricket body has no plans to reverse the permanent ban on applying saliva to shine the ball?",
+   "options": [
+    "A) Marylebone Cricket Club (MCC)",
+    "B) International Cricket Council (ICC)",
+    "C) Board of Control for Cricket in India (BCCI)",
+    "D) Cricket Australia (CA)"
+   ],
+   "answer": "B",
+   "explanation": "The International Cricket Council (ICC) has no plans to reverse the ban on applying saliva to shine the ball, which was made permanent in 2022. (Story 20)",
+   "difficulty": "Easy",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "Which court did Pakistan Tehreek-i-Insaf (PTI) approach for a live broadcast of the appeal proceedings in the Al-Qadir Trust case?",
+   "options": [
+    "A) Supreme Court of Pakistan",
+    "B) Lahore High Court",
+    "C) Islamabad High Court",
+    "D) Peshawar High Court"
+   ],
+   "answer": "C",
+   "explanation": "The PTI filed a petition in the Islamabad High Court (IHC) seeking a live broadcast of the appeal proceedings in the £190 million Al-Qadir Trust case. (Story 21)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Which article of the Constitution of Pakistan does PTI invoke in its petition for live broadcast of the Al-Qadir Trust case proceedings?",
+   "options": [
+    "A) Article 9 (Security of person)",
+    "B) Article 10-A (Right to fair trial)",
+    "C) Article 19 (Freedom of speech)",
+    "D) Article 19-A (Right to information)"
+   ],
+   "answer": "D",
+   "explanation": "The PTI's petition invokes Article 19-A of the Constitution, which guarantees citizens the right to access information on matters of public importance. (Story 21)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Which CEO returned to lead Nvidia in November 2026, causing tech firms to soar?",
+   "options": [
+    "A) Elon Musk",
+    "B) Jensen Huang",
+    "C) Satya Nadella",
+    "D) Tim Cook"
+   ],
+   "answer": "B",
+   "explanation": "Jensen Huang was reinstated as Nvidia boss less than two weeks after stepping down, causing technology firms to surge globally. (Story 24, Story 25)",
+   "difficulty": "Easy",
+   "topic": "Appointments and Awards"
+  },
+  {
+   "q": "In November 2026, which ousted Bangladeshi Prime Minister plans to return home from exile in India?",
+   "options": [
+    "A) Khaleda Zia",
+    "B) Sheikh Hasina",
+    "C) Begum Rokeya",
+    "D) Jahanara Imam"
+   ],
+   "answer": "B",
+   "explanation": "Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from more than two years of exile in India on December 16, 2026. (Story 30)",
+   "difficulty": "Easy",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "Which country is currently holding Sheikh Hasina in exile, as of November 2026?",
+   "options": [
+    "A) Pakistan",
+    "B) Myanmar",
+    "C) Nepal",
+    "D) India"
+   ],
+   "answer": "D",
+   "explanation": "Sheikh Hasina, the ousted Bangladeshi Prime Minister, has been in exile in India for more than two years. (Story 30)",
+   "difficulty": "Easy",
+   "topic": "International Affairs"
+  },
+  {
+   "q": "Which road connects Khyber Pakhtunkhwa with Gilgit-Baltistan via Babusar Top and was closed to traffic until next summer?",
+   "options": [
+    "A) Karakoram Highway (KKH)",
+    "B) National Highway 5 (N-5)",
+    "C) Mansehra-Naran-Jalkhad (MNJ) Road",
+    "D) Indus Highway (N-55)"
+   ],
+   "answer": "C",
+   "explanation": "The Mansehra-Naran-Jalkhad (MNJ) Road, which connects Khyber Pakhtunkhwa with Gilgit-Baltistan via Babusar Top, has been closed to traffic due to heavy snowfall. (Story 31)",
+   "difficulty": "Medium",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "Which agreement is the Israeli army accused of violating with airstrikes and artillery shelling in southern Lebanon?",
+   "options": [
+    "A) Oslo Accords",
+    "B) Camp David Accords",
+    "C) US-mediated framework agreement",
+    "D) Taif Agreement"
+   ],
+   "answer": "C",
+   "explanation": "Lebanese media reported that the Israeli army launched airstrikes and artillery attacks across southern Lebanon, violating a US-mediated framework agreement. (Story 32)",
+   "difficulty": "Medium",
+   "topic": "Organisations and Treaties"
+  },
+  {
+   "q": "What is the age range for young people to initially benefit from the Sindh Youth Card initiative?",
+   "options": [
+    "A) 12 to 25",
+    "B) 15 to 29",
+    "C) 18 to 35",
+    "D) 20 to 40"
+   ],
+   "answer": "B",
+   "explanation": "The Sindh Youth Card initiative will initially benefit 100,000 young people aged 15 to 29. (Story 33)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Politics"
+  },
+  {
+   "q": "What is the initial number of young people expected to benefit from the first phase of the Sindh Youth Card program?",
+   "options": [
+    "A) 50,000",
+    "B) 75,000",
+    "C) 100,000",
+    "D) 200,000"
+   ],
+   "answer": "C",
+   "explanation": "Registration for the Sindh Youth Card program began across 30 districts, with an initial plan to benefit 100,000 young people. (Story 33)",
+   "difficulty": "Easy",
+   "topic": "Pakistan: Politics"
+  }
+ ]
+}
